@@ -1,0 +1,28 @@
+baseURL = "https://rend.al/"
+languageCode = "en-us"
+title = "Rasmus Rendal"
+theme = "vitae"
+[params]
+avatar = "/img/me.jpg"
+subtitle = "Nested for loops go brrrr"
+math = true
+
+[[menu.main]]
+name = "Projects"
+url = "/projects"
+weight = 5
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 5
+
+[[params.social]]
+name = "RSS"
+icon = "fas fa-rss"
+url = "/index.xml"
+
+[[params.social]]
+name = "Github"
+icon = "fab fa-github"
+url = "https://github.com/RasmusRendal"

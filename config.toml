@@ -1,4 +1,4 @@
-baseURL = "https://rend.al/"
+baseURL = "https://rasmus.rend.al/"
 languageCode = "en-us"
 title = "Rasmus Rendal"
 theme = "vitae"

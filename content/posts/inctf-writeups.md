@@ -46,7 +46,7 @@ $$ c_i \equiv x^{r^2} x^{i} r^2\ (\mathrm{mod}\ N) $$
 If you look closely at this equation, you can see that the first and third term of the product on the right-hand side are squares, and are therefore both quadratic residues. \\(x^i\\) will be \\(x\\) if \\(i=1\\), and \\(1\\) if \\(i=0\\).
 Since, in modular arithmetic, multiplying two quadratic residues produces another quadratic residue, if \\(c_i\\) is a quadratic residues, then \\(i\\) must be \\(0\\), and vice versa.
 
-Since \\(N\\) is a composite number, the way to tell whether any number modulo \\(N\\) is a square residue is the Kronecker symbol.
+Since \\(N\\) is a composite number, the way to tell whether any number modulo \\(N\\) is a quadratic residue is the Kronecker symbol.
 The Kronecker symbol is in sagemath, so the solver script just looks as follows:
 ```python
 from Crypto.Util.number import long_to_bytes

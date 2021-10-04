@@ -7,10 +7,13 @@ I'm pretty good at learning x86_64 assembly.
 I've done it more times than I can count.
 But now I've reached the point where I would like to stop learning assembly, and just have a good reference for assembly.
 But I couldn't find one, so I made a reference for assembly.
-This is a work in progress. The ambition is that, when I find myself having to look up something to much, I will add it here.
-This is meant to be a quick reference, rather than a complete one.
+
+This reference is a work in progress, and will be continuously updated as I find myself looking up stuff. 
 
 ## General Purpose Registers
+The following are the "general purpose" registers for x86_64.
+The calling convention describes the convention for *nix systems.
+All registers not denoted "Callee Saved" are caller saved, if required.
 | Quadword | Doubleword | Word | Byte | Calling Convention           |
 | -------- | ---------- | ---- | ---- | ---------------------------  |
 | rax      | eax        | ax   | al   | Return Value                 |
@@ -23,8 +26,8 @@ This is meant to be a quick reference, rather than a complete one.
 | rsp      | esp        | sp   | spl  | Stack Pointer (Callee Saved) |
 | r8       | r8d        | r8w  | r8b  | Argument 5                   |
 | r9       | r9d        | r9w  | r9b  | Argument 6                   |
-| r10      | r10d       | r10w | r10b | Caller Saved                 |
-| r11      | r11d       | r11w | r11b | Caller Saved                 |
+| r10      | r10d       | r10w | r10b |                              |
+| r11      | r11d       | r11w | r11b |                              |
 | r12      | r12d       | r12w | r12b | Callee Saved                 |
 | r13      | r13d       | r13w | r13b | Callee Saved                 |
 | r14      | r14d       | r14w | r14b | Callee Saved                 |
@@ -33,6 +36,7 @@ This is meant to be a quick reference, rather than a complete one.
 ## rFlags
 The rFlags register is a special register that contains information about the status of, amongst other things, arithmetic operations.
 It is used a lot in, for instance, control flow operations.
+Many of them are "system registers", which I haven't had a reason to care about yet, and therefore are not included.
 
 | Bit  | Mnemonic | Description         |
 | ---- | -------- | -----------         |
@@ -56,11 +60,14 @@ This flag is also set by the `test` and `cmp` instructions.
 
 ## Instructions
 ### cbw/cwde/cdqe
-These instructions sign extend `al` into `ax`, `ax` into `eax`, and `eax` into `rax`, respectively.
+These instructions [sign extend](https://en.wikipedia.org/wiki/Sign_extension) `al` into `ax`, `ax` into `eax`, and `eax` into `rax`, respectively.
 ### mov
 First of all, [`mov`](https://github.com/xoreaxeaxeax/movfuscator) is Turing-complete.
 So keep this in mind before stepping into this particular hell.
  * The `zx` affix means that the `mov` does sign extension
+### jmp
+The `jmple`, `jmpge`, etc. are computed based on the information in rFlags.
+Things like `jmple` can be computed by combining the information from the carry flag and the zero flag.
 
 ## Mistakes
 If you found something wrong, or a notable omission, I would love to hear it. Please, send me an [e-mail](mailto:rasmus@rend.al).

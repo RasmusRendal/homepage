@@ -68,6 +68,7 @@ So keep this in mind before stepping into this particular hell.
 ### jmp
 The `jmple`, `jmpge`, etc. are computed based on the information in rFlags.
 Things like `jmple` can be computed by combining the information from the carry flag and the zero flag.
+While `jmple` and `jmpge` are mnemonics for "jump less than or equal" and "jump greater than or equal", there are also `jmpbe`, `jmpae` and friends, which treat the operands as unsigned numbers.
 
 ## Mistakes
 If you found something wrong, or a notable omission, I would love to hear it. Please, send me an [e-mail](mailto:rasmus@rend.al).

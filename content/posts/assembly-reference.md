@@ -69,6 +69,12 @@ So keep this in mind before stepping into this particular hell.
 The `jmple`, `jmpge`, etc. are computed based on the information in rFlags.
 Things like `jmple` can be computed by combining the information from the carry flag and the zero flag.
 While `jmple` and `jmpge` are mnemonics for "jump less than or equal" and "jump greater than or equal", there are also `jmpbe`, `jmpae` and friends, which treat the operands as unsigned numbers.
+### syscall
+Syscalls are how programs interact with the kernel.
+Syscalls have their own calling convention, separate from procedure calls.
+Each syscall has its own [number](https://github.com/torvalds/linux/blob/master/arch/x86/entry/syscalls/syscall_64.tbl), which is put into the `rax` register.
+The arguments are put into the registers `rdi`, `rsi`, `rdx`, `r10`, `r8` and `r9`, and the values of `rcx` and `r11` are destroyed.
+`rax` is used as the return value.
 
 ## Mistakes
 If you found something wrong, or a notable omission, I would love to hear it. Please, send me an [e-mail](mailto:rasmus@rend.al).
@@ -76,3 +82,4 @@ If you found something wrong, or a notable omission, I would love to hear it. Pl
 # Sources / Further Information:
  * [Wikipedia: X86 calling convention](https://en.wikipedia.org/wiki/X86_calling_conventions)
  * [AMD64 Architecture Programmer's Manual](https://www.amd.com/en/support/tech-docs/amd64-architecture-programmers-manual-volumes-1-5)
+ * [System V Application Binary Interface](https://refspecs.linuxfoundation.org/elf/x86_64-abi-0.99.pdf)

@@ -1,9 +1,15 @@
-with import <nixpkgs> {};
-
-stdenv.mkDerivation {
+{ pkgs ? import <nixpkgs> { } }:
+pkgs.stdenv.mkDerivation {
   name = "homepage";
   src = ./.;
 
-  buildInputs = [ hugo ];
+  buildInputs = [ pkgs.hugo ];
 
+
+  buildPhase = "hugo";
+
+  installPhase = ''
+    mkdir -p $out;
+    mv public/* $out/;
+  '';
 }

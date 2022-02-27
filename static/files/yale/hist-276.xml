@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>France Since 1871</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor John Merriman</itunes:author>
+    <description>&lt;p&gt;This course covers the emergence of modern France. Topics include the social, economic, and political transformation of France; the impact of France’s revolutionary heritage, of industrialization, and of the dislocation wrought by two world wars; and the political response of the Left and the Right to changing French society.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/merriman1_2.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/history/hist-276</link>
+        <item>
+      <title> - Introduction</title>
+      <description>&lt;p&gt;Professor Merriman lists the books on the syllabus, and offers a brief &lt;em&gt;précis&lt;/em&gt; of each of them. Three of the principal themes of the course will be national identity, linguistic identity, and the consequences of the two world wars. Although the course will consider some well-known historical figures, such as Hitler and de Gaulle, it will also examine the individual histories of ordinary people.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_01_090507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - Centralized State and Republic</title>
+      <description>&lt;p&gt;Despite various attempts at reform, France remains the most centralized state in Europe. The organization of the country around the Parisian center was originally a consequence of the French Revolution, which gave birth to the departmental regions. These regions have retained an oppositional relationship towards the metropolitan center. In 1875, an enduring republic was formed despite the competing claims of the Comte de Chambord and the Orleanists. This republic owed its founding largely to support from workers and peasants in the various non-Parisian departments.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_03_091207.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - The Waning of Religious Authority</title>
+      <description>&lt;p&gt;Religion in France after the Revolution can be understood in terms of two forms of de-Christianization. The first of these is political, and takes place in the &lt;em&gt;de jure&lt;/em&gt; separation of church and state. The second is a decline in religious practice among individual citizens. While the history of the former change is well documented, the latter is a more ambiguous phenomenon. Despite the statistical decline in religious participation in the nineteenth and twentieth centuries, Catholicism in particular continues to play a significant role in the cultural imagination, or &lt;em&gt;imaginaire&lt;/em&gt;, of many French people.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_05_091907.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Workshop and Factory</title>
+      <description>&lt;p&gt;The Industrial Revolution in France is often said to have been entirely overshadowed by British industrial development. This analysis is inaccurate because it ignores the significance of domestic and other non-factory occupations. Indeed, it was the class of artisan workers, rather than industrial factory workers, who were first responsible for the organization of labor movements. One of the great innovations of the factory was the imposition of industrial discipline, against which many workers rebelled, often in the form of strikes.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_06_092407.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Mass Politics and the Political Challenge from the Left</title>
+      <description>&lt;p&gt;The history of socialism in France can be understood in terms of the competition between revolutionary socialists and reform socialists. The former advocated abandoning electoral politics, while the latter attempted to improve conditions for workers by means of reforms within the political system. These two attitudes found figureheads in Jules Guesdes and Paul Brousse, respectively. Reform socialists and revolutionary socialists are united under the leadership of Jean Jaures, whose organizing efforts define and influence French socialism well into the twentieth century.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_07_092607.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - Dynamite Club: The Anarchists</title>
+      <description>&lt;p&gt;Anarchists, unlike syndicalists and other leftists, seek to destroy the state rather than to capture state power for themselves. Emile Henry and other late nineteenth-century radicals inaugurated the modern practice of terrorism in their individualism and their indiscriminate choice of civilian targets. Despite the terrifying consequences of individual acts of terrorism, these pale in comparison to the consequences of state terrorism.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_08_100107.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - General Boulanger and Captain Dreyfus</title>
+      <description>&lt;p&gt;Two of the major crises of nineteenth-century France, the Boulanger Affair and the Dreyfus Affair, can be understood in terms of the rising forces of anti-Semitism and Far Right politics. The German conquest of Alsace and Lorraine, in particular, fueled nationalist and right-wing sentiments, especially in rural France. Political orientations and prejudices were formed by the popular media of the time, such as illustrated periodicals and patriotic songs.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_09_100307.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Cafés and the Culture of Drink</title>
+      <description>&lt;p&gt;Because drinking is such an integral part of French culture, alcohol abuse has been historically ignored. Although there have been celebrated attempts to address this problem, such as Zola &lt;em&gt;L’Assomoir&lt;/em&gt;, it is only in the past five or ten years that the government has seriously tried to tackle the problem of alcoholism. One of the major ways in which alcohol is embedded in the cultural identity of the country is the close association of certain wines and liquors with their regions of production. Likewise, different types of bars serve as loci for social interaction, and have always played a central role in rural as well as urban life.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_10_100807.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Paris and the Belle Époque</title>
+      <description>&lt;p&gt;Modern Paris was indelibly shaped by the rebuilding project ordered by Napoleon III and carried out by Baron Haussmann in the 1850s and ’60s. The large-scale demolition of whole neighborhoods in central Paris, coupled with a boom in industrial development outside the city, cemented a class division between center and periphery that has persisted into the twenty-first century. Curiously, this division is the obverse of the arrangement of most American cities, in which the inner city is typically impoverished while the suburbs are wealthy.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_11_101007.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - French Imperialism (Guest Lecture by Charles Keith)</title>
+      <description>&lt;p&gt;France’s colonial properties were thought of in the latter half of the nineteenth century as consolation for the bitter loss of Alsace and Lorraine to Germany. As civilian administrators came to replace military personnel in the colonies, and as more and more French settlers arrived, empire and colonialism came to play an important function in France’s cultural self-presentation. World War I heralded the eventual decline of the French empire, a decline realized at the hands of the colonized subjects themselves.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_12_101507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - The Origins of World War I</title>
+      <description>&lt;p&gt;The traditional, diplomatic history of World War I is helpful in understanding how a series of hitherto improbable alliances come to be formed in the early years of the twentieth century. In the case of France and Russia, this involves a significant ideological compromise. Along with the history of imperial machinations, however, World War I should be understood in the context of the popular imagination and the growth of nationalist sentiment in Europe.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_13_101707.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Trench Warfare</title>
+      <description>&lt;p&gt;The sacred union that united France’s political parties during World War I contributed to a resilient morale on the home front. Germany’s invasion of France, and the conflict over Alsace-Lorraine in particular, contributed to French concern over atrocities and the national investment in the war effort. New weapons and other fighting technologies, coupled with the widespread use of trenches, made fighting tremendously difficult and gruesome on all fronts.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_14_102207.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - The Home Front</title>
+      <description>&lt;p&gt;1917 is a critical moment in World War I, as the Bolsheviks seize power in Russia and Woodrow Wilson leads the U.S. into war on the side of the Allied powers. Although morale held steady on the home front in France, there were multiple mutinies and strikes as the war progressed. These mutinies were not in favor of German victory; rather, they were in protest of corruption at home, in the form of incompetence and profiteering. Literary and historical records of World War I bear witness to the difficulty faced by soldiers in reentering civilian life after returning home.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_15_102407.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - The Great War, Grief, and Memory (Guest Lecture by Bruno Cabanes)</title>
+      <description>&lt;p&gt;The human cost of World War I cannot be understood only in terms of demographics. To better understand the consequences of the war upon both soldiers and civilians it is necessary to consider mourning in its private, as well as its public dimensions. Indeed, for many French people who lived through the war, public spectacles of bereavement, such as the Unknown Soldier, were also conceived of as intensely private affairs. Both types of mourning are associated with a wide variety of rituals and procedures.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_16_103107.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - The Popular Front</title>
+      <description>&lt;p&gt;A plethora of Far Right and fascist organizations emerged in the wake of World War I. Economic depression, nationalism, anti-Semitism and xenophobia all played a part in this upsurge. On the left, the tension between communist revolutionaries and socialist reformers was reconciled, for a time, in the Popular Front government of Leon Blum. While the Popular Front would eventually fall, it pioneered many of the reforms and progressive measures that French workers enjoy today.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_17_110507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - The Dark Years: Vichy France</title>
+      <description>&lt;p&gt;For decades after the end of World War II the question of French collaboration with the Nazis was obscured. One of the reasons for this was the desire of de Gaulle and others to downplay the central role of communists in resisting the occupation. In fact, many French civilians were involved to greater or lesser degrees in informing upon their fellows or otherwise furthering the interests of the German invaders. Under the Vichy regime, right-wing politics in France developed an ideological program founded upon an appeal to nationalism, the soil, and the rejection of perceived decadence.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_18_110707.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Resistance</title>
+      <description>&lt;p&gt;If the extent of French collaboration during World War II has been obscured, so too has the nature of resistance. Although the communist Left represented the core of the resistance movement, resistors came from any different backgrounds, including in their ranks Catholics, Protestants, Jews and socialists. Unlike the relationship between de-Christianization and right-wing politics, in the case of the resistance there is no clear correlation between regional locations and cells of resistors. It has been argued that the definition of resistance itself should be broadened to include the many acts of passive resistance carried out by French civilians during the occupation.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_19_111207.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Battles For and Against Americanization</title>
+      <description>&lt;p&gt;Anti-Americanism in France has historically been directed toward the U.S. government and corporations rather than American citizens. In the wake of World War II, the Marshall Plan for rebuilding Europe was considered by many to be a form of American imperialism. Along with the establishment of American military bases on French soil, the years after World War II bore witness to a great influx of American products, notably refrigerators and Coca-Cola. French concern over American cultural imports persists today, and has extended to include policies aimed at keeping the French language free of English words.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_20_111407.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Vietnam and Algeria</title>
+      <description>&lt;p&gt;France’s colonial territories were of very high importance after the embarrassment of occupation during World War II. Algeria, in particular, was a complicated case because it involved large numbers of French settlers, the &lt;em&gt;pieds-noirs&lt;/em&gt;. Despite international support for Algerian independence, right-wing factions in the military and among the colonizers remained committed to staying the course. After Charles de Gaulle presided over French withdrawal, the cause of the&lt;em&gt;pieds-noirs&lt;/em&gt; has remained divisive in French political life, particularly on the right.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_21_112607.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Charles De Gaulle</title>
+      <description>&lt;p&gt;Charles de Gaulle’s importance in postwar French political life was matched by his importance in the nation’s collective imagination. This authority was consciously contrived by de Gaulle, who wished to bear upon his figurative body the will of the French people to maintain the power of their nation in the face of a political environment characterized by the opposition between the U.S. and the Soviet Union. Ultimately, de Gaulle’s symbolic originality proved more lasting than his political innovations.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_22_112807.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - May 1968</title>
+      <description>&lt;p&gt;The student protests of May 1968 in France were linked to international protests against the American war in Vietnam and other political and social consequences of the Cold War. In many respects, the terrible condition of many schools in France that led students to revolt remains a problem. Recent attempts to impose American-style reforms on the university system have met with protests that echo some of the demands made in ‘68; although, other conditions for revolution seem as though they may never again be realized in the same way.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_23_120307.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - Immigration</title>
+      <description>&lt;p&gt;French culture is threatened both by European Unification and the rise of xenophobia within France itself. The defeat of the referendum on the European Constitution testified to the dissatisfaction of many people in rural France with the economic realities of the new international community. Racist policies targeting residents of France’s poor suburbs threaten the national ideal of liberty, equality, and fraternity. These problems remain to be resolved if France is to preserve its unique identity.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/hist276/mp3/hist276_24_120507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+  </channel>
+</rss>

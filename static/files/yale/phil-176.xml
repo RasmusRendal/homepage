@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Death</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor Shelly Kagan</itunes:author>
+    <description>&lt;p&gt;There is one thing I can be sure of: I am going to die. But what am I to make of that fact? This course will examine a number of issues that arise once we begin to reflect on our mortality. The possibility that death may not actually be the end is considered. Are we, in some sense, immortal? Would immortality be desirable? Also a clearer notion of what it is to die is examined. What does it mean to say that a person has died? What kind of fact is that? And, finally, different attitudes to death are evaluated. Is death an evil? How? Why? Is suicide morally permissible? Is it rational? How should the knowledge that I am going to die affect the way I live my life?&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/kagan_s_1.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/death/phil-176</link>
+        <item>
+      <title> - Course Introduction</title>
+      <description>&lt;p&gt;Professor Kagan introduces the course and the material that will be covered during the semester. He aims to clarify what the class will focus on in particular and which subjects it will steer away from. The emphasis will be placed on philosophical questions that arise when one contemplates the nature of death. The first half of the course will address metaphysical questions while the second half will focus on value theory.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3/phil176_01_011607.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - The Nature of Persons: Dualism vs. Physicalism</title>
+      <description>&lt;p&gt;Professor Kagan discusses the two main positions with regard to the question, “What is a person?” On the one hand, there is the dualist view, according to which a person is a body and a soul. On the other hand, the physicalist view argues that a person is just a body. The body, however, has a certain set of abilities and is capable of a large range of activities.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_02_011807.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Arguments for the Existence of the Soul, Part I</title>
+      <description>&lt;p&gt;The lecture focuses on arguments that might be offered as proof for the existence of the soul. The first series of arguments discussed is those known as “inferences to the best explanation.” That is, we posit the existence of things we cannot see so as to explain something else that is generally agreed to take place.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_03_012307.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Introduction to Plato&#x27;s Phaedo; Arguments for the Existence of the Soul, Part II</title>
+      <description>&lt;p&gt;After a brief introduction to Plato’s &lt;em&gt;Phaedo&lt;/em&gt;, more arguments are offered in this lecture in defense of the existence of an immaterial soul. The emphasis here is on the fact that we need to believe in the existence of a soul in order to explain the claim that we possess free will. This is an argument dualists use as an objection to the physicalists: since no merely physical entity could have free will, there must be more to us than just being a physical object.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_04_012507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Arguments for the Existence of the Soul, Part III: Free Will and Near-Death Experiences</title>
+      <description>&lt;p&gt;Professor Kagan discusses in detail the argument of free will as proof for the existence of an immaterial soul. The argument consists of three premises: 1) We have free will. 2) Nothing subject to determinism has free will. 3) All purely physical systems are subject to determinism. The conclusion drawn from this is that humans are not a purely physical system; but Professor Kagan explains why this argument is not truly compelling. In addition, near-death experiences and the Cartesian argument are discussed at length.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_05_013007.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Arguments for the Existence of the Soul, Part IV; Plato, Part I</title>
+      <description>&lt;p&gt;The lecture begins with a continued discussion of the Cartesian argument and its weaknesses. The lecture then turns to Plato’s metaphysical views in the context of his work, &lt;em&gt;Phaedo&lt;/em&gt;. The key point in the discussion is the idea that in addition to the ordinary empirical world that we are familiar with, we posit the existence of a second realm in which the Platonic forms exist. These forms are the abstract properties that we attribute to physical objects, such as beauty, justice, goodness and so on. Since it is the soul that conceives of these Platonic forms and ideas, Plato argues that the soul not only outlives the body but lasts forever. It is perfect, immaterial and indestructible.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_06_020107.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Plato, Part II: Arguments for the Immortality of the Soul</title>
+      <description>&lt;p&gt;The discussion of Plato’s &lt;em&gt;Phaedo&lt;/em&gt; continues, presenting more arguments for the existence and immortality of the soul. One such argument is “the argument from the nature of the forms,” which states that because the forms are non-physical objects and cannot be grasped by something physical like the body, it follows that they must be grasped by the soul which must be non-physical as well. This argument is followed by the “argument from recycling” and “the argument from recollection.”&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_07_020607.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - Plato, Part III: Arguments for the Immortality of the Soul (cont.)</title>
+      <description>&lt;p&gt;The lecture focuses exclusively on one argument for the immortality of the soul from Plato’s &lt;em&gt;Phaedo&lt;/em&gt;, namely, “the argument from simplicity.” Plato suggests that in order for something to be destroyed, it must have parts, that is, it must be possible to “take it apart.” Arguing that the soul is simple, that it does not have parts, Plato believes that it would logically follow that the soul is indestructible.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_08_020807.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Plato, Part IV: Arguments for the Immortality of the Soul (cont.)</title>
+      <description>&lt;p&gt;Professor Kagan elaborates on the “argument from simplicity” and discusses in detail Plato’s claims that the soul is simple, changeless and therefore indestructible. The final Platonic argument under discussion is the “argument from essential properties” in which the essential properties of the soul are addressed. At the end of the lecture the question of whether one needs to argue for physicalism is posed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_09_021307.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Personal Identity, Part I: Identity Across Space and Time and the Soul Theory</title>
+      <description>&lt;p&gt;The lecture focuses on the question of the metaphysical key to personal identity. What does it mean for a person that presently exists to be the very same person in the future? The first approach to answering this question is the “soul theory,” that is, the key to being the same person is having the same soul. Difficulties with that approach are then discussed, independent of the question whether souls exist or not.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_10_021507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Personal Identity, Part II: The Body Theory and the Personality Theory</title>
+      <description>&lt;p&gt;Two more views regarding the metaphysical key to personal identity are discussed: the body view and the personality view. According to the body view, an individual is identified in terms of his or her physical body. According to the personality view, an individual is identified by his or her unique set of beliefs, desires, memories, goals, and so on.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_11_022007.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Personal Identity, Part III: Objections to the Personality Theory</title>
+      <description>&lt;p&gt;The lecture focuses on the problems directly related to the personality theory as key to personal identity. The theory states that a person retains his or her individuality so long as he or she has the same ongoing personality. The main objection raised to this claim is the problem of duplication. The lecture explores cases in which the same personality has been transferred or exported to multiple bodies.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_12_022207.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Personal Identity, Part IV: What Matters?</title>
+      <description>&lt;p&gt;The personality theory is revised to state that the key to personal identity is having the same personality provided that there is no branching, that is, provided there is no transfer or duplication of the same personality from one body to another. Similar “no branching” requirements are added to the other theories as well. At the end of class, Professor Kagan suggests a shift from thinking about the survival of the soul in terms of “what does it take to survive?” to “what is it that matters in survival?”&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_13_022707.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - What Matters (cont.); The Nature of Death, Part I</title>
+      <description>&lt;p&gt;The suggestion is made that what matters in survival is the future existence of someone with a personality similar to one’s own. Professor Kagan then turns to the question, “what is it to die?”. In answering this question, attention is first drawn to the bodily and mental functions that are crucial in defining the moment of death.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_14_030107.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - The Nature of Death (cont.); Believing You Will Die</title>
+      <description>&lt;p&gt;The lecture explores the question of the state of being dead. Even though the most logical claim seems to be that when a person stops P-functioning he or she is dead, a more careful consideration must allow for exceptions, such as when one is asleep or in a coma. Professor Kagan then suggests that on some level nobody believes that he or she is going to die. As a case in point, he takes Tolstoy’s famous character Ivan Ilych.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_15_030607.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Dying Alone; The Badness of Death, Part I</title>
+      <description>&lt;p&gt;Professor Kagan puts forward the claim that Tolstoy’s character Ivan Ilych is quite the typical man in terms of his views on mortality. All of his life he has known that death is imminent but has never really believed it. When he suddenly falls ill and is about to die, the fact of his mortality shocks him. In trying to further access how people think about death, Professor Kagan explores the claim that “we all die alone,” presents a variety of arguments against it and ends by considering whether the primary badness of death could lie in the effects on those who are left behind.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_16_030807.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - The Badness of Death, Part II: The Deprivation Account</title>
+      <description>&lt;p&gt;This lecture continues to explore the issue of why death may be bad. According to the deprivation account, what is bad about death is the fact that because one ceases to exist, one becomes deprived of the good things in life. Being dead is not intrinsically bad; it is comparatively bad and one is worse off only by virtue of not being able to enjoy the things one enjoyed while alive, such as watching the sunset, listening to music, and discussing philosophy.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_17_032707.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - The Badness of Death, Part III; Immortality, Part I</title>
+      <description>&lt;p&gt;The discussion of the badness of death continues by asking whether it is bad that we do not exist before our birth. The views of a number of contemporary philosophers, such as Tom Nagle, Fred Feldman, and Derek Parfit, are introduced. Then Professor Kagan turns to the subject of immortality. Would it be desirable to live forever, and if so, under what circumstances one might enjoy such a prolonged existence? The lecture concludes with Bernard Williams’ take on immortality which posits that no kind of human life can continue to be enjoyable and attractive for eternity.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_18_032907.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Immortality Part II; The Value of Life, Part I</title>
+      <description>&lt;p&gt;The lecture begins with further exploration of the question of whether it is desirable to live forever under the right circumstances, and then turns to consideration of some alternative theories of the nature of well-being. What makes a life worth living? One popular theory is hedonism, but the thought experiment of being on an “experience machine” suggests that this view may be inadequate.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_19_040307.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - The Value of Life, Part II; Other Bad Aspects of Death, Part I</title>
+      <description>&lt;p&gt;Lecture 20 continues the discussion of the value of life. It considers the neutral container theory, which holds that the value of life is simply a function of its contents, both pleasant and painful, and contrasts this with the valuable container theory, which assigns value to being alive itself. The lecture then turns to a consideration of some of the other aspects of death that may contribute to the badness of death. Among the issues addressed are the inevitability, variability and unpredictability of death.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_20_040507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Other Bad Aspects of Death, Part II</title>
+      <description>&lt;p&gt;Further bad aspects of death are considered, including ubiquity, or the fact that death may occur at any time and strike anyone. Professor Kagan invites students to contemplate the possibility of death-free time periods, vacation spots, and activities. Then there is consideration of the value of the human condition, which consists of life, followed by death. Finally, the question is raised as to whether it could be appropriate to refuse to face the facts about our mortality. Professor Kagan distinguishes between two ways in which thinking about these could influence human behavior. On the one hand, it may give one the reason to behave differently; on the other hand, it may just cause a change in behavior.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_21_041007.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Fear of Death</title>
+      <description>&lt;p&gt;Professor Kagan explores the issue of how thinking about death may influence the way we live. Fear as an emotional response to death is discussed as well as whether it is appropriate and under what conditions. A distinction is made between fear of the process of dying, and fear of death itself and what may come when one is dead. Finally, a number of other negative emotions are considered as possible appropriate responses to death and dying, such as anger, sadness, and sorrow.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_22_041207.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - How to Live Given the Certainty of Death</title>
+      <description>&lt;p&gt;In this lecture, Professor Kagan invites students to pose the question of how one should live life knowing that it will certainly end in death. He also explores the issue of how we should set our goals and how we should go about achieving them, bearing in mind the time constraints. Other questions raised are how this ultimately affects the quality of our work and our accomplishments, as well as how we decide what is worth doing in life.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_23_041707.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - Suicide, Part I: The Rationality of Suicide</title>
+      <description>&lt;p&gt;This is the first of a series of lectures on suicide. Two very distinct contexts are presented in which the subject can be further explored. The first is rationality and the question of under what circumstances it makes sense to end one’s own life. The second is morality and the question of whether we can ever ethically justify resorting to suicide. The lecture’s focus is on the rational requirements of suicide, and Professor Kagan introduces a number of cases which demonstrate that ending one’s life, in certain instances, may be rationally sound.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_24_041907.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+    <item>
+      <title> - Suicide, Part II: Deciding under Uncertainty</title>
+      <description>&lt;p&gt;The discussion of suicide continues. A few more cases are introduced to consider circumstances under which it might be rational to end one’s life, and more graphs are drawn that show relevant variations in the quality of one’s life. A question is then posed about how one should make a decision about continuing or ending life, given that one cannot know the future with certainty. Finally, two quick moral arguments concerning suicide which rest on theological premises are presented.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_25_042407.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 25</guid>
+    </item>
+    <item>
+      <title> - Suicide, Part III: The Morality of Suicide and Course Conclusion</title>
+      <description>&lt;p&gt;The lecture begins by examining the consequences a suicide has on both the person committing it and those around this person. The question is raised, however, whether this factor is the only that counts morally, as utilitarians claim, or whether other factors matter morally as well, as deontologists claim. The moral relevance of a deontological prohibition against harming the innocent is considered. A concluding summary of the course is offered.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_26_042607.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 26</guid>
+    </item>
+  </channel>
+</rss>

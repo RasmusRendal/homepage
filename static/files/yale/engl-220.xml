@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Milton</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor John Rogers</itunes:author>
+    <description>&lt;p&gt;This class is a study of Milton’s poetry, with attention paid to his literary sources, his contemporaries, his controversial prose, and his decisive influence on the course of English poetry. Throughout the course, Professor Rogers explores the advantages and limitations of a diverse range of interpretive techniques and theoretical concerns in Milton scholarship and criticism. Lectures include close readings of lyric and epic poetry, prose, and letters; biographical inquiries; examinations of historical and political contexts; and engagement with critical debates.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/rogers_1.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/english/engl-220</link>
+        <item>
+      <title> - Introduction: Milton, Power, and the Power of Milton</title>
+      <description>&lt;p&gt;An introduction to John Milton: man, poet, and legend. Milton’s place at the center of the English literary canon is asserted, articulated, and examined through a discussion of Milton’s long, complicated association with literary power. The conception of Miltonic power and its calculated use in political literature is analyzed in the feminist writings of Lady Mary Chudleigh, Mary Astell, and Virginia Woolf. Later the god-like qualities often ascribed to Miltonic authority are considered alongside Satan’s excursus on the constructed nature of divine might in &lt;em&gt;Paradise Lost&lt;/em&gt;, and the notorious character’s method of analysis is shown to be a useful mode of encountering the author himself.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_01_090507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - The Infant Cry of God</title>
+      <description>&lt;p&gt;Milton’s early ode, “On the Morning of Christ’s Nativity” (1629) is presented and discussed. The author’s preoccupation with his standing as a novice poet and his early ambitions, as carefully outlined in the letter to Charles Diodati, are examined. The ode’s subject matter, other poets’ treatment of the Nativity, and Milton’s peculiar contributions to the micro-genre are discussed, including his curious temporal choices, the competitive attitude of his narrator, and the mingling of Christian and classical elements. The rejection of the pagan world in the poem’s final stanzas is explicated and underscored as an issue that will recur throughout the corpus. Additional reading assignments for this class meeting include “At a Vacation Exercise in the College” (1628), “On the Death of a Fair Infant” (1628), and &lt;em&gt;Elegia sexta&lt;/em&gt; (1629).&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_02_091007.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Credible Employment</title>
+      <description>&lt;p&gt;This lecture examines the role and meanings of the word &lt;em&gt;vocation &lt;/em&gt;in Milton’s life-long meditation on (and concern for) what it means to be chosen by God. Milton’s profound anxiety in the years following his graduation from Cambridge regarding his poetic career and, more specifically, his status as a Christian poet selected by God for greatness is outlined. The topic is traced through Milton’s polemical treatise &lt;em&gt;The Reason of Church Government&lt;/em&gt;, the poem &lt;em&gt;Ad Patrem&lt;/em&gt;, and the author’s correspondence. Particular emphasis is placed on Milton’s interpretations of the parable of the talents and the parable of the workers in the vineyard. Substantial context on the nature of election and salvation is supplied from the writings of John Calvin and Max Weber.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_03_091207.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Poetry and Marriage</title>
+      <description>&lt;p&gt;This second lecture on Milton’s masque probes its complex depictions of virginity and chastity. The version of the masque performed in 1634 is compared with the published version of 1637, with particular emphasis on a monologue on the vanquishing powers of virginity that is created for the latter. The poet’s commonplace book, specifically his notes on the self-mutilation of the medieval nuns of Coldingham, is linked to images of the body in the masque. Milton’s gradual revision of his initial position favoring life-long virginity is described in detail.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_05_091907.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Lycidas</title>
+      <description>&lt;p&gt;Milton’s poem &lt;em&gt;Lycidas&lt;/em&gt; is discussed as an example of pastoral elegy and one of Milton’s first forays into theodicy. The poetic speaker’s preoccupation with questions of immortality and reward, especially for poets and virgins, is probed. The Christian elements of the poem’s dilemma are addressed, while the solution to the speaker’s crisis is characterized as erotic and oddly paganistic, pointing towards the heterodox nature of much of Milton’s thinking.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_06_092407.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Areopagitica</title>
+      <description>&lt;p&gt;Milton’s political tract &lt;em&gt;Areopagitica&lt;/em&gt; is discussed at length. The author’s complicated take on state censorship and licensing, both practiced by the English government with respect to printed materials at the time, is examined. His eclectic use of pagan mythology, Christian scripture, and the metaphors of eating and digestion in defense of his position are probed. Lastly, Milton’s insistence that moral truths must be examined and tested in order for goodness to be known is explored as an early manifestation of the rhetoric that will be used to depict the Fall in &lt;em&gt;Paradise Lost&lt;/em&gt;.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_08_100107.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Paradise Lost, Book I</title>
+      <description>&lt;p&gt;The invocation to &lt;em&gt;Paradise Lost&lt;/em&gt; is read and analyzed. Milton’s tenure as Latin Secretary under the Puritan government, his subsequent imprisonment upon the restoration of the monarchy, and his blindness are all briefly discussed. The poet’s subsequent choice of a religious subject, rather than a nationalist one, for his epic is considered in light of the failure of the Puritan regime. His radical poetics, including his stance against rhyme and his unique use of enjambment and double syntax, is closely examined. Elements of the radical philosophy of monism, present in his depiction of angelic bodies, are identified and discussed at length.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_09_100307.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - God and Mammon: The Wealth of Literary Memory</title>
+      <description>&lt;p&gt;This second lecture on&lt;em&gt; Paradise Lost&lt;/em&gt; looks at hell and its inhabitants, as depicted in Books I and II. Milton’s struggle both to match and outdo his literary predecessors is examined by way of allusions to the works of Homer and Edmund Spenser, particularly the cave of Mammon episode in Book Two of &lt;em&gt;The Faerie Queene&lt;/em&gt;. The presence of classical mythological figures, such as Medusa and Mulciber, in the Christian hell of &lt;em&gt;Paradise Lost&lt;/em&gt; is pondered, along with early distinctions in the poem, frequently blurred, between good and evil, beautiful and ugly, and heaven and hell.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_10_100807.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - The Miltonic Simile</title>
+      <description>&lt;p&gt;Milton’s characteristic use of simile is explored in Books One and Two of &lt;em&gt;Paradise Lost.&lt;/em&gt; Particular attention is paid to how Milton’s similes work to support, undermine, and complicate both the depiction of Satan and the broader thematic concerns of the poem, such as the ideas of free will and divine providence. The critical perspectives of Geoffrey Hartman and Stanley Fish are incorporated into an analysis of Satan’s shield and spear and the simile of the leaves.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_11_101007.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - The Blind Prophet</title>
+      <description>&lt;p&gt;This lecture focuses on the invocation to light at the beginning of Book Three of &lt;em&gt;Paradise Lost&lt;/em&gt;. Milton’s factual and figurative understanding of his blindness is traced through his letters, Sonnet XXII, and the later epic &lt;em&gt;Samson Agonistes&lt;/em&gt;. Particular emphasis is placed on the transformation of blindness in the corpus from a spiritual punishment to a poetic gift. The implications of biographical interpretations of literature are also touched upon.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_12_101507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Paradise Lost, Book III</title>
+      <description>&lt;p&gt;In this second lecture on Book Three of &lt;em&gt;Paradise Lost&lt;/em&gt;, the dialogue between God and the Son in heaven is explored with particular attention paid to Milton’s modification of the Calvinist theory of predestination. The terms and implications of Milton’s attempt to justify the ways of God to man are considered. Milton’s misgivings regarding the doctrine of the Trinity are examined, and the relationship between his theology and seventeenth-century political movements is expounded upon.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_13_102207.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Paradise Lost, Books V-VI</title>
+      <description>&lt;p&gt;The description of human sexual hierarchy in Book Four of &lt;em&gt;Paradise Lost&lt;/em&gt; is contrasted with the depiction of angelic hierarchy in Book Five. Both the Archangel Raphael’s and Satan’s accounts and theories of creation are examined. The poem’s complex and vacillating endorsement of arbitrary decree, on the one hand, and egalitarian self-determination, on the other, is probed. The nature of matter and physical being in Heaven and Eden are explored with particular emphasis placed on the poem’s monistic elements. Overall, Milton’s willingness to question accepted religious, social, and political doctrine, even that which authorities in his own poem seem to express, is stressed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_15_102907.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Paradise Lost, Books VII-VIII</title>
+      <description>&lt;p&gt;This lecture on Books Seven and Eight of&lt;em&gt; Paradise Lost&lt;/em&gt; focuses on Milton’s account of the Creation. The poet’s persistent interest in the imagery of digestion is explored with help from the proto-scientific theories of the seventeenth-century philosopher Paracelsus. The moment at which Milton names and assigns a gender to his muse is examined. Finally, Milton’s use of gender in the Creation account is explored in light of previous discussions of the poem’s complex sexual hierarchy; particular emphasis is placed on Raphael’s similarly gendered account of celestial hierarchy in Book Eight.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_16_103107.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Paradise Lost, Book IX</title>
+      <description>&lt;p&gt;Book Nine and the depiction of the Fall are presented. Adam and Eve’s dialogue – especially their perspectives on labor, temptation, and the nature of the garden – is examined. Satan’s strategic temptation of Eve is closely analyzed. At the lecture’s conclusion, Adam and Eve’s new fallen sight is discussed, with particular emphasis placed on the reference to the “veil” of pre-fallen innocence. Overall, the tension between doctrinal and subversive perspectives on the pre-fallen hierarchy of Eden is underscored.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_17_110507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Paradise Lost, Books XI-XII</title>
+      <description>&lt;p&gt;Books Eleven and Twelve of &lt;em&gt;Paradise Lost&lt;/em&gt; and their radical departure from the poem’s previous style are discussed. The transformation of Milton’s famously sonorous verse into a more didactic mode is closely documented, and the poem’s increasing emphasis on visual instruction is underscored in a study of the Archangel Michael’s lesson on the history of the post-fallen world. Considerable time is devoted to both a consideration of Milton’s late politics and Book Eleven’s depiction of the destruction of paradise.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_19_111207.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Paradise Lost, Books IX-X</title>
+      <description>&lt;p&gt;This second lecture on the Fall traces Milton’s use of the word &amp;lt; em&amp;gt;wander, in all of its forms, across the poem. The transformation of &lt;em&gt;wander&lt;/em&gt; from its pre-fallen sense to its more nefarious incarnation following the transgression is examined closely. The wider literary context of the concept of wandering, with particular emphasis placed on its importance to the romance genre, is briefly discussed. The reductive forces of Book Nine – particularly its tendency to transform the moral ambivalence, disputed sexual hierarchy, and general poetic ambiguity of earlier books into more definitive representations – are considered, with the lecture ultimately suggesting that the poem begins to turn away in Book Nine from many of its proto-feminist elements.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_18_110707.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Paradise Lost, Books XI-XII (cont.)</title>
+      <description>&lt;p&gt;In this final lecture on &lt;em&gt;Paradise Lost&lt;/em&gt;, Book Twelve’s justification for the expulsion of Adam and Eve from the garden is examined alongside the Genesis account. The nature of Milton’s God, whether literal or liberal, is examined at length. The poem’s closing lines are closely read, with substantial attention paid to Milton’s final, complicated take on the poem-long consideration of Providence and free will.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_20_111407.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Paradise Regained, Books I-II</title>
+      <description>&lt;p&gt;This lecture treats the first two books of the sequel to &lt;em&gt;Paradise Lost&lt;/em&gt;, &lt;em&gt;Paradise Reqained&lt;/em&gt;. The difference in style and subject matter is described. The poem’s depiction of the Son of God and Satan, specifically the characters’ seeming inability to recollect any of the events of &lt;em&gt;Paradise Lost&lt;/em&gt;cor the Bible, is closely analyzed. At the lecture’s conclusion, similarities between the Son’s slowly developing sense of his identity and Milton’s own narrative of his poetic development are examined.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_21_112607.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Paradise Regained, Books III-IV</title>
+      <description>&lt;p&gt;In this second lecture on &lt;em&gt;Paradise Regained&lt;/em&gt;, the three temptations are examined and Milton’s unusual departure from their account in the Gospel of Luke is discussed. The poem’s tacit assertion of the superiority of knowledge and ethics over action is probed. Considerable time is spent examining the Son’s rejection of classical literature. Finally, Book Four’s allusion to the riddle of the sphinx serves as a springboard to a consideration of the poem’s Oedipal elements.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_22_112807.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - Samson Agonistes</title>
+      <description>&lt;p&gt;This introduction to &lt;em&gt;Samson Agonistes&lt;/em&gt; focuses on a psycho-sexual reading of the poem, with particular emphasis placed on the poem’s peculiar association of sexuality with violence. The characterization of Dalila and her similarity to Samson is discussed. The problems inherit in Miltonic heroism, especially self-sufficiency and the nature of heroic sacrifice, are expounded upon.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_23_120307.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - Samson Agonistes (cont.)</title>
+      <description>&lt;p&gt;In the final lecture of the course, the analysis of &lt;em&gt;Samson Agonistes&lt;/em&gt; comes to a conclusion with an exploration of the poem’s sexual imagery. Milton’s choice of subject matter is puzzled over, as are the ethics of his tragic hero, particularly when compared to the heroes of Milton’s previous epics. The poem is positioned as a means by which Milton ultimately resolves the poetic, religious, and career-related crises of his earlier poem, “The Passion,” and the compelling relationship between the corpus and the poet’s biography is revisited one final time.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/engl220/mp3/engl220_24_120507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+  </channel>
+</rss>

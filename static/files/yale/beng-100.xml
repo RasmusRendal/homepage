@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Frontiers of Biomedical Engineering</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor W. Mark Saltzman</itunes:author>
+    <description>&lt;p&gt;The course covers basic concepts of biomedical engineering and their connection with the spectrum of human activity. It serves as an introduction to the fundamental science and engineering on which biomedical engineering is based. Case studies of drugs and medical products illustrate the product development-product testing cycle, patent protection, and FDA approval. It is designed for science and non-science majors.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/saltzman_2.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/biomedical-engineering/beng-100</link>
+        <item>
+      <title> - What Is Biomedical Engineering?</title>
+      <description>&lt;p&gt;Professor Saltzman introduces the concepts and applications of biomedical engineering, providing an overview of the course syllabus, reading materials for lecture and labs and grading logistics. Various pictures are shown to highlight the current application of biomedical engineering technologies in daily life (eg. chest x-ray, PET scan, operating room, gene chip, transport). Next, living standards and medical technologies of the past and present are compared to point out the impact of biomedical engineering as well as areas for improvement in the field. Finally, Professor Saltzman draws references from the poem “London Bridge” to illustrate some societal issues in making materials and devices in biomedical engineering.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_01_011508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - What Is Biomedical Engineering? (cont.)</title>
+      <description>&lt;p&gt;Class begins with discussion of students’ answers to the two questions given as assignment in the previous lecture. Professor Saltzman talks about the basic concept of biomedical engineering and two separate aspects of it: gaining better understanding of human physiology and developing ways to improve human health. He then introduces the term&lt;em&gt;homeostasis&lt;/em&gt;, and talks about parameters that are involved in controlling this state. Finally, the structure of the phospholipid is discussed and how it constitutes the cell membrane.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_02_011708.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Genetic Engineering</title>
+      <description>&lt;p&gt;Professor Saltzman introduces the elements of molecular structure of DNA such as backbone, base composition, base pairing, and directionality of nucleic acids. He describes the processes of DNA synthesis, transcription, RNA splicing, translation, and post-translational processing required to make a protein such as insulin from its genetic code (DNA). Professor Saltzman describes the genetic code. RNA interference is also discussed as a way to control gene expression, which can be applied as a new way to treat diseases.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_03_012208.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Genetic Engineering (cont.)</title>
+      <description>&lt;p&gt;Professor Saltzman continues his presentation on DNA technology by discussing control of gene expression using two methods of RNA silencing: anti-sense therapy and RNA interference. Molecular cloning techniques to mass-produce proteins using plasmid, restriction enzymes, ligase, and antibiotic selection in bacteria are discussed. Steps and molecules involved in polymerase chain reaction are also described. Professor Saltzman explains how to detect mutations in genomic DNA, such as in sickle cell anemia patients, by gel electrophoresis and Southern blotting. Finally, he gives an example of inducing and controlling insulin expression in large animals by cloning into their genome the insulin gene with the &lt;em&gt;lac&lt;/em&gt; promoter.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_04_012408.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Cell Culture Engineering</title>
+      <description>&lt;p&gt;Professor Saltzman reviews the concept of gene therapy, and gives some examples of where this is applied. Methods to help deliver DNA into cells using viruses and cationic lipids are discussed, as a way to overcome some challenges in gene therapy. Next, Professor Saltzman gives a brief introduction into bacterial and mammalian cell physiology. He describes the different tissues in the body, the cell development/differentiation process, the anchorage dependence of mammalian cells that allows them to form an organism, and the extracellular matrix.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_05_012908.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Cell Culture Engineering (cont.)</title>
+      <description>&lt;p&gt;Professor Saltzman describes the processes of fertilization and embryogenesis. Professor Saltzman then talks about the definition and classification of different types of stem cells, where stem cells are found in the body, and the potential for use of stem cells in treating diseases. Some challenges in this type of therapy are also discussed. Finally, Professor Saltzman introduces the exponential equation for cell growth, &lt;em&gt;dX/dt = e&lt;sup&gt;μt&lt;/sup&gt;&lt;/em&gt;, and the concept of cell “doubling time.”&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_06_013108.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Cell Communication and Immunology</title>
+      <description>&lt;p&gt;Professor Saltzman talks about cell communication, specifically ligand-receptor interactions that are important in maintaining homeostasis in the body. Different types of receptors and ligands, the nature of their interactions and ways to apply this into developing drugs are discussed (eg. Aldopa, Taximofen, beta-blockers). Next, Professor Saltzman talks about kinases, phosphatases, cyclic AMP and the mechanism of switching protein states. Three categories of cell communication signals are introduced: autocrine, paracrine, and endocrine. Finally, an example of cell communication using regulation/response to blood sugar level is presented.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_07_020508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - Cell Communication and Immunology (cont.)</title>
+      <description>&lt;p&gt;Professor Saltzman continues his discussion of cell communication in the body, extending the description to the nervous and immune system. Professor Saltzman describes the mode of signal transmission in neurons: action potential in the axon, and neurotransmitter release at the synaptic cleft. He also introduces elements of the innate and adaptive immune system. The adaptive immune system is presented as a host/foreign antigen recognition system involving immune cells (T, B, and macrophages), antibodies, and the major histocompatibility complex 1 and 2. Immune response by cytotoxic T cells, T helper cells, and B cells to antigen recognition are discussed in detail.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_08_020708.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Biomolecular Engineering: Engineering of Immunity</title>
+      <description>&lt;p&gt;Professor Saltzman talks about the importance of vaccines, and particularly the role of bioengineering in vaccine development. He first addresses the question of “what is a vaccine” and the role of the immune system. He then describes the biological basis, symptoms, and history of smallpox as a devastating disease worldwide, and how–starting with the work of Edward Jenner–an effective vaccine was systematically developed from cow lesions. Next, methods to deliver vaccine to a wide population are introduced. Finally, Professor Saltzman touches on the possible reemergence of smallpox as weapon for bioterrorism.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_09_021208.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Biomolecular Engineering: Engineering of Immunity (cont.)</title>
+      <description>&lt;p&gt;Professor Saltzman continues his presentation on the topic of vaccine. First, Professor Saltzman describes the host immune response to pathogen recognition, in terms of immunoglobulin release, T-cell activation, and memory cell production. The production, distribution, and challenges involved in making of the Salk polio vaccine and the modern, oral polio vaccine are discussed. Professor Saltzman then talks about the range of bioengineering approaches that can be used to produce vaccine: attenuated, subunit, and DNA-based. Finally, a life-intervention cost analysis (cost of technology per human life saved) for vaccine was compared to other policies to further emphasize the impact of vaccine on improving public health worldwide.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_10_021408.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Biomolecular Engineering: General Concepts</title>
+      <description>&lt;p&gt;Professor Saltzman starts the lecture with an introduction to pharmacokinetics and pharmacodynamics. Professor Saltzman talks about the concept of dose-response. He introduces different routes of drug administration and how they affect drug distribution and bioavailability (i.e., intravenous, oral, and sublingual routes). First-pass drug metabolism by the liver is also identified as an important source of drug degradation. Finally, modeling the body as a well-stirred vessel, Professor Saltzman explains the first-order rate equation: C = (&lt;em&gt;M&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt;/&lt;em&gt;V&lt;/em&gt;)*&lt;em&gt;e&lt;sup&gt;-kt&lt;/sup&gt;&lt;/em&gt;, that can be used calculate the amount of drug in the body (M) as a function of time (&lt;em&gt;t&lt;/em&gt;) and a rate constant (&lt;em&gt;k&lt;/em&gt;); and the equation for drug half-life: &lt;em&gt;t&lt;/em&gt; = ln(&lt;em&gt;2&lt;/em&gt;/&lt;em&gt;k&lt;/em&gt;).&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_11_021908.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Biomolecular Engineering: General Concepts (cont.)</title>
+      <description>&lt;p&gt;Professor Saltzman reviews the pharmacokinetic first-order rate equation that can be used to model changes in drug concentration in the blood, as well as its derivation from the law of conservation of mass. The importance of maintaining a drug concentration that is sufficient for therapeutic purpose, but below a toxic level, is emphasized. Since this is directly affected by drug administration method, ways to localize and sustain therapeutic concentrations of drug, such as incorporating in slow-releasing, biocompatible polymers are introduced. Professor Saltzman gave some examples of clinical applications of controlled release drug delivery system, such as anti-restenosis drug incorporated into stents, and chemotherapeutic drugs in brain implants and microspheres.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_12_022108.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Cardiovascular Physiology</title>
+      <description>&lt;p&gt;Professor Saltzman discusses the biophysics of the circulatory system. He begins by describing the anatomy of different types of blood vessels, and states the relationship between pressure difference (ΔP) as the driving force for fluid flow (Q) in a tube (i.e., blood vessel) with some resistance R (ΔP = RQ). R can be calculated using if dimensions of the tube (&lt;em&gt;L, r&lt;/em&gt;) and fluid viscosity (&lt;em&gt;μ&lt;/em&gt;) are known: &lt;em&gt;R = 8μL/πr&lt;sup&gt;4&lt;/sup&gt;&lt;/em&gt;. Next, Professor Saltzman traces the blood flow through the circulatory system and explains how the body can regulate blood flow to specific regions of the body. Finally, he describes the heart and its function as the pressure generator in the system.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_13_022608.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Cardiovascular Physiology (cont.)</title>
+      <description>&lt;p&gt;Professor Saltzman describes the blood flow through the systemic and pulmonary circulatory system. More specifically, he describes, with the help of diagrams, the events that lead to blood flow in the body as a function of contraction/relaxation by specific chambers of the heart, and the effect of four valves which help direct flow. Important terms and concepts such as systole/diastole pressures, cardiac output (CO) as a function of heart rate (HR) and ejection volume (EV), and the action potential propagation that stimulates heart muscle contraction are discussed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_14_022808.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Cardiovascular Physiology (cont.)</title>
+      <description>&lt;p&gt;Professor Saltzman talks about electrical conductivity in the heart: that is, the generation and propagation of electrical potential in heart cells. He describes the role of ion channels and pumps in transporting sodium, potassium, and calcium ions to create action potential. This propagation of signal from the sinoatrial node through different tissues, which can be replaced by a pacemaker, eventually stimulates contraction of muscle fibers throughout the heart. Next, he describes the electrocardiograph and how each wave trace corresponds to the events caused by depolarization/repolarization of different heart tissues.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_15_030408.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Midterm Exam</title>
+      <description>&lt;p&gt;The midterm exam covers Lectures 1 through 15.&lt;/p&gt;</description>
+      <enclosure url="http://FILENAME.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Exam 1</guid>
+    </item>
+    <item>
+      <title> - Renal Physiology</title>
+      <description>&lt;p&gt;Professor Saltzman introduces the basic concepts of renal physiology. Professor Saltzman first introduces the function and anatomy of the kidney. Special attention is given to the cell types and structural aspect of the nephron, the functional unit of the kidney. Filtration, secretion of toxic waste, and reabsorption of water, ions, and nutrients through the glomerulus and various segments of the nephrons is discussed in detail. Finally, Professor Saltzman describes glomerular filtration rate as a function of pressure drop, which is regulated by afferent and efferent arterioles, to control how much volume being filtered through glomerulus.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_16_032508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Renal Physiology (cont.)</title>
+      <description>&lt;p&gt;Professor Saltzman continues his description of nephron anatomy, and the specific role of each part of the nephron in establishing concentration gradients to help in secretion and reabsorption of water, ions, nutrients and wastes. A number of molecular transport processes that produces urine from the initial ultra-filtrate, such as passive diffusion by concentration difference, osmosis, and active transport with sodium-potassium ATPase, are listed. Next, Professor Saltzman describes a method to measure glomerular filtration rate (GFR) using tracer molecule, inulin. He then talks about regulation of sodium, an important ion for cell signaling in the body, as an example to demonstrate the different ways in which nephrons maintain homeostasis.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_17_032708.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Biomechanics and Orthopedics</title>
+      <description>&lt;p&gt;Professor Saltzman introduces the material properties of elasticity and viscosity. He describes two separate experimental setups to measure the elasticity and the viscosity of a material. Material elasticity can be defined in terms of stress-strain property, and defines the Young’s modulus (E), which is the slope of the stress-strain curve. Fluid viscosity, on the other hand, is described by shear stress. When modeling any material, the spring can be used to represent an ideal elastic material and the dashpot an ideal viscoelastic material. All biomaterials contain some combination of these properties and can be described by physical models that consist of both spring and dashpot.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_18_040108.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Biomechanics and Orthopedics (cont.)</title>
+      <description>&lt;p&gt;Professor Saltzman begins the lecture with discussion of the importance of motion for the survival and propagation of any living species. He presents the different modes of motion, taking first the example flight to talk about force balance, such as the magnitude of propulsive force that must be generated overcome drag to produce forward motion. Next, the mechanics of walking, running, cycling and swimming is discussed, with emphasis on efficient use of energy, overcoming drag and friction, and the influence of organism shape and size. An equation to calculate drag force of a spherical object of radius, &lt;em&gt;r&lt;/em&gt;, moving at velocity, &lt;em&gt;v&lt;/em&gt;, in a medium with viscosity, &lt;em&gt;μ&lt;/em&gt;, is introduced: &lt;em&gt;Fd = 6πvμr&lt;/em&gt;. Finally, Professor Saltzman talks about design of the artificial hip, which biomedical engineers must take into consideration the biomechanics and natural function of the pelvic bone.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_19_040308.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Bioimaging</title>
+      <description>&lt;p&gt;Professor Saltzman first reviews the electromagnetic spectrum, the different regimes of the spectrum, their respective wavelengths, energies, and ways of detecting them. He then talks about the use of high energy radio waves for imaging of the body. The history, components, advantages and limitations of X-ray imaging are presented in detail. Next, he introduces Computed Tomography, a related imaging technique which uses mathematical computation to compile line-scanned X-rays into a three dimensional image. Finally, Professor Saltzman touches on harmful effects of X-ray radiation, and ways to limit or avoid overexposure in these imaging techniques.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_20_040808.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Bioimaging (cont.)</title>
+      <description>&lt;p&gt;Professor Saltzman continues his discussion of biomedical imaging technology. Magnetic resonance imaging (MRI) is introduced as an alternate form of imaging, which does not use ionizing radiation yet can provide detailed structure of the body. Functional MRI (fMRI) has a different application from traditional MRI. It can be used to measure oxygen consumption (tissue metabolic rate), and is an important tool in deciphering brain function. Third, ultrasound imaging is another imaging technique that can detect motion by translating sound wave reflections into structural images at fast timescale. Finally, examples of nuclear imaging and advances in light microscopy are discussed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_21_041008.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Tissue Engineering</title>
+      <description>&lt;p&gt;Professor Saltzman motivates the need for tissue engineering, and describes the basic elements of the tissue engineering approach. Professor Saltzman defines three different types of tissue transplants: autografts, allografts, and xenografts. An online resource for organ donors/recipients is presented, which stresses the great need for donors, and the important contribution of tissue engineering in producing/growing organs that can be used for this purpose. Next, Professor Saltzman compared drug and gene therapy, and discusses the use of stem cell in tissue engineering for wound healing. The need for compatible biomaterials to support growth and differentiation of stem cells into functional organ is also highlighted.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_22_041508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - Tissue Engineering (cont.)</title>
+      <description>&lt;p&gt;In this lecture, Professor Saltzman continues his discussion of tissue engineering, and its role in facilitating healing, tissue regeneration, organ replacement, drug delivery and as model for studying human physiology. Specific examples from current research by scientists at Yale are used to illustrate some of these points and to highlight the current progress in the field. Some examples are generating neo-tissues from hydrogel scaffold seeded with cells, healing spinal cords and controlling mechanical properties of newly grown blood vessels with external conditions.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_23_041708.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - Biomedical Engineers and Cancer</title>
+      <description>&lt;p&gt;Professor Saltzman uses cancer diagnosis and treatment as an example to demonstrate the some applications of biomedical engineering technologies and methods. Some issues involved in cancer treatment, such as tumor angiogenesis, radiation sensitivity, drug localization, and cancer stem cells are mentioned. Next, he describes the phases (I-IV), in compliance to guidelines enforced by the Food and Drug Administration (FDA), which a new drug compound must go through to gain approval prior to public distribution/sale. Finally, Professor Saltzman draws attention to the areas that biomedical engineers may contribute to, to improve this process.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_24_042208.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+    <item>
+      <title> - Biomedical Engineers and Artificial Organs</title>
+      <description>&lt;p&gt;In this final lecture, Professor Saltzman talks about artificial organs, with a stress on synthetic biomaterials. First, the body’s responses (immunological and scar healing responses) to foreign materials are introduced. This leads to discussion of different types of polymer/plastic materials (i.e., Dacron and GORE-TEX) and their properties. Next, Professor Saltzman talks about the design and function of some artificial organs, such as lens implants, heart valves and vessels, hip, dialyzer, heart/lung bypass machine, and the artificial heart. Lastly, challenges and areas for improvement in the field are presented.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/beng100/mp3/beng100_25_042408.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 25</guid>
+    </item>
+    <item>
+      <title> - Final Exam</title>
+      <description>&lt;p&gt;The final exam was administered in class.&lt;/p&gt;</description>
+      <enclosure url="http://FILENAME.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Exam 2</guid>
+    </item>
+  </channel>
+</rss>

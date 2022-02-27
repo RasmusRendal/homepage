@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Financial Markets (2011)</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor Robert J. Shiller</itunes:author>
+    <description>&lt;p&gt;An overview of the ideas, methods, and institutions that permit human society to manage risks and foster enterprise. Description of practices today and analysis of prospects for the future. Introduction to risk management and behavioral finance principles to understand the functioning of securities, insurance, and banking industries.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/shiller2_1.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/economics/econ-252</link>
+        <item>
+      <title> - Introduction and What this Course Will Do for You and Your Purposes</title>
+      <description>&lt;p&gt;Professor Shiller provides a description of the course, including its general theme, the relevant textbooks, as well as the interplay of his course with Professor Geanakoplos’s course “Economics 251 – Financial Theory.” Finance, in his view, is a pillar of civilized society, dealing with the allocation of resources through space and time in order to manage big and important risks. After talking about finance as an occupation, he emphasizes the moral imperative to use wealth for the purposes of philanthropy, in the spirit of Andrew Carnegie, but also of Bill Gates and Warren Buffett. Subsequently, he introduces the guest speakers David Swensen, Yale University’s chief investment officer, Maurice “Hank” Greenberg, former Chief Executive Officer (CEO) at American International Group (AIG) and current CEO of C.V. Starr &amp;amp; Co. and of Starr International, and Laura Cha, former vice chair of the China Securities Regulatory Commission, member of the Executive Council of Hong Kong and of the government of the People’s Republic of China, and director of the Hong Kong Shanghai Banking Corporation (HSBC). Finally, he concludes with a description of the topics to be discussed in each lecture.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_01_011011.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - Risk and Financial Crises</title>
+      <description>&lt;p&gt;Professor Shiller introduces basic concepts from probability theory and embeds these concepts into the concrete context of financial crises, with examples from the financial crisis from 2007-2008. Subsequent to a historical narrative of the financial crisis from 2007-2008, he turns to the definition of the expected value and the variance of a random variable, as well as the covariance and the correlation of two random variables. The concept of independence leads to the law of large numbers, but financial crises show that the assumption of independence can be deceiving, in particular through its impact on the computation of Value at Risk measures. Additionally, he covers regression analysis for financial returns, which leads to the decomposition of a financial asset’s risk into idiosyncratic and systematic risk. Professor Shiller concludes by talking about the prominent assumption that random shocks to the financial economy are normally distributed. Historical stock market patterns, specifically during crises times, establish that outliers occur too frequently to be compatible with the normal distribution. &lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_02_011411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Technology and Invention in Finance</title>
+      <description>&lt;p&gt;In the beginning of the lecture, Professor Shiller reviews the probability theory concepts from the last class and extends these concepts by the central limit theorem. Afterwards, he turns his attention toward the role of financial technology and financial invention within society, in particular with regard to the management of big and important risks. He proceeds along the lines of a “framing” theme, referring to the context and the associations of inventions, and along the lines of a “device” theme, emphasizing the creation of complicated structures set up for a certain purpose, which require learning over time to be improved. His coverage of financial inventions spans limited liability for corporations and the framework of Township and Village Enterprises in China, as well as inflation indexation from its inception around the turn of the 19&lt;sup&gt;th&lt;/sup&gt; century to its applications in Chile and Mexico in the 20&lt;sup&gt;th&lt;/sup&gt; century. Professor Shiller concludes the lecture elaborating on swap contracts as financial inventions, and on the subsequent development of credit default swaps.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_03_011911.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Portfolio Diversification and Supporting Financial Institutions</title>
+      <description>&lt;p&gt;In this lecture, Professor Shiller introduces mean-variance portfolio analysis, as originally outlined by Harry Markowitz, and the capital asset pricing model (CAPM) that has been the cornerstone of modern financial theory. Professor Shiller commences with the history of the first publicly traded company, the United East India Company, founded in 1602. Incorporating also the more recent history of stock markets all over the world, he elaborates on the puzzling size of the equity premium and the very high historical return of stock market investments. After introducing the notion of an Efficient Portfolio Frontier, he covers the concept of the Tangency Portfolio, which leads him to the Mutual Fund Theorem. Finally, the consideration of equilibrium in the stock market leads him to the Capital Asset Pricing Model, which emphasizes market risk as the determinant of a stock’s return.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_04_012411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Insurance, the Archetypal Risk Management Institution: Its Opportunities and Vulnerabilities</title>
+      <description>&lt;p&gt;In the beginning of the lecture, Professor Shiller talks about risk pooling as the fundamental concept of insurance, followed by references to moral hazard and selection bias as prominent problems of the insurance industry. In order to provide an explicit example from the insurance industry, he elaborates on the story behind American International Group (AIG), from its creation by Cornelius Vander Starr in Shanghai in 1919, to Maurice “Hank” Greenberg’s time as CEO, until its bailout by the U.S. government in 2008. Subsequently, he turns toward the regulation of the insurance industry, covering state insurance guarantee funds, the role of the McCarran-Ferguson Act from 1945, as well as the impact of the Dodd-Frank bill on the insurance industry. He devotes special attention to two branches of the insurance industry–life insurance and health insurance–and emphasizes, among other aspects, the consequences of the health care overhaul in the U.S. from 2010. He discusses the example of earthquakes, with insurance in Haiti and catastrophe bonds in Mexico. At the end of the lecture, he critically reflects on the role of the insurance industry in the face of catastrophes.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_05_013111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Guest Speaker: David Swensen</title>
+      <description>&lt;p&gt;This lecture is a guest lecture by Professor David Swensen, Yale University’s Chief Investment Officer. The starting point for Professor Swensen is an article entitled &lt;em&gt;Crash Course&lt;/em&gt;, published in &lt;em&gt;Barron’s&lt;/em&gt; in the wake of the financial crisis from 2007-2008. This article blames his endowment investment approach for a failure of diversification and an overemphasis on alternatives. Subsequently, Professor Swensen characterizes three major determinants of investment return–asset allocation, market timing, and security selection–and outlines the importance of asset allocation as the predominant component. Against the background of these three tenets, he revisits &lt;em&gt;Barron’s&lt;/em&gt; criticism and defends the virtues of diversification against an exaggerated perception of the needs for safety in the immediate aftermath of a crisis. Moreover, he counters the critique of overemphasizing alternatives with a longer-term view on the performance of the Yale portfolio. In the concluding question-and-answer session, he elaborates on the difference between endowment management and fund management, recent developments in the hedge fund and private equity fund industry, and on measures of investment performance beyond the Sharpe ratio.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_06_020211.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Efficient Markets</title>
+      <description>&lt;p&gt;Initially, Professor Shiller looks back at David Swensen’s guest lecture, in particular with respect to the Sharpe ratio as a performance measure for investment strategies. He emphasizes the empirical difficulty to measure the standard deviation, specifically for illiquid asset classes, and elaborates on investment strategies that manipulate the Sharpe ratio. Subsequently, he focuses on the Efficient Markets Hypothesis. This theory states that markets efficiently incorporate all public information, which consequently renders beating the market impossible. For example, technical analysis fails to provide powerful, short-run profit opportunities. A consequence of the Efficient Markets Hypothesis is that stock prices follow a Random Walk, as innovations to the stock price must be solely attributable to news. Professor Shiller contrasts the behavior of a Random Walk with that of a First-Order Autoregressive Process, and concludes that the latter statistical process matches the reality of the stock market more closely. This conclusion, combined with the evidence that investment managers like David Swensen are capable of consistently outperforming the market leads Professor Shiller to the conclusion that the Efficient Markets Hypothesis is a half-truth.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_07_020711.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - Theory of Debt, Its Proper Role, Leverage Cycles</title>
+      <description>&lt;p&gt;Professor Shiller devotes the beginning of the lecture to exploring the theoretical determinants of the level of interest rates. Eugen von Boehm-Bawerk names technical progress, roundaboutness, and time preference as the crucial factors. Professor Shiller complements von Boehm-Bawerk’s analysis with two of Irving Fisher’s modeling approaches, the view of the interest rate as the equilibrium variable in the savings market and the perspective of simple Robinson Crusoe economies on the determination of interest rates. Subsequently, Professor Shiller focuses his attention on present discounted values and derives the price for discount bonds, consols, annuities, as well as corporate bonds. His treatment of the term structure of interest rates leads him to forward rates and the expectations theory of the term structure of interest rates. At the end of the lecture, he offers insights on usurious loan practices, from ancient times until today, and describes the improvements in consumer financial protection that have been made  after the financial crisis of the 2000s.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_08_021111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Corporate Stocks</title>
+      <description>&lt;p&gt;Professor Shiller emphasizes the worldwide importance of corporations by looking at World Bank data for corporate stocks as traded on global stock markets. He then turns his attention to the concept of a corporation, elaborating on the role of shareholders, the board of directors, and the Chief Operating Officer. Following this, he compares and contrasts for-profit and nonprofit corporations. Next, he discusses equity financing of for-profit corporations, covering market capitalization, dividends, share repurchases, dilution, and the difference between common and preferred shares. In addition, he discusses and rejects claims that share issuance is not really important for capital raising in modern times. Professor Shiller concludes this lecture with a discussion of the balance sheets of two well-known corporations, Xerox and Microsoft.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_09_021411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Real Estate</title>
+      <description>&lt;p&gt;Real estate finance has been crucially important throughout its very long and complex history. Describing the history of mortgage financing, Professor Shiller highlights the historical development of well-institutionalized property rights for mortgage contracts. Subsequently, he focuses on modern financial institutions for commercial real estate, elaborating on Direct Participation Programs and Real Estate Investment Trusts as means for its financing. The distinction between short-term, balloon-payment mortgages before the Great Depression and long-term, amortizing mortgages thereafter shapes the discussion of residential real estate. His discussion of mortgage securitization and government support of mortgage markets centers around Fannie Mae and Freddie Mac, from their inception in 1938 and 1970, respectively, to the U.S. government’s decision to put them into federal conservatorship in 2008. Finally, Professor Shiller covers collateralized mortgage obligations (CMOs) and elaborates on moral hazard in the mortgage origination process.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_10_021611.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Behavioral Finance and the Role of Psychology</title>
+      <description>&lt;p&gt;Deviating from an absolute belief in the principle of rationality, Professor Shiller elaborates on human failings and foibles. Acknowledging impulses to exploit these weaknesses, he emphasizes the role of factors that keep these impulses in check, specifically the desire for praise-worthiness from Adam Smith’s &lt;em&gt;The Theory of Moral Sentiments&lt;/em&gt;. After a discourse on Personality Psychology, Professor Shiller starts a list of important topics in Behavioral Finance with Daniel Kahneman’s and Amos Tversky’s Prospect Theory. The value function and the probability weighting function, as two key components of this theory, help explain certain patterns in people’s everyday decision making, e.g. the existence of diamond ring insurance and airline flight insurance. An in-class experiment underscores the prevalence and importance of the concept of overconfidence. Further topics include Regret Theory, gambling behavior, cognitive dissonance, anchoring, the representativeness heuristic, and social contagion. Professor Shiller concludes the lecture with some perspectives on moral judgment in the business world, addressing shared values and integrity.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_11_022111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Misbehavior, Crises, Regulation and Self Regulation</title>
+      <description>&lt;p&gt;After talking about human failures and foibles in the last lecture, in this lecture Professor Shiller discusses regulation to minimize the impact of human errors. He outlines five different levels of regulation: regulation on the firm level, on the level of trade groups, on the regional, the national, and the international level. Concerning the first level, he emphasizes the role of the board of directors as the regulators of a company, its duties of care and loyalty, and its responsibilities in the face of tunneling. On the level of trade groups, Professor Shiller presents the history of the New York Stock Exchange from the signing of the Buttonwood Agreement until today. The subsequent description of regional regulation centers on Blue Sky laws during the progressive era of the U.S. in the late 19&lt;sup&gt;th&lt;/sup&gt; and early 20&lt;sup&gt;th&lt;/sup&gt; century. On the national level of regulation, he covers the founding days of the Securities and Exchange Commission, its regulation of hedge funds, as well as its efforts against the trading of insider information and stock price manipulation. He complements his coverage of national regulation with the regulatory efforts in the aftermath of the financial crisis from 2007-2008, i.e. the creation of the Financial Stability Oversight Council and of the Consumer Financial Protection Bureau by the Dodd-Frank Act from 2010, paired with the European efforts in the course of the European Supervisory Framework, also from 2010. With respect to the fifth and final level of regulation – international regulation – Professor Shiller talks about the Basel Committee on Banking Supervisionand the G-20.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_12_022311.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Banks</title>
+      <description>&lt;p&gt;Banks are among our most enduring of financial institutions. Their survival in so many different historical periods is testimony to their importance. Professor Shiller traces the origins of interest rates from Sumeria in 2000 BC, to ancient Greece and Rome, up to the Song Dynasty in China between the 10&lt;sup&gt;th&lt;/sup&gt; and the 12&lt;sup&gt;th&lt;/sup&gt; century. Subsequently, he looks at banking in Italy during the Renaissance and at the goldsmith bankers in 16&lt;sup&gt;th&lt;/sup&gt; and 17&lt;sup&gt;th &lt;/sup&gt;century England. Banks have survived so long because they solve adverse selection and moral hazard problems. Additionally, he covers Douglas Diamond’s and Philip Dybvig’s model, which does not only analyze the banks’ role for liquidity provision, but also reveals the possibility of bank runs. This leads Professor Shiller to deposit insurance as a means to prevent bank runs. He discusses the Federal Deposit Insurance Corporation as well as the Federal Savings and Loans Insurance Corporation, together with the role that the latter played during the savings and loan crisis of the 1980s. The necessity to regulate banks in the presence of deposit insurance results in a discussion of the role of the Basel commission and an explicit calculation to illustrate the core principles of Basel III. At the end, Professor Shiller provides an overview of financial crises since the beginning of the 1990s, with the Mexican crisis of 1994-1995, and the Asian crisis of 1997.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_13_022811.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Guest Speaker Maurice &quot;Hank&quot; Greenberg</title>
+      <description>&lt;p&gt;This is a guest lecture by Maurice “Hank” Greenberg, former Chief Executive Officer at American International Group. Mr. Greenberg starts his lecture with reflections on his time in the U.S. Army during World War II and the Korean War as well as on his first job in the insurance business as a junior underwriter. Subsequently, after meeting Cornelius Vander Starr, he restructures Starr’s failing company The American Home and creates the American International Group (AIG). Factors that have contributed to AIG’s success include global diversification through the opening of markets worldwide, the development of innovative insurance products, like political risk insurance and kidnap ransom insurance, and a unique corporate culture that manifests itself in Mr. Greenberg’s view of the senior management during his time as a band of brothers. Turning his attention to the early years of the 21&lt;sup&gt;st&lt;/sup&gt; century, he addresses Eliot Spitzer’s role in his parting from AIG in 2005 and describes the developments at AIG that ultimately resulted in the government’s bailout of the company. He concludes with his personal assessment of the causes of the financial crisis from 2007-2008 and a critical perspective on the role of the government during this crisis. In the following questions-and-answers session, he talks, among other topics, about the insurance industry in China, and shares his views about AIG’s current CEO Robert Benmosche and the Dodd-Frank Act from 2010.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_14_030211.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Forward and Futures Markets</title>
+      <description>&lt;p&gt;To begin the lecture, Professor Shiller elaborates on the difference between forwards and futures and on the role of futures markets to infer future prices for the underlying commodity or financial asset. Generalizing the discussion beyond futures markets to derivatives markets, he assesses the issue of speculation in those markets and its impact on capitalist activity. Subsequently, he introduces the notions of counterparty risk, standardization of contracts, and clearinghouses within the framework of the first futures market, the market for rice futures in Dojima, Japan. While describing wheat futures, he addresses the price patterns of contango and backwardation, margin accounts that help alleviating counterparty risk, as well as the fair value formula for futures prices. The third commodity futures market is the oil futures market, which leads to description of the history of the oil market in general from the 1870s, to the first and second oil crisis, until the oil price spike in 2008. Professor Shiller concludes this lecture with financial futures, specifically S&amp;amp;P 500 index futures, touching upon the difference between physical delivery and cash settlement.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_15_032111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Guest Speaker Laura Cha</title>
+      <description>&lt;p&gt;This is a guest lecture by Laura Cha, former vice chair of the China Securities Regulatory Commission and a member of the Executive Council of Hong Kong. In her introductory remarks, Ms. Cha emphasizes career opportunities in the private as well as the public sector of financial markets, and elaborates on her own career as a regulator in the Chinese market. In an ensuing discussion with Professor Shiller, she discusses motivations to work in the public sector, emphasizing the marketability of public sector skills in the private sector, but also a sense of mission to influence the creation and proper functioning of markets. Subsequently, in a conversation with the students of the class, she addresses the application and enforcement of regulation in China. Moreover, she outlines channels through which the Chinese government supports start-up companies, and addresses the recent mergers of various financial exchanges all over the world. Further topics of the conversation include the registration of Chinese companies on overseas exchanges, the plans for an international board at the Shanghai Stock Exchange, and a personal account of her studies at law school. Ms. Cha concludes her guest lecture by sharing her views about the Basel III rules.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_16_032811.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Options Markets</title>
+      <description>&lt;p&gt;After introducing the core terms and main ideas of options in the beginning of the lecture, Professor Shiller emphasizes two purposes of options, a theoretical and a behavioral purpose. Subsequently, he provides a graphical representation for the value of a call and a put option, and, in this context, addresses the put-call parity for European options. Within the framework of the Binomial Asset Pricing model, he derives the value of a call-option from the no-arbitrage-principle, and, as a continuous-time analogue to this formula, he presents the Black-Scholes Option Pricing formula. He contrasts implied volatility, as represented by the VIX index of the Chicago Board Options Exchange, which uses a different formula in the spirit of Black-Scholes, with the actual S&amp;amp;P Composite volatility from 1986 until 2010. Professor Shiller concludes the lecture with some thoughts about options on single-family homes that he launched with his colleagues of the Chicago Mercantile Exchange in 2006.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_17_033011.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Monetary Policy</title>
+      <description>&lt;p&gt;To begin the lecture, Professor Shiller explores the origins of central banking, from the goldsmith bankers in the United Kingdom to the founding of the Bank of England in 1694, which was a private institution that created stability in the U.K. financial system by requiring other banks to have deposits in it. Turning his attention to the U.S., Professor Shiller outlines the evolution of its banking system from the Suffolk System, via the National Banking era, to the founding of the Federal Reserve System in 1913. After presenting approaches to central banking in the European Union and in Japan, he emphasizes the federal funds rate, targeted by the Federal Open Market Committee, as well as the recent change to pay interest on reserve balances at the Federal Reserve, enacted by the Emergency Economic Stabilization Act from 2008, as important tools of U.S. monetary policy. After elaborating on reserve requirements, which are liability-based restrictions, and capital requirements, which are asset-based, he provides a simple, illustrative example that delivers an important intuition about the difficulties that banks have faced during the recent crisis from 2007-2008. This leads to Professor Shiller’s concluding remarks about regulatory approaches to the prevention of future banking crises.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_18_040411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Investment Banks</title>
+      <description>&lt;p&gt;Professor Shiller characterizes investment banking by contrasting it to consulting, commercial banking, and securities trading. Then, in order to see the essence of investment banking, he reviews some of the principles that John Whitehead, the former chairman of Goldman Sachs, has formulated. These principles are the basis for a discussion of the substantial power that investment bankers have, and their role in society. Government regulation of these powerful investment banks has been a thorny issue for many years, and especially so now since they played a significant role in world financial crisis of the 2000s.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_19_040611.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Professional Money Managers and Their Influence</title>
+      <description>&lt;p&gt;Professor Shiller argues that institutional investors are fundamentally important to our economy and our society. Following his thoughts about societal changes in a modern and capitalist world, he turns his attention to the fiduciary duties of investment managers. He emphasizes the “prudent person rule,” and critically reflects on the limitations that these rules impose on investment managers. Elaborating on different forms of institutional money management, he covers mutual funds, contrasting the legislative environments in the U.S. and Europe, and trusts. In the treatment of the next form, pension funds, he starts out with the history of pension funds in the late 19&lt;sup&gt;th&lt;/sup&gt; and the first half of the 20&lt;sup&gt;th&lt;/sup&gt; century, and subsequently presents the legislative framework for pension funds before he outlines the differences of defined benefit and defined contribution plans. Professor Shiller finishes the list of forms of institutional money management with endowments, focusing on investment mistakes in endowment management, as well as family offices and family foundations.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_20_041111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Exchanges, Brokers, Dealers, Clearinghouses</title>
+      <description>&lt;p&gt;As the starting point for this lecture, Professor Shiller contrasts the view of economics as the theory of the allocation of scarce resources with the view of economics as the study of exchange. After a discussion of the difference between brokers and dealers, he outlines the history of securities exchanges from ancient Rome, to the Amsterdam Stock Exchange and Jonathan’s Coffee House in London, until the formation of the New York Stock Exchange. He complements this historic account with an overview of securities exchanges all over the world, covering India, China, Brazil, and Mexico. An example of a limit order book allows him to elaborate on the mechanics of trading at the National Association of Securities Dealers Automatic Quotation System (NASDAQ). Subsequently, he turns his attention to the growing importance of program trading and high frequency trading, but also discusses their impact on the stock market crash from October 19, 1987, as well as on the Flash Crash from May 6, 2010. When talking about fairness in financial markets, particularly with regard to the relation between private investors and brokers, he discusses the National Market System (NMS), the Intermarket Trading System (ITS), and consolidated quotation systems. He concludes this lecture with some reflections on the operations of dealers, addressing the role of inside information and the Gambler’s Ruin problem.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_21_041311.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Public and Non-Profit Finance</title>
+      <description>&lt;p&gt;As an introduction to public and nonprofit finance, Professor Shiller reflects on the remarkable financial structures that we have in support of public causes, making possible the achievement of higher goals that transcend individual satisfaction of needs. He gives examples of nonprofits, illustrating how that financial form can support a moral mission and social purpose. There is however sometimes a fine line between for-profit and public enterprises, because similar companies can be either for-profit or non-profit and because governments regulate and collect corporate profits taxes on for profit-organizations, implicitly creating a public purpose for them. Subsequently, he covers state and local finance, outlining the difference between operating budgets and capital budgets as well as the tax-exemption of municipal bonds. During the last part of the lecture, he provides an overview of historic improvement in governmental social insurance that ranges from progressive taxes to public services and to old age, survivors, and disability insurance. All of these advances in public and nonprofit finance have taken place in step with other advances in human society, notably advances in information technology.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_22_041811.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - Finding Your Purpose in a World of Financial Capitalism</title>
+      <description>&lt;p&gt;After reviewing the main themes of this course, Professor Shiller shares his views about finance from a broader perspective. His first topic, the morality of finance, centers on Peter Unger’s &lt;em&gt;Living High and Letting Die&lt;/em&gt; and William Graham Sumner’s &lt;em&gt;What the Social Classes Owe Each Other&lt;/em&gt;. Subsequently, he addresses the hopelessness about the world’s future that some see from Malthus’ dismal law from the &lt;em&gt;Essay on the Principle of Population&lt;/em&gt;, but contrasts it with a positive outlook on purposes and goals in life. While discussing the endurance and survival of financial contracts, he outlines the cases of Germany after World War I, Iran after the Islamic Revolution, and South Africa after the end of apartheid, in which financial contracts prevailed, but does not fail to mention the cases of Russia after the Russian Revolution and Japan after World War II, in which it has not been the case. After a brief comparison between Mathematical Finance and Behavioral Finance, he elaborates on the interplay between wealth and inequality, building on Jacob Hacker’s and Paul Pearson’s &lt;em&gt;Winner-Take-All Politics&lt;/em&gt;, Karl Marx’s &lt;em&gt;Das Kapital&lt;/em&gt;, and Robert K. Merton concept of the cosmopolitan class. Following this, he emphasizes the democratization of finance as an important future trend and provides examples for this process from his books &lt;em&gt;The Subprime Solution&lt;/em&gt;, &lt;em&gt;The New Financial Order &lt;/em&gt;and&lt;em&gt; Finance and the Good Society&lt;/em&gt;. Professor Shiller concludes the course with advice for finding the right career, highlighting the role of random events, but also the importance of a long-horizon outlook and an orientation towards history in the making.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_23_042011.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+  </channel>
+</rss>

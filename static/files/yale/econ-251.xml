@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Financial Theory</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor John Geanakoplos</itunes:author>
+    <description>&lt;p&gt;This course attempts to explain the role and the importance of the financial system in the global economy. Rather than separating off the financial world from the rest of the economy, financial equilibrium is studied as an extension of economic equilibrium. The course also gives a picture of the kind of thinking and analysis done by hedge funds.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/geanakoplos_2.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/economics/econ-251</link>
+        <item>
+      <title> - Why Finance?</title>
+      <description>&lt;p&gt;This lecture gives a brief history of the young field of financial theory, which began in business schools quite separate from economics, and of my growing interest in the field and in Wall Street. A cornerstone of standard financial theory is the efficient markets hypothesis, but that has been discredited by the financial crisis of 2007-09. This lecture describes the kinds of questions standard financial theory nevertheless answers well. It also introduces the leverage cycle as a critique of standard financial theory and as an explanation of the crisis. The lecture ends with a class experiment illustrating a situation in which the efficient markets hypothesis works surprisingly well.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_01_090309.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - Utilities, Endowments, and Equilibrium</title>
+      <description>&lt;p&gt;This lecture explains what an economic model is, and why it allows for counterfactual reasoning and often yields paradoxical conclusions. Typically, equilibrium is defined as the solution to a system of simultaneous equations. The most important economic model is that of supply and demand in one market, which was understood to some extent by the ancient Greeks and even by Shakespeare. That model accurately fits the experiment from the last class, as well as many other markets, such as the Paris Bourse, online trading, the commodities pit, and a host of others. The modern theory of general economic equilibrium described in this lecture extends that model to continuous quantities and multiple commodities. It is the bedrock on which we will build the model of financial equilibrium in subsequent lectures.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_02_090809.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Computing Equilibrium</title>
+      <description>&lt;p&gt;Our understanding of the economy will be more tangible and vivid if we can in principle explain all the economic decisions of every agent in the economy. This lecture demonstrates, with two examples, how the theory lets us calculate equilibrium prices and allocations in a simple economy, either by hand or using a computer. In future lectures we shall extend this method so as to compute equilibrium in financial economies with stocks and bonds and other financial assets.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_03_091009.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Efficiency, Assets, and Time</title>
+      <description>&lt;p&gt;Over time, economists’ justifications for why free markets are a good thing have changed. In the first few classes, we saw how under some conditions, the competitive allocation maximizes the sum of agents’ utilities. When it was found that this property didn’t hold generally, the idea of Pareto efficiency was developed. This class reviews two proofs that equilibrium is Pareto efficient, looking at the arguments of economists Edgeworth and Arrow-Debreu. The lecture suggests that if a broadening of the economic model invalidated the sum of utilities justification of free markets, a further broadening might invalidate the Pareto efficiency justification of unregulated markets. Finally, Professor Geanakoplos discusses how Irving Fisher introduced two crucial ingredients of finance–time and assets–into the standard economic equilibrium model.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_04_091509.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Present Value Prices and the Real Rate of Interest</title>
+      <description>&lt;p&gt;Philosophers and theologians have railed against interest for thousands of years. But that is because they didn’t understand what causes interest. Irving Fisher built a model of financial equilibrium on top of general equilibrium (GE) by introducing time and assets into the GE model. He saw that trade between apples today and apples next year is completely analogous to trade between apples and oranges today. Similarly he saw that in a world without uncertainty, assets like stocks and bonds are significant only for the dividends they pay in the future, just like an endowment of multiple goods. With these insights Fisher was able to show that he could solve his model of financial equilibrium for interest rates, present value prices, asset prices, and allocations with precisely the same techniques we used to solve for general equilibrium. He concluded that the real rate of interest is a relative price, and just like any other relative price, is determined by market participants’ preferences and endowments, an insight that runs counter to the intuitions held by philosophers throughout much of human history. His theory did not explain the nominal rate of interest or inflation, but only their ratio.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_05_091709.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Irving Fisher&#x27;s Impatience Theory of Interest</title>
+      <description>&lt;p&gt;Building on the general equilibrium setup solved in the last week, this lecture looks in depth at the relationships between productivity, patience, prices, allocations, and nominal and real interest rates. The solutions are given to three of Fisher’s famous examples: What happens to interest rates when people become more or less patient? What happens when they expect to receive windfall riches sometime in the future? And, what happens when wealth in an economy is redistributed from the poor to the rich?&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_06_092209.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Shakespeare&#x27;s Merchant of Venice and Collateral, Present Value and the Vocabulary of Finance</title>
+      <description>&lt;p&gt;While economists didn’t have a good theory of interest until Irving Fisher came along, and didn’t understand the role of collateral until even later, Shakespeare understood many of these things hundreds of years earlier. The first half of this lecture examines Shakespeare’s economic insights in depth, and sees how they sometimes prefigured or even surpassed Irving Fisher’s intuitions. The second half of this lecture uses the concept of present value to define and explain some of the basic financial instruments: coupon bonds, annuities, perpetuities, and mortgages.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_07_092409.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - How a Long-Lived Institution Figures an Annual Budget; Yield</title>
+      <description>&lt;p&gt;In the 1990s, Yale discovered that it was faced with a deferred maintenance problem: the university hadn’t properly planned for important renovations in many buildings. A large, one-time expenditure would be needed. How should Yale have covered these expenses? This lecture begins by applying the lessons learned so far to show why Yale’s initial forecast budget cuts were overly pessimistic. In the second half of the class, we turn to the problem of measuring investment performance, and examine the strengths and weaknesses of various measures of yield, including yield-to-maturity and current yield.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_08_092909.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Yield Curve Arbitrage</title>
+      <description>&lt;p&gt;Where can you find the market rates of interest (or equivalently the zero coupon bond prices) for every maturity? This lecture shows how to infer them from the prices of Treasury bonds of every maturity, first using the method of replication, and again using the principle of duality. Treasury bond prices, or at least Treasury bond yields, are published every day in major newspapers. From the zero coupon bond prices one can immediately infer the forward interest rates. Under certain conditions these forward rates can tell us a lot about how traders think the prices of Treasury bonds will evolve in the future.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_09_100109.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Dynamic Present Value</title>
+      <description>&lt;p&gt;In this lecture we move from present values to dynamic present values. If interest rates evolve along the forward curve, then the present value of the remaining cash flows of any instrument will evolve in a predictable trajectory. The fastest way to compute these is by backward induction. Dynamic present values help us understand the returns of various trading strategies, and how marking-to-market can prevent some subtle abuses of the system. They explain how mortgages work, why they’re called amortizing, and what is meant by the remaining balance. In the second half of the lecture we turn to an important application of present value thinking: an analysis of the troubles facing the Social Security system.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_10_100609.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Social Security</title>
+      <description>&lt;p&gt;This lecture continues the analysis of Social Security started at the end of the last class. We describe the creation of the system in 1938 by Franklin Roosevelt and Frances Perkins and its current financial troubles. For many Democrats, Social Security is the most successful government program ever devised and for many Republicans Social Security is a bankrupt program that needs to be privatized. Is there any way to reconcile the views of Democrats and Republicans? How did the system get into so much financial trouble? We will see that the mess becomes quite clear when examined with the proper present value approach. Present value analysis reveals the flaws in the three most popular analyses of Social Security, that the financial breakdown is the fault of the baby boomers, that privatization would bring young investors a better return than they anticipate getting from their social security contributions, and that privatization is impossible without compromising today’s retired workers.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_11_100809.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Overlapping Generations Models of the Economy</title>
+      <description>&lt;p&gt;In order for Social Security to work, people have to believe there’s some possibility that the world will last forever, so that each old generation will have a young generation to support it. The overlapping generations model, invented by Allais and Samuelson but here augmented with land, represents such a situation. Financial equilibrium can again be reduced to general equilibrium. At first glance it would seem that the model requires a solution of an infinite number of supply equals demand equations, one for each time period. But by assuming stationarity, the whole analysis can be reduced to one equation. In this mathematical framework we reach an even more precise and subtle understanding of Social Security and the real rate of interest. We find that Social Security likely increases the real rate of interest. The presence of land, an infinitely lived asset that pays a perpetual dividend, forces the real rate of interest to be positive, exposing the flaw in Samuelson’s contention that Social Security is a giant, yet beneficial, Ponzi scheme where each generation can win by perpetually deferring a growing cost.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_12_101309.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Demography and Asset Pricing: Will the Stock Market Decline when the Baby Boomers Retire?</title>
+      <description>&lt;p&gt;In this lecture, we use the overlapping generations model from the previous class to see, mathematically, how demographic changes can influence interest rates and asset prices. We evaluate Tobin’s statement that a perpetually growing population could solve the Social Security problem, and resolve, in a surprising way, a classical argument about the link between birth rates and the level of the stock market. Lastly, we finish by laying some of the philosophical and statistical groundwork for dealing with uncertainty.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_13_101509.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Quantifying Uncertainty and Risk</title>
+      <description>&lt;p&gt;Until now, the models we’ve used in this course have focused on the case where everyone can perfectly forecast future economic conditions. Clearly, to understand financial markets, we have to incorporate uncertainty into these models. The first half of this lecture continues reviewing the key statistical concepts that we’ll need to be able to think seriously about uncertainty, including expectation, variance, and covariance. We apply these concepts to show how diversification can reduce risk exposure. Next we show how expectations can be iterated through time to rapidly compute conditional expectations: if you think the Yankees have a 60% chance of winning any game against the Dodgers, what are the odds the Yankees will win a seven game series once they are up 2 games to 1? Finally we allow the interest rate, the most important variable in the economy according to Irving Fisher, to be uncertain. We ask whether interest rate uncertainty tends to make a dollar in the distant future more valuable or less valuable.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_14_102209.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Uncertainty and the Rational Expectations Hypothesis: Applications to Predicting Stock Prices, Default Probabilities, and Hyperbolic Discounting</title>
+      <description>&lt;p&gt;According to the rational expectations hypothesis, traders know the probabilities of future events, and value uncertain future payoffs by discounting their expected value at the riskless rate of interest. Under this hypothesis the best predictor of a firm’s valuation in the future is its stock price today. In one famous test of this hypothesis, it was found that detailed weather forecasts could not be used to improve on contemporaneous orange prices as a predictor of future orange prices, but that orange prices could improve contemporaneous weather forecasts. Under the rational expectations hypothesis you can infer more about the odds of corporate or sovereign bonds defaulting by looking at their prices than by reading about the financial condition of their issuers.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_15_102709.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Backward Induction and Optimal Stopping Times</title>
+      <description>&lt;p&gt;In the first part of the lecture we wrap up the previous discussion of implied default probabilities, showing how to calculate them quickly by using the same duality trick we used to compute forward interest rates, and showing how to interpret them as spreads in the forward rates. The main part of the lecture focuses on the powerful tool of backward induction, once used in the early 1900s by the mathematician Zermelo to prove the existence of an optimal strategy in chess. We explore its application in a series of optimal stopping problems, starting with examples quite distant from economics such as how to decide when it is time to stop dating and get married. In each case we find that the option to continue is surprisingly valuable.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_16_102909.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Callable Bonds and the Mortgage Prepayment Option</title>
+      <description>&lt;p&gt;This lecture is about optimal exercise strategies for callable bonds, which are bonds bundled with an option that allows the borrower to pay back the loan early, if she chooses. Using backward induction, we calculate the borrower’s optimal strategy and the value of the option. As with the simple examples in the previous lecture, the option value turns out to be very large. The most important callable bond is the fixed rate amortizing mortgage; calling a mortgage means prepaying your remaining balance. We examine how high bankers must set the mortgage rate in order to compensate for the prepayment option they give homeowners. Looking at data on mortgage rates we see that mortgage borrowers often fail to prepay optimally.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_17_110309.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Modeling Mortgage Prepayments and Valuing Mortgages</title>
+      <description>&lt;p&gt;A mortgage involves making a promise, backing it with collateral, and defining a way to dissolve the promise at prearranged terms in case you want to end it by prepaying. The option to prepay, the refinancing option, makes the mortgage much more complicated than a coupon bond, and therefore something that a hedge fund could make money trading. In this lecture we discuss how to build and calibrate a model to forecast prepayments in order to value mortgages. Old fashioned economists still make non-contingent forecasts, like the recent predictions that unemployment would peak at 8%. A model makes contingent forecasts. The old prepayment models fit a curve to historical data estimating how sensitive aggregate prepayments have been to changes in the interest rate. The modern agent based approach to modeling rationalizes behavior at the individual level and allows heterogeneity among individual types. From either kind of model we see that mortgages are very risky securities, even in the absence of default. This raises the question of how investors and banks should hedge them.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_18_110509.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - History of the Mortgage Market: A Personal Narrative</title>
+      <description>&lt;p&gt;Professor Geanakoplos explains how, as a mathematical economist, he became interested in the practical world of mortgage securities, and how he became the Head of Fixed Income Securities at Kidder Peabody, and then one of six founding partners of Ellington Capital Management. During that time Kidder Peabody became the biggest issuer of collateralized mortgage obligations, and Ellington became the biggest mortgage hedge fund. He describes securitization and tranching of mortgage pools, the role of investment banks and hedge funds, and the evolution of the prime and subprime mortgage markets. He also discusses agent based models of prepayments in the mortgage market.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_19_120810.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Dynamic Hedging</title>
+      <description>&lt;p&gt;Suppose you have a perfect model of contingent mortgage prepayments, like the one built in the previous lecture. You are willing to bet on your prepayment forecasts, but not on which way interest rates will move. Hedging lets you mitigate the extra risk, so that you only have to rely on being right about what you know. The trouble with hedging is that there are so many things that can happen over the 30-year life of a mortgage. Even if interest rates can do only two things each year, in 30 years there are over a billion interest rate scenarios. It would seem impossible to hedge against so many contingencies. The principle of dynamic hedging shows that it is enough to hedge yourself against the two things that can happen next year (which is far less onerous), provided that each following year you adjust the hedge to protect against what might occur one year after that. To illustrate the issue we reconsider the World Series problem from a previous lecture. Suppose you know the Yankees have a 60% chance of beating the Dodgers in each game and that you can bet any amount at 60:40 odds on individual games with other bookies. A naive fan is willing to bet on the Dodgers winning the whole Series at even odds. You have a 71% chance of winning a bet against the fan, but bad luck can cause you to lose anyway. What bets on individual games should you make with the bookies to lock in your expected profit from betting against the fan on the whole Series?&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_20_111009.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Dynamic Hedging and Average Life</title>
+      <description>&lt;p&gt;This lecture reviews the intuition from the previous class, where the idea of dynamic hedging was introduced. We learn why the crucial idea of dynamic hedging is marking to market: even when there are millions of possible scenarios that could come to pass over time, by hedging a little bit each step of the way, the number of possibilities becomes much more manageable. We conclude the discussion of hedging by introducing a measure for the average life of a bond, and show how traders use this to figure out the appropriate hedge against interest rate movements.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_21_111209.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Risk Aversion and the Capital Asset Pricing Theorem</title>
+      <description>&lt;p&gt;Until now we have ignored risk aversion. The Bernoulli brothers were the first to suggest a tractable way of representing risk aversion. They pointed out that an explanation of the St. Petersburg paradox might be that people care about expected utility instead of expected income, where utility is some concave function, such as the logarithm. One of the most famous and important models in financial economics is the Capital Asset Pricing Model, which can be derived from the hypothesis that every agent has a (different) quadratic utility. Much of the modern mutual fund industry is based on the implications of this model. The model describes what happens to prices and asset holdings in general equilibrium when the underlying risks can’t be hedged in the aggregate. It turns out that the tools we developed in the beginning of this course provide an answer to this question.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_22_111709.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - The Mutual Fund Theorem and Covariance Pricing Theorems</title>
+      <description>&lt;p&gt;This lecture continues the analysis of the Capital Asset Pricing Model, building up to two key results. One, the Mutual Fund Theorem proved by Tobin, describes the optimal portfolios for agents in the economy. It turns out that every investor should try to maximize the Sharpe ratio of his portfolio, and this is achieved by a combination of money in the bank and money invested in the “market” basket of all existing assets. The market basket can be thought of as one giant index fund or mutual fund. This theorem precisely defines optimal diversification. It led to the extraordinary growth of mutual funds like Vanguard. The second key result of CAPM is called the covariance pricing theorem because it shows that the price of an asset should be its discounted expected payoff less a multiple of its covariance with the market. The riskiness of an asset is therefore measured by its covariance with the market, rather than by its variance. We conclude with the shocking answer to a puzzle posed during the first class, about the relative valuations of a large industrial firm and a risky pharmaceutical start-up.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_23_111909.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - Risk, Return, and Social Security</title>
+      <description>&lt;p&gt;This lecture addresses some final points about the CAPM. How would one test the theory? Given the theory, what’s the right way to think about evaluating fund managers’ performance? Should the manager of a hedge fund and the manager of a university endowment be judged by the same performance criteria? More generally, how should we think about the return differential between stocks and bonds? Lastly, looking back to the lectures on Social Security earlier in the semester, how should the CAPM inform our thinking about the role of stocks and bonds in Social Security? Can the views of Democrats and Republicans be reconciled? What if Social Security were privatized, but workers were forced to hold their assets in a new kind of asset called PAAWS, which pay the holder more if the wage of young workers is higher?&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_24_120109.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+    <item>
+      <title> - The Leverage Cycle and the Subprime Mortgage Crisis</title>
+      <description>&lt;p&gt;Standard financial theory left us woefully unprepared for the financial crisis of 2007-09. Something is missing in the theory. In the majority of loans the borrower must agree on an interest rate and also on how much collateral he will put up to guarantee repayment. The standard theory presented in all the textbooks ignores collateral. The next two lectures introduce a theory of the Leverage Cycle, in which default and collateral are endogenously determined. The main implication of the theory is that when collateral requirements get looser and leverage increases, asset prices rise, but then when collateral requirements get tougher and leverage decreases, asset prices fall. This stands in stark contrast to the fundamental value theory of asset pricing we taught so far. We’ll look at a number of facts about the subprime mortgage crisis, and see whether the new theory offers convincing explanations.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_25_120809.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 25</guid>
+    </item>
+    <item>
+      <title> - The Leverage Cycle and Crashes</title>
+      <description>&lt;p&gt;In order to understand the precise predictions of the Leverage Cycle theory, in this last class we explicitly solve two mathematical examples of leverage cycles. We show how supply and demand determine leverage as well as the interest rate, and how impatience and volatility play crucial roles in setting the interest rate and the leverage. Mathematically, the model helps us identify the three key elements of a crisis. First, scary bad news increases uncertainty. Second, leverage collapses. Lastly, the most optimistic people get crushed, so the new marginal buyers are far less sanguine about the economy. The result is that the drop in asset prices is amplified far beyond what any market participant would expect from the news alone. If we want to mitigate the fallout from a crisis, the place to begin is in controlling those three elements. If we want to prevent leverage cycle crashes, we must monitor leverage and regulate it, the same way we monitor and adjust interest rates.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_26_121009.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 26</guid>
+    </item>
+  </channel>
+</rss>

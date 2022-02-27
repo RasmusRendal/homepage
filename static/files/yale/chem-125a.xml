@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Freshman Organic Chemistry I</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor J. Michael McBride</itunes:author>
+    <description>&lt;p&gt;This is the first semester in a two-semester introductory course focused on current theories of structure and mechanism in organic chemistry, their historical development, and their basis in experimental observation. The course is open to freshmen with excellent preparation in chemistry and physics, and it aims to develop both taste for original science and intellectual skills necessary for creative research.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/mcbride1_1.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/chemistry/chem-125a</link>
+        <item>
+      <title> - How Do You Know?</title>
+      <description>&lt;p&gt;Professor McBride outlines the course with its goals and requirements, including the required laboratory course. To the course’s prime question “How do you know” he proposes two unacceptable answers (divine and human authority), and two acceptable answers (experiment and logic). He illustrates the fruitfulness of experiment and logic using the rise of science in the seventeenth century. London’s Royal Society and the “crucial” experiment on light by Isaac Newton provide examples. In his correspondence with Newton Samuel Pepys, diarist and naval purchasing officer, illustrates the attitudes and habits which are most vital for budding scientists - especially those who would like to succeed in this course. The lecture closes by introducing the underlying goal for the first half of the semester: understanding the Force Law that describes chemical bonds.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_01_090308.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - Force Laws, Lewis Structures and Resonance</title>
+      <description>&lt;p&gt;Professor McBride begins by following Newton’s admonition to search for the force law that describes chemical bonding. Neither direct (Hooke’s Law) nor inverse (Coulomb, Gravity) dependence on distance will do - a composite like the Morse potential is needed. G. N. Lewis devised a “cubic-octet” theory based on the newly discovered electron, and developed it into a shared pair model to explain bonding. After discussing Lewis-dot notation and formal charge, Professor McBride shows that in some “single-minimum” cases the Lewis formalism is inadequate and salvaging it required introducing the confusing concept of “resonance.”&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_02_090508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Double Minima, Earnshaw&#x27;s Theorem and Plum-Puddings</title>
+      <description>&lt;p&gt;Continuing the discussion of Lewis structures and chemical forces from the previous lecture, Professor McBride introduces the double-well potential of the ozone molecule and its structural equilibrium. The inability for inverse-square force laws to account for stable arrangements of charged particles is prescribed by Earnshaw’s Theorem, which may be visualized by means of lines of force. J.J. Thomson circumvented Earnshaw’s prohibition on structure by postulating a “plum-pudding” atom. When Rutherford showed that the nucleus was a point, Thomson had to conclude that Coulomb’s law was invalid at small distances.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_03_090808.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Coping with Smallness and Scanning Probe Microscopy</title>
+      <description>&lt;p&gt;This lecture asks whether it is possible to confirm the reality of bonds by seeing or feeling them. It first describes the work of “clairvoyant” charlatans from the beginning of the twentieth century, who claimed to “see” details of atomic and molecular structure, in order to discuss proper bases for scientific belief. It then shows that the molecular scale is not inconceivably small, and that Newton and Franklin performed simple experiments that measure such small distances. In the last 25 years various realizations of Scanning Probe Microscopy have enabled chemists to “feel” individual molecules and atoms, but not bonds.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_04_091008.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - X-Ray Diffraction</title>
+      <description>&lt;p&gt;Professor McBride introduces the theory behind light diffraction by charged particles and its application to the study of the electron distribution in molecules by x-ray diffraction. The roles of molecular pattern and crystal lattice repetition are illustrated by shining laser light through diffraction masks to generate patterns reminiscent of those encountered in X-ray studies of ordered solids.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_05_091208.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Seeing Bonds by Electron Difference Density</title>
+      <description>&lt;p&gt;Professor McBride uses a hexagonal “benzene” pattern and Franklin’s X-ray pattern of DNA, to continue his discussion of X-ray crystallography by explaining how a diffraction pattern in “reciprocal space” relates to the distribution of electrons in molecules and to the repetition of molecules in a crystal lattice. He then uses electron difference density mapping to reveal bonds, and unshared electron pairs, and their shape, and to show that they are only one-twentieth as dense as would be expected for Lewis shared pairs. Anomalous difference density in the carbon-fluorine bond raises the course’s second great question, “Compared to what?”&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_06_091508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Quantum Mechanical Kinetic Energy</title>
+      <description>&lt;p&gt;After pointing out several discrepancies between electron difference density results and Lewis bonding theory, the course proceeds to quantum mechanics in search of a fundamental understanding of chemical bonding. The wave function ψ, which beginning students find confusing, was equally confusing to the physicists who created quantum mechanics. The Schrödinger equation reckons kinetic energy through the shape of ψ. When ψ curves toward zero, kinetic energy is positive; but when it curves away, kinetic energy is negative!&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_07_091708.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - One-Dimensional Wave Functions</title>
+      <description>&lt;p&gt;Professor McBride expands on the recently introduced concept of the wave function by illustrating the relationship of the magnitude of the curvature of the wave function to the kinetic energy of the system, as well as the relationship of the square of the wave function to the electron probability density. The requirement that the wave function not diverge in areas of negative kinetic energy leads to only certain energies being allowed, a property which is explored for the harmonic oscillator, Morse potential, and the Columbic potential. Consideration of the influence of mass reveals an “isotope effect” on dynamics, on the energy, vibration frequency, and length of bonds.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_08_091908.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Chladni Figures and One-Electron Atoms</title>
+      <description>&lt;p&gt;After showing how a double-minimum potential generates one-dimensional bonding, Professor McBride moves on to multi-dimensional wave functions. Solving Schrödinger’s three-dimensional differential equation might have been daunting, but it was not, because the necessary formulas had been worked out more than a century earlier in connection with acoustics. Acoustical “Chladni” figures show how nodal patterns relate to frequencies. The analogy is pursued by studying the form of wave functions for “hydrogen-like” one-electron atoms. Removing normalizing constants from the formulas for familiar orbitals reveals the underlying simplicity of their shapes.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_09_092208.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Reality and the Orbital Approximation</title>
+      <description>&lt;p&gt;In discussions of the Schrödinger equation thus far, the systems described were either one-dimensional or involved a single electron. After discussing how increased nuclear charge affects the energies of one-electron atoms and then discussing hybridization, this lecture finally addresses the simple fact that multi-electron systems cannot be properly described in terms of one-electron orbitals.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_10_092408.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Orbital Correction and Plum-Pudding Molecules</title>
+      <description>&lt;p&gt;The lecture opens with tricks (“Z-effective” and “Self Consistent Field”) that allow one to correct approximately for the error in using orbitals that is due to electron repulsion. This error is hidden by naming it “correlation energy.” Professor McBride introduces molecules by modifying J.J. Thomson’s Plum-Pudding model of the atom to rationalize the form of molecular orbitals. There is a close analogy in form between the molecular orbitals of CH&lt;sub&gt;4&lt;/sub&gt; and NH&lt;sub&gt;3&lt;/sub&gt; and the atomic orbitals of neon, which has the same number of protons and neutrons. The underlying form due to kinetic energy is distorted by pulling protons out of the Ne nucleus to play the role of H atoms.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_11_092908.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Overlap and Atom-Pair Bonds</title>
+      <description>&lt;p&gt;This lecture begins by applying the united-atom “plum-pudding” view of molecular orbitals, introduced in the previous lecture, to more complex molecules. It then introduces the more utilitarian concept of localized pairwise bonding between atoms. Formulating an atom-pair molecular orbital as the sum of atomic orbitals creates an electron difference density through the cross product that enters upon squaring a sum. This “overlap” term is the key to bonding. The hydrogen molecule is used to illustrate how close a simple sum of atomic orbitals comes to matching reality, especially when the atomic orbitals are allowed to hybridize.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_12_100108.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Overlap and Energy-Match</title>
+      <description>&lt;p&gt;Professor McBride uses this lecture to show that covalent bonding depends primarily on two factors: orbital overlap and energy-match. First he discusses how overlap depends on hybridization; then how bond strength depends on the number of shared electrons. In this way quantum mechanics shows that Coulomb’s law answers Newton’s query about what “makes the Particles of Bodies stick together by very strong Attractions.” Energy mismatch between the constituent orbitals is shown to weaken the influence of their overlap. The predictions of this theory are confirmed experimentally by measuring the bond strengths of H-H and H-F during heterolysis and homolysis.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_13_100308.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Checking Hybridization Theory with XH3</title>
+      <description>&lt;p&gt;This lecture brings experiment to bear on the previous theoretical discussion of bonding by focusing on hybridization of the central atom in three XH&lt;sub&gt;3&lt;/sub&gt; molecules. Because independent electron pairs must not overlap, hybridization can be related to molecular structure by a simple equation. The “Umbrella Vibration” and the associated rehybridization of the central atom is used to illustrate how a competition between strong bonds and stable atoms works to create differences in molecular structure that discriminate between bonding models. Infrared and electron spin resonance experiments confirm our understanding of the determinants of molecular structure.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_14_100608.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Chemical Reactivity: SOMO, HOMO, and LUMO</title>
+      <description>&lt;p&gt;Professor McBride begins by using previous examples of “pathological” bonding and the BH&lt;sub&gt;3&lt;/sub&gt; molecule to illustrate how a chemist’s use of localized bonds, vacant atomic orbitals, and unshared pairs to understand molecules compares with views based on the molecule’s own total electron density or on computational molecular orbitals. This lecture then focuses on understanding reactivity in terms of the overlap of singly-occupied molecular orbitals (SOMOs) and, more commonly, of an unusually high-energy highest occupied molecular orbital (HOMO) with an unusually low-energy lowest unoccupied molecular orbital (LUMO). This is shown to be a generalization of the traditional concepts of acid and base. Criteria for assessing reactivity are outlined and illustrated.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_15_100808.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Recognizing Functional Groups</title>
+      <description>&lt;p&gt;This lecture continues the discussion of the HOMO/LUMO view of chemical reactivity by focusing on ways of recognizing whether a particular HOMO should be unusually high in energy (basic), or a particular LUMO should be unusually low (acidic). The approach is illustrated with BH&lt;sub&gt;3&lt;/sub&gt;, which is both acidic and basic and thus dimerizes by forming unusual “Y” bonds. The low LUMOs that make both HF and CH&lt;sub&gt;3&lt;/sub&gt;F acidic are analyzed and compared underlining the distinction between MO nodes that derive from atomic orbitals nodes (AON) and those that are antibonding (ABN). Reaction of HF as an acid with OH&lt;sup&gt;-&lt;/sup&gt; is shown to involve simultaneous bond-making and bond-breaking.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_16_101008.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Reaction Analogies and Carbonyl Reactivity</title>
+      <description>&lt;p&gt;Continuing the examination of molecular orbital theory as a predictor of chemical reactivity, this lecture focuses on the close analogy among seemingly disparate organic chemistry reactions: acid-base, SN2 substitution, and E2 elimination. All these reactions involve breaking existing bonds where LUMOs have antibonding nodes while new bonds are being formed. The three-stage oxidation of ammonia by elemental chlorine is analyzed in the same terms. The analysis is extended to the reactivity of the carbonyl group and predicts the trajectory for attack by a high HOMO. This predicted trajectory was validated experimentally by Bürgi and Dunitz, who compared numerous crystal structures determined by X-ray diffraction.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_17_101308.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Amide, Carboxylic Acid and Alkyl Lithium</title>
+      <description>&lt;p&gt;This lecture completes the first half of the semester by analyzing three functional groups in terms of the interaction of localized atomic or pairwise orbitals. Many key properties of biological polypeptides derive from the mixing of such localized orbitals that we associate with “resonance” of the amide group. The acidity of carboxylic acids and the aggregation of methyl lithium into solvated tetramers can be understood in analogous terms. More amazing than the panoply of modern experimental and theoretical tools is that their results would not have surprised traditional organic chemists who already had developed an understanding of organic structure with much cruder tools. The next quarter of the semester is aimed at understanding how our scientific predecessors developed the structural model and nomenclature of organic chemistry that we still use.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_18_101508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Oxygen and the Chemical Revolution (Beginning to 1789)</title>
+      <description>&lt;p&gt;This lecture begins a series describing the development of organic chemistry in chronological order, beginning with the father of modern chemistry, Lavoisier. The focus is to understand the logic of the development of modern theory, technique and nomenclature so as to use them more effectively. Chemistry begins before Lavoisier’s “Chemical Revolution,” with the practice of ancient technology and alchemy, and with discoveries like those of Scheele, the Swedish apothecary who discovered oxygen and prepared the first pure samples of organic acids. Lavoisier’s &lt;em&gt;Traité Élémentaire de Chimie&lt;/em&gt; launched modern chemistry with its focus on facts, ideas, and words. Lavoisier weighed gases and measured heat with a calorimeter, as well as clarifying language and chemical thinking. His key concepts were conservation of mass for the elements and oxidation, a process in which reaction with oxygen could make a “radical” or “base” into an acid.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_19_101708.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Rise of the Atomic Theory (1790-1805)</title>
+      <description>&lt;p&gt;This lecture traces the development of elemental analysis as a technique for the determination of the composition of organic compounds beginning with Lavoisier’s early combustion and fermentation experiments, which showed a new, if naïve, attitude toward handling experimental data. Dalton’s atomic theory was consistent with the empirical laws of definite, equivalent, and multiple proportions. The basis of our current notation and of precise analysis was established by Berzelius, but confusion about atomic weight multiples, which could have been clarified early by the law of Avogadro and Gay-Lussac, would persist for more than half a century.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_20_102208.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Berzelius to Liebig and Wöhler (1805-1832)</title>
+      <description>&lt;p&gt;The most prominent chemist in the generation following Lavoisier was Berzelius in Sweden. Together with Gay-Lussac in Paris and Davy in London, he discovered new elements, and improved atomic weights and combustion analysis for organic compounds. Invention of electrolysis led not only to new elements but also to the theory of dualism, with elements being held together by electrostatic attraction. Wöhler’s report on the synthesis of urea revealed isomerism but also persistent naiveté about treating quantitative data. In their collaborative investigation of oil of bitter almonds Wöhler and Liebig extended dualism to organic chemistry via the radical theory.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_21_102408.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Radical and Type Theories (1832-1850)</title>
+      <description>&lt;p&gt;Work by Wöhler and Liebig on benzaldehyde inspired a general theory of organic chemistry focusing on so-called radicals, collections of atoms which appeared to behave as elements and persist unchanged through organic reactions. Liebig’s French rival, Dumas, temporarily advocated radicals, but converted to the competing theory of types which could accommodate substitution reactions. These decades teach more about the psychology, sociology, and short-sightedness of leading chemists than about fundamental chemistry, but both theories survive in competing schemes of modern organic nomenclature. The HOMO-LUMO mechanism of addition to alkenes and the SOMO mechanism of free-radical chain reactions are introduced.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_22_102708.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - Valence Theory and Constitutional Structure (1858)</title>
+      <description>&lt;p&gt;Youthful chemists Couper and Kekulé replaced radical and type theories with a new approach involving atomic valence and molecular structure, and based on the tetravalence and self-linking of carbon. Valence structures offered the first explanation for isomerism, and led to the invention of nomenclature, notation, and molecular models closely related to those in use today.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_23_102908.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - Determining Chemical Structure by Isomer Counting (1869)</title>
+      <description>&lt;p&gt;Half a century before direct experimental observation became possible, most structures of organic molecules were assigned by inspired guessing based on plausibility. But Wilhelm Körner developed a strictly logical system for proving the structure of benzene and its derivatives based on isomer counting and chemical transformation. His proof that the six hydrogen positions in benzene are equivalent is the outstanding example of this chemical logic but was widely ignored because, in Palermo, he was far from the seats of chemical authority.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_24_103108.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+    <item>
+      <title> - Models in 3D Space (1869-1877); Optical Isomers</title>
+      <description>&lt;p&gt;Despite cautions from their conservative elders, young chemists like Paternó and van’t Hoff began interpreting molecular graphs in terms of the arrangement of a molecule’s atoms in 3-dimensional space. Benzene was one such case, but still more significant was the prediction, based on puzzling isomerism involving “optical activity,” that molecules could be “chiral,” that is, right- or left-handed. Louis Pasteur effected the first artificial separation of racemic acid into tartaric acid and its mirror-image.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_25_110308.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 25</guid>
+    </item>
+    <item>
+      <title> - Van&#x27;t Hoff&#x27;s Tetrahedral Carbon and Chirality</title>
+      <description>&lt;p&gt;With his tetrahedral carbon models van’t Hoff explained the mysteries of known optical isomers possessing stereogenic centers and predicted the existence of chiral allenes, a class of molecules that would not be observed for another sixty-one years. Symmetry operations that involve inverting an odd number of coordinate axes interconvert mirror-images. Like printed words, only a small fraction of molecules are achiral. Verbal and pictorial notation for stereochemistry are discussed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_26_110508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 26</guid>
+    </item>
+    <item>
+      <title> - Communicating Molecular Structure in Diagrams and Words</title>
+      <description>&lt;p&gt;It is important that chemists agree on notation and nomenclature in order to communicate molecular constitution and configuration. It is best when a diagram is as faithful as possible to the 3-dimensional shape of a molecule, but the conventional Fischer projection, which has been indispensable in understanding sugar configurations for over a century, involves highly distorted bonds. Ambiguity in diagrams or words has led to multibillion-dollar patent disputes involving popular drugs. International agreements provide descriptive, unambiguous, unique, systematic “IUPAC” names that are reasonably convenient for most organic molecules of modest molecular weight.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_27_110708.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 27</guid>
+    </item>
+    <item>
+      <title> - Stereochemical Nomenclature; Racemization and Resolution</title>
+      <description>&lt;p&gt;Determination of the actual atomic arrangement in tartaric acid in 1949 motivated a change in stereochemical nomenclature from Fischer’s 1891 genealogical convention (D, L) to the CIP scheme (R, S) based on conventional group priorities. Configurational isomers can be interconverted by racemization and epimerization. Pure enantiomers can be separated from racemic mixtures by resolution schemes based on selective crystallization of conglomerates or temporary formation of diastereomers.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_28_111008.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 28</guid>
+    </item>
+    <item>
+      <title> - Preparing Single Enantiomers and the Mechanism of Optical Rotation</title>
+      <description>&lt;p&gt;Within a lecture on biological resolution, the synthesis of single enantiomers, and the naming and 3D visualization of omeprazole, Professor Laurence Barron of the University of Glasgow delivers a guest lecture on the subject of how chiral molecules rotate polarized light. Mixing wave functions by coordinated application of light’s perpendicular electric and magnetic fields shifts electrons along a helix that can be right- or left-handed, but so many mixings are involved, and their magnitudes are so subtle, that predicting net optical rotation in practical cases is rarely simple.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_29_111208.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 29</guid>
+    </item>
+    <item>
+      <title> - Esomeprazole as an Example of Drug Testing and Usage</title>
+      <description>&lt;p&gt;The chemical mode of action of omeprazole is expected to be insensitive to its stereochemistry, making clinical trials of the proposed virtues of a chiral switch crucial. Design of the clinical trials is discussed in the context of marketing. Otolaryngologist Dr. Dianne Duffey provides a clinician’s perspective on the testing and marketing of pharmaceuticals, on the FDA approval process, on clinical trial system, on off-label uses, and on individual and institutional responsibility for evaluating pharmaceuticals.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_30_111708.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 30</guid>
+    </item>
+    <item>
+      <title> - Preparing Single Enantiomers and Conformational Energy</title>
+      <description>&lt;p&gt;After mentioning some legal implications of chirality, the discussion of configuration concludes using esomeprazole as an example of three general methods for producing single enantiomers. Conformational isomerism is more subtle because isomers differ only by rotation about single bonds, which requires careful physico-chemical consideration of energies and their relation to equilibrium and rate constants. Conformations have their own notation and nomenclature. Curiously, the barrier to rotation about the C-C bond of ethane was established by measuring its heat capacity.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_31_111908.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 31</guid>
+    </item>
+    <item>
+      <title> - Stereotopicity and Baeyer Strain Theory</title>
+      <description>&lt;p&gt;Why ethane has a rotational barrier is still debatable. Analyzing conformational and configurational stereotopicity relationships among constitutionally equivalent groups reveals a subtle discrimination in enzyme reactions. When Baeyer suggested strain-induced reactivity due to distorting bond angles away from those in an ideal tetrahedron, he assumed that the cyclohexane ring is flat. He was soon corrected by clever Sachse, but Sachse’s weakness in rhetoric led to a quarter-century of confusion.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_32_112108.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 32</guid>
+    </item>
+    <item>
+      <title> - Conformational Energy and Molecular Mechanics</title>
+      <description>&lt;p&gt;Understanding conformational relationships makes it easy to draw idealized chair structures for cyclohexane and to visualize axial-equatorial interconversion. After quantitative consideration of the conformational energies of ethane, propane, and butane, cyclohexane is used to illustrate the utility of molecular mechanics as an alternative to quantum mechanics for estimating such energies. To give useful accuracy this empirical scheme requires thousands of arbitrary parameters. Unlike quantum mechanics, it assigns strain to specific sources such as bond stretching, bending, and twisting, and van der Waals repulsion or attraction.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_33_120108.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 33</guid>
+    </item>
+    <item>
+      <title> - Sharpless Oxidation Catalysts and the Conformation of Cycloalkanes</title>
+      <description>&lt;p&gt;Professor Barry Sharpless of Scripps describes the Nobel-prizewinning development of titanium-based catalysts for stereoselective oxidation, the mechanism of their reactions, and their use in preparing esomeprazole. Conformational energy of cyclic alkanes illustrates the use of molecular mechanics.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_34_120308.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 34</guid>
+    </item>
+    <item>
+      <title> - Understanding Molecular Structure and Energy through Standard Bonds</title>
+      <description>&lt;p&gt;Although molecular mechanics is imperfect, it is useful for discussing molecular structure and energy in terms of standard covalent bonds. Analysis of the Cambridge Structural Database shows that predicting bond distances to within 1% required detailed categorization of bond types. Early attempts to predict heats of combustion in terms of composition proved adequate for physiology, but not for chemistry. Group- or bond-additivity schemes are useful for understanding heats of formation, especially when corrected for strain. Heat of atomization is the natural target for bond energy schemes, but experimental measurement requires spectroscopic determination of the heat of atomization of elements in their standard states.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_35_120508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 35</guid>
+    </item>
+    <item>
+      <title> - Bond Energies, the Boltzmann Factor and Entropy</title>
+      <description>&lt;p&gt;After discussing the classic determination of the heat of atomization of graphite by Chupka and Inghram, the values of bond dissociation energies, and the utility of average bond energies, the lecture focuses on understanding equilibrium and rate processes through statistical mechanics. The Boltzmann factor favors minimal energy in order to provide the largest number of different arrangements of “bits” of energy. The slippery concept of disorder is illustrated using Couette flow. Entropy favors “disordered arrangements” because there are more of them than there are of recognizable ordered arrangements.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_36_120808.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 36</guid>
+    </item>
+    <item>
+      <title> - Potential Energy Surfaces, Transition State Theory and Reaction Mechanism</title>
+      <description>&lt;p&gt;After discussing the statistical basis of the law of mass action, the lecture turns to developing a framework for understanding reaction rates. A potential energy surface that associates energy with polyatomic geometry can be realized physically for a linear, triatomic system, but it is more practical to use collective energies for starting material, transition state, and product, together with Eyring theory, to predict rates. Free-radical chain halogenation provides examples of predicting reaction equilibria and rates from bond dissociation energies. The lecture concludes with a summary of the semester’s topics from the perspective of physical-organic chemistry.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_37_121008.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 37</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Foundations of Modern Social Theory</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor Iván Szelényi</itunes:author>
+    <description>&lt;p&gt;This course provides an overview of major works of social thought from the beginning of the modern era through the 1920s. Attention is paid to social and intellectual contexts, conceptual frameworks and methods, and contributions to contemporary social analysis. Writers include Hobbes, Locke, Rousseau, Montesquieu, Adam Smith, Marx, Weber, and Durkheim.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/szelenyi_1.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/sociology/socy-151</link>
+        <item>
+      <title> - Introduction</title>
+      <description>&lt;p&gt;Professor Szelényi introduces the course to the students. Then he introduces each social thinker we will cover in the course: Hobbes, Locke, Montesquieu, Rousseau, Adam Smith, John Stuart Mill, Marx, Nietzsche, Freud, Weber, and Durkheim. He provides an overview of their biographies, their major works, and their major contributions.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_01_090309.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - Hobbes: Authority, Human Rights and Social Order</title>
+      <description>&lt;p&gt;An examination of Hobbes’s lifetime reveals that the uncertainty of the British monarchy during his life (1588-1679) inspires Hobbes’s social and political thought, especially regarding the role of the sovereign to provide for the security of his subjects. We consider the major elements of Hobbes’s political and social thought including the state of nature, equality of men, the social contract, the strong sovereign, and legitimate rule. Hobbes’s work privileges security of individuals through a strong sovereign but also asserts the right of subjects to transfer their allegiance to a new sovereign if the ruler does not provide for their security; this element of his work in particular and others made him a controversial thinker who was forced into exile for a time. His work has been rediscovered in recent years by economists and other social scientists who see him as the first rational choice theorist.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_02_090809.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Locke: Equality, Freedom, Property and the Right to Dissent</title>
+      <description>&lt;p&gt;John Locke, a liberal thinker and near-contemporary of the conservative Hobbes, disputes Hobbes’s thinking in some keys ways and builds on it in others. Locke starts his political theory with a notion of individuals in the state of nature being free, equal and reasonable; the state of nature is not synonymous with the state of war for Locke as it is for Hobbes. Locke argues that states should protect the property of individuals and must govern with the consent of subjects. Unlike Hobbes’s strong, unitary sovereign, Locke envisions a separation of the powers of the state into executive, legislative, and federative powers. We examine how Locke’s political and social thought assumes an abundance of resources while Hobbes’s thought is predicated on an assumption of scarcity.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_03_091009.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Montesquieu: The Division of Powers</title>
+      <description>&lt;p&gt;We shift from seventeenth-century England to eighteenth-century France and from the methodological individualism of Hobbes and Locke to the methodological collectivism of Montesquieu and Rousseau. Working from a perspective that there is a general will apart and above the sum of the opinions of individuals, Montesquieu’s work focuses primarily on the law and on manners of governing rather than the question of who governs. Like Locke, Montesquieu argues that the powers of government should be separated. Montesquieu’s plan of separation between executive, legislative, and judicial powers is what the United States Constitution follows. Montesquieu asserts that the climate and environment affect men as individuals as well as society. Although many of his specific ideas seem quite silly now, we must give credit to Montesquieu for being perhaps the first social and political thinker to seriously consider the environment.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_04_091509.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Rousseau: Popular Sovereignty and General Will</title>
+      <description>&lt;p&gt;Jean-Jacques Rousseau had a colorful early life. Orphaned at ten, he moved in with a woman ten years his senior at sixteen. Their probable love affair is the subject of Stendhal’s book &lt;em&gt;Le Rouge et la Noir&lt;/em&gt;. Rousseau was friends and sometimes enemies with many major figures in the French Enlightenment. Although he did not live to see the French Revolution, many of Rousseau’s path-breaking and controversial ideas about universal suffrage, the general will, consent of the governed, and the need for a popularly elected legislature unquestionably shaped the Revolution. The general will, the idea that the interest of the collective must sometimes have precedence over individual will, is a complex idea in social and political thought; it has proven both fruitful and dangerous. Rousseau’s ideas have been respected and used by both liberals and repressive Communist and totalitarian leaders.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_05_091709.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Rousseau on State of Nature and Education</title>
+      <description>&lt;p&gt;The general will – dangerous if taken too far – operates in many elements of our social and civic life. Immunizations that are compulsory for living in dorms serve the common good – the general will – regardless of individual will. The general will operates in society when individuals develop not only &lt;em&gt;amour de soi&lt;/em&gt;, selfish love, but also &lt;em&gt;amour propre&lt;/em&gt;, love of self in relation to others. Rousseau distinguished between bourgeois individuals who have &lt;em&gt;amour de soi&lt;/em&gt; and citizens who exemplify &lt;em&gt;amour propre&lt;/em&gt;. In addition to being a political and social thinker, Rousseau is an early and influential education theorist. In his book &lt;em&gt;Émile&lt;/em&gt;, Rousseau argues that individuals are born good but are corrupted by society. He advocates “negative education” which aims at reducing mental errors that students may pick up in society. Negative education, Rousseau argues, is accomplished by focusing on educating students on how to think rather than training them in what to think.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_06_092209.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Mill: Utilitarianism and Liberty</title>
+      <description>&lt;p&gt;Adam Smith’s ideas about self-interest should be understood as a precursor in some ways to John Stuart Mill’s thinking on utilitarianism. Professor Szelényi discusses, but does not resolve, the complexities of Adam Smith’s moral and ethical positions staked out in &lt;em&gt;The Theory of Moral Sentiments – &lt;/em&gt;including a focus on sympathy – and the most widespread economic interpretation of Smith and &lt;em&gt;The Wealth of Nations&lt;/em&gt; that he is the economist of self-interest. One way to reconcile these so-called “two Smiths” is that, as social beings, it is in our self-interest to express benevolence and sympathy toward others. Mill, the student of Bentham since a very young age, humanizes the theory of utilitarianism. Perhaps he should be best remembered for his staunch views on liberty: liberty must never be compromised for the sake of expediency.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_07_092409.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - Smith: The Invisible Hand</title>
+      <description>&lt;p&gt;John Stuart Mill made important and influential amendments to Bentham’s ideas of utilitarianism. Perhaps most influentially, Mill states that there are not only different quantities of happiness but also qualitative differences in happiness. Humans are capable of higher forms of happiness, and therefore utility must be judged by taking into account quantitative amounts as well as qualitative differences in forms of happiness. Mill also drew a distinction between legality and justice; what is just is not always written in law, and what is written in law is not always just. Justice is a higher principle than the law. Mill’s ideas have been incorporated into the laws of the United States and many people who live here subscribe to his ideas; the United States has some of the most permissive laws ensuring the freedom of speech of all liberal, free democracies. However, Mill’s argument that liberty must never be sacrificed for expediency has been subject to debate in the United States since 9/11/01. In keeping with his views on liberty, Mill held radical views on women for his time; he believed in educational, political (voting), and marital equality for women. Mill believed women are not inferior by nature. Professor Szelényi ends class by going over how he would answer the questions for the first exam with the students.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_08_092909.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Marx&#x27;s Theory of Alienation</title>
+      <description>&lt;p&gt;Marx begins his intellectual life as a Young Hegelian, in the company of Bruno Bauer and others. The Young Hegelians, a radical group of scholars, intended to subject Hegel’s theories to critical scrutiny. Eventually, Marx breaks with this tradition altogether by saying that alienation does not come from thoughts and therefore cannot be solved by ideas alone. Alienation comes from material conditions and can only be addressed by changing those conditions. Due to his radical, revolutionary ideas, Marx was forced to move around Europe quite a bit. In his lifetime, he saw his predictions about the uprising of the working classes come to fruition in some places, but he also saw these revolutions fail, including the short-lived Commune in France. Next time, we see how the young Marx who is occupied with Hegelian thought and the concept of alienation transitions to a more mature Marx with the concept of the capitalist mode of production.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_09_100109.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Marx&#x27;s Theory of Historical Materialism</title>
+      <description>&lt;p&gt;We review Marx’s theory of alienation and pick up with the transition from the young Marx to the mature Marx who breaks with Hegelian thought and the Young Hegelians. Reflecting on the disappointed hopes of the French Revolution, Hegel wrote that the civil servants in France represent the universal class. In direct contrast, Marx writes that the state only appears to be the universal class. He then goes about writing his theory of exploitation to argue that the workers, as the only fully alienated class, represent the universal position. He responds to Feuerbach with his eleven theses arguing for his own brand of historical materialism. Many of his “Theses on Feuerbach” remain very famous and widely-associated with Marx’s oeuvre, including the last thesis, thesis eleven: the point of philosophy is not only to understand the world, but to change it.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_10_100609.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Marx&#x27;s Theory of Historical Materialism (cont.)</title>
+      <description>&lt;p&gt;Today we cover the transition from the young Marx, with his emphasis on change and action, to the mature Marx who turns toward positivist science and determinism, arguing that capitalism will have to fail. Through a closer look at Marx’s “Theses on Feuerbach,” we discuss different theories of truth with attention to the questions of where truth resides (in the subject, in the object, or some combination), how we know it, and how we know when we know it. Arguing for his conception of materialism, Marx argues that truth is not simply the reflection of the object in the mind of the subject; we must access truth through our senses and through activity. And we discuss two of Marx’s historical materialist claims: life determines consciousness and the ruling class always determines the ruling ideas of a people.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_11_100809.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Marx&#x27;s Theory of History</title>
+      <description>&lt;p&gt;We consider closely Marx’s &lt;em&gt;Grundrisse&lt;/em&gt;, written between &lt;em&gt;The German Ideology&lt;/em&gt; and &lt;em&gt;Das Kapital&lt;/em&gt;. In the &lt;em&gt;Grundrisse&lt;/em&gt;, Marx revisits and revises his theory of historical change. Previously, he argued that history is characterized by a uni-linear increase in the division of labor. He also argued that class struggle caused revolutionary transitions from one mode of production to the next–slavery to feudalism to capitalism–and that Communism will be the last stage in social evolution. In the &lt;em&gt;Grundrisse&lt;/em&gt;, Marx develops a theory of historical change focused on property relations. In addition, he depicts a more complex, multi-linear development of history. The facet of Marx which he exhibits in the &lt;em&gt;Grundrisse&lt;/em&gt; tends not to be the one that is widely remembered, but understanding the nuances he presents there is crucial to fully understand his idea of history and historical change and the role of property in capitalism and Communism.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_12_101309.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Marx&#x27;s Theory of Class and Exploitation</title>
+      <description>&lt;p&gt;In order to move from a theory of alienation to a theory of exploitation, Marx develops a concept of class and of the capitalist mode of production. He developed these in &lt;em&gt;The Communist Manifesto&lt;/em&gt;, the &lt;em&gt;Grundrisse&lt;/em&gt; and &lt;em&gt;Das Kapital&lt;/em&gt;. Marx argues that what sets the capitalist mode of production apart from the commodity mode of production is not only the accumulation of money; the capitalist mode of production is characterized by the use of labor power as a commodity to create more value. The capitalist compensates the laborer enough for his labor power to reproduce the commodity (the labor power), but the laborers’ power produces additional value: a surplus value for the owner. The worker is exploited when he does not keep or control the value created by his own labor power. Marx argues that the capitalist system forces people into one of two classes: the bourgeoisie and the proletariat. This class dichotomy did not describe accurately social structure in Marx time, when a sizable class of self-employed existed. Marx predicted that this “middle class” will disappear; instead it grew in size over the twentieth and twenty-first centuries.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_13_101509.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Nietzsche on Power, Knowledge and Morality</title>
+      <description>&lt;p&gt;Today we take a bridge into the twentieth century, constructed by Nietzsche, Freud, and Weber’s critical theory. Each author is different in important ways, but they also agree on two crucial points: we must subject our consciousness and assumptions to critical scrutiny and, along with increasing liberation and rationalization in some ways, modern society also has repressive elements. Nietzsche is the oldest of these thinkers; he dies in 1900 and stops working a decade before due to mental illness. While he was ill, his sister, a proto-Nazi and associate of Hitler, cared for him. Her control of his papers and how they were released to the public painted him as a proto-Nazi himself, but reading his whole oeuvre illuminates that Nietzsche subjected Judaism and Christianity to the same scrutiny. In &lt;em&gt;The Genealogy of Morals&lt;/em&gt;, Nietzsche attempts to use the genealogy method to be critical of modern morality without taking a certain vantage point. We discuss most specifically his genealogy of the ideas of good and bad and of good and evil.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_14_102009.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Freud on Sexuality and Civilization</title>
+      <description>&lt;p&gt;Freud’s brand of critical theory adds important dimensions; he argues that we can better understand our consciousness through the process of psychoanalysis–the talking cure, dream work, etc–and we can cure ourselves through this process as well. We discuss Freud’s early days in Vienna developing psychoanalysis as a clinical approach alongside Jung, Ferenczi, and others in their tight-knit circle. They develop the ideas of the id, ego, and superego as well as the antithetical drives, the love drive (Eros) and the death drive (Thanatos). Later, Freud applies these concepts to society as a whole in his books &lt;em&gt;Totem and Taboo&lt;/em&gt;, and &lt;em&gt;Civilization and Its Discontents&lt;/em&gt;. His argument in &lt;em&gt;Civilization and Its Discontents&lt;/em&gt; calls to mind Nietzsche; he argues that the repression of urges and drives allows civilization to bloom and flourish, but the same repression is problematic on the level of individual psychology as well as on the level of civilization.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_15_102209.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Weber on Protestantism and Capitalism</title>
+      <description>&lt;p&gt;Max Weber wrote his best-known work after he recovered from a period of serious mental illness near the turn of the twentieth century. After he recovered, his work transitioned from enthusiastically capitalist and liberal in the tradition of Adam Smith and John Stuart Mill to much more skeptical of the down-sides of modernization, more similar to the thinking of Nietzsche and Freud. In his first major work, &lt;em&gt;The Protestant Ethic and the Spirit of Capitalism&lt;/em&gt;, Weber argues that the Protestant faith, especially Luther’s notion of “calling” and the Calvinist belief in predestination set the stage for the emergence of the capitalist spirit. With his more complex understanding of the causes of capitalism, Weber accounts for the motivations of capitalists and the spirit of capitalism and rationalization in ways that Marx does not.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_16_102709.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Conceptual Foundations of Weber&#x27;s Theory of Domination</title>
+      <description>&lt;p&gt;Diverging significantly from Marx’s idea that history can be traced by the modes of production and the economy, Weber argues that history is characterized by different modes of authority. Leaders strive to rule in authoritative ways, they attempt to legitimate their uses of power. Weber argues that throughout history, leaders have successfully established domination in three modes of authority: traditional, charismatic, and legal-rational.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_17_102909.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Weber on Traditional Authority</title>
+      <description>&lt;p&gt;We return to Weber’s idea of domination, &lt;em&gt;Herrschaft&lt;/em&gt;. &lt;em&gt;Herrschaft&lt;/em&gt; has been translated into English as “authority” and as “domination.” The translation into domination highlights the elements of power and legitimacy that are co-mingled in the concept as well as the importance of the suggestion of the asymmetrical power relationship within the concept of domination. We turn to the first way leaders legitimate their authority or domination: tradition. The primary forms of traditional rule are patrimonialism and patriachialism. For Weber, the chief difference between these forms of rule is that the patriarch rules without a staff and the patrimonial leader requires a staff that obeys his authority by virtue of personal loyalty and tradition. We end with the primary tension between traditional authority and capitalism: traditional authority systems are not motivated by profit but by satisfaction of needs.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_18_110309.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Weber on Charismatic Authority</title>
+      <description>&lt;p&gt;Charismatic authority, unlike traditional authority, is a revolutionary and unstable form of authority. Weber borrows the religious term of charisma and extends its use to a secular meaning. Audiences and followers believe that charismatic leaders have a close connection to a divine power, have exceptional skills, or are exemplary in some way. Charismatic leaders promise change in the future for the society and also change people’s attitudes and values; in this way, charismatic authority is revolutionary in a way that traditional and legal-rational authority are not. However, charisma is unstable and deteriorates if the leader cannot produce the changes he promises or when he confronts the contradictory logics and demands of the other types of authority. There are particular ways–including search, revelation, designation, or heredity–that charismatic successors are identified, but transferring charismatic authority is difficult and not always successful.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_19_110509.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Weber on Legal-Rational Authority</title>
+      <description>&lt;p&gt;The purest form–the ideal type–of Weber’s legal-rational type of authority is bureaucracy. Legal-rational authority indicates that authority is invested in a set of rules and rule-bound institutions and that the creating and changing the rules are outside of the control of those who administer them; it does not mean, however, that the authority is democratic. Monarchs and even authoritarian leaders who recognize a set of laws external to their powers govern using legal-rational authority. The characteristics of bureaucracy include a fixed salary, posts based on technical skill rather than personal connections, a well-defined hierarchy, and continuous rules which bind the behavior of administrators and citizens or clients alike.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_20_111009.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Weber&#x27;s Theory of Class</title>
+      <description>&lt;p&gt;Along with the macro-level shift from traditional forms of authority to legal-rational authority, Weber’s theory of class identifies a macro-level shift from status to class determining life chances. In feudal times, under traditional forms of authority, monarchs or others in power conferred high status upon individuals and material wealth followed; first a man would be named a nobleman, and then he would get his estate. In the modern capitalist era, individuals obtain their monetary or material wealth and their class position vis-à-vis the market determines their life chances. Weber, in contrast to Marx, argues that class is a modern phenomenon. However, this does not mean that our modern and contemporary world does not have versions of status. Like remnants of traditional and charismatic authority co-mingled with legal-rational authority in the state and other institutions, status still determines life chances to a certain extent. The influence of status is somewhat subsumed under Weber’s category of social class.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_21_111209.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Durkheim and Types of Social Solidarity</title>
+      <description>&lt;p&gt;Emile Durkheim, a French scholar who lived from 1858 until 1917, was one of the first intellectuals to use the term “sociology” to describe his work. In the early years of his career, Durkheim’s orientation was functionalist (&lt;em&gt;The Division of Labor in Society&lt;/em&gt;) and positivist (&lt;em&gt;The Rules of Sociological Method&lt;/em&gt;); in the early twentieth century he took a cultural turn and became interested in religion (&lt;em&gt;The Elementary Forms of Religious Life&lt;/em&gt;). Throughout his career, Durkheim was a methodological collectivist, and–unlike Marx and Weber, who were interested in social conflict–was consistently interested in what holds society together. Durkheim argues in &lt;em&gt;The Division of Labor in Society&lt;/em&gt; that the type of social solidarity has changed, due to the increasing division of labor, from mechanical solidarity between similar individuals to organic solidarity based on difference. Inspired by Montesquieu, Durkheim tracks this change in types of solidarity and change in what he termed the “collective conscience” by looking at a shift in law, from penal law focused on punishing individuals to restitutory law based on contract. Durkheim believed that society would function better if individuals labor at different and complementary tasks with the same vision or goal in mind.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_22_111709.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - Durkheim&#x27;s Theory of Anomie</title>
+      <description>&lt;p&gt;In the transition from mechanical solidarity to organic solidarity, brought on by increasing division of labor, industrialization, and urbanization, Durkheim argues that there will be social pathologies, which he calls anomie. These abnormal and unhealthy consequences of the change in type of social solidarity have various causes. Durkheim is best known for arguing that a lack of moral regulation leads to social pathologies, but he also argues that overregulation–in the form of forced division of labor–will lead to fatalism, a kind of anomie. Anomie resulting from excessive demands on individuals from the market is similar to Marx’s notion of alienation, although Durkheim does not use the terms alienation or exploitation. For Durkheim, anomie is an irregular form of the increasing division of labor and industrialization; it is not internal to the system itself. Durkheim’s optimism about capitalism and his position that people need regulation, similar to Hobbes’s conception of human nature, contrast sharply with Marx’s ideas.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_23_111909.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - Durkheim on Suicide</title>
+      <description>&lt;p&gt;Durkheim’s &lt;em&gt;Suicide&lt;/em&gt; is a foundational text for the discipline of sociology, and, over a hundred years later, it remains influential in the study of suicide. Durkheim’s study demonstrates that what is thought to be a highly individual act is actually socially patterned and has social, not only psychological, causes. Durkheim’s study uses the logic of multivariate statistical analysis, which is now widely used in the discipline of sociology. Durkheim considered factors including country, marital status, religion, and education level to explain variations in suicide rates. Durkheim found that Protestants, who tended to be more highly educated, had a higher rate of suicide than Catholics, who tended to have lower levels of education. Jewish people fell outside of this pattern; highly educated, they had a very low rate of suicide. Durkheim explained that the education of Protestants led them to individual consciousness whereas the education of Jewish people meant to make them more integrated into their religious community. Durkheim arrives at a typology of suicide ranging between high and low regulation and high and low integration: egoistic, altruistic, anomic, and fatalistic suicide.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_24_120109.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+    <item>
+      <title> - Durkheim and Social Facts</title>
+      <description>&lt;p&gt;Durkheim understood life sciences as divided into three branches: biology, which is interested in the body, psychology, which deals with the personality, and sociology, which deals with collective representations. In &lt;em&gt;The Rules of Sociological Method&lt;/em&gt;, Durkheim attempted to provide methodological rules and guidance for establishing social facts and how they are related to one another.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_25_120309.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 25</guid>
+    </item>
+  </channel>
+</rss>

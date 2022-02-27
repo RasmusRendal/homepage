@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Introduction to Political Philosophy</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor Steven B. Smith</itunes:author>
+    <description>&lt;p&gt;This course is intended as an introduction to political philosophy as seen through an examination of some of the major texts and thinkers of the Western political tradition. Three broad themes that are central to understanding political life are focused upon: the polis experience (Plato, Aristotle), the sovereign state (Machiavelli, Hobbes), constitutional government (Locke), and democracy (Rousseau, Tocqueville). The way in which different political philosophies have given expression to various forms of political institutions and our ways of life are examined throughout the course.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/smith_s_2.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/political-science/plsc-114</link>
+        <item>
+      <title> - Introduction: What Is Political Philosophy?</title>
+      <description>&lt;p&gt;Professor Smith discusses the nature and scope of “political philosophy.” The oldest of the social sciences, the study of political philosophy must begin with the works of Plato and Aristotle, and examine in depth the fundamental concepts and categories of the study of politics. The questions “which regimes are best?” and “what constitutes good citizenship?” are posed and discussed in the context of Plato’s Apology.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_01_091106.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - Socratic Citizenship: Plato, Apology</title>
+      <description>&lt;p&gt;The lecture begins with an explanation of why Plato’s Apology is the best introductory text to the study of political philosophy. The focus remains on the Apology as a symbol for the violation of free expression, with Socrates justifying his way of life as a philosopher and defending the utility of philosophy for political life.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_02_091306.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Socratic Citizenship: Plato, Crito</title>
+      <description>&lt;p&gt;In the Apology, Socrates proposes a new kind of citizenship in opposition to the traditional one that was based on the poetic conception of Homer. Socrates’ is a philosophical citizenship, relying on one’s own powers of independent reason and judgment. The Crito, a dialogue taking place in Socrates’ prison cell, is about civil obedience, piety, and the duty of every citizen to respect and live by the laws of the community.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_03_091806.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Philosophers and Kings: Plato, Republic, I-II</title>
+      <description>&lt;p&gt;Lecture 4 introduces Plato’s Republic and its many meanings in the context of moral psychology, justice, the power of poetry and myth, and metaphysics. The Republic is also discussed as a utopia, presenting an extreme vision of a polis–Kallipolis–Plato’s ideal city.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_04_092006.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Philosophers and Kings: Plato, Republic, III-IV</title>
+      <description>&lt;p&gt;The discussion of the Republic continues. An account is given of the various figures, their role in the dialogue and what they represent in the work overall. Socrates challenges Polemarchus’ argument on justice, questions the distinction between a friend and an enemy, and asserts his famous thesis that all virtues require knowledge and reflection at their basis.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_05_092506.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Philosophers and Kings: Plato, Republic, V</title>
+      <description>&lt;p&gt;In this last session on the Republic, the emphasis is on the idea of self-control, as put forward by Adeimantus in his speech. Socrates asserts that the most powerful passion one needs to learn how to tame is what he calls thumos. Used to denote “spiritedness” and “desire,” it is associated with ambitions for public life that both virtuous statesmen as well as great tyrants may pursue. The lecture ends with the platonic idea of justice as harmony in the city and the soul.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_06_092706.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - The Mixed Regime and the Rule of Law: Aristotle, Politics, I, III</title>
+      <description>&lt;p&gt;The lecture begins with an introduction of Aristotle’s life and works which constitute thematic treatises on virtually every topic, from biology to ethics to politics. Emphasis is placed on the Politics, in which Aristotle expounds his view on the naturalness of the city and his claim that man is a political animal by nature.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_07_100406.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - The Mixed Regime and the Rule of Law: Aristotle, Politics, IV</title>
+      <description>&lt;p&gt;The lecture discusses Aristotle’s comparative politics with a special emphasis on the idea of the regime, as expressed in books III through VI in Politics. A regime, in the context of this major work, refers to both the formal enumeration of rights and duties within a community as well as to the distinctive customs, manners, moral dispositions and sentiments of that community. Aristotle asserts that it is precisely the regime that gives a people and a city their identity.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_08_100906.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - The Mixed Regime and the Rule of Law: Aristotle, Politics, VII</title>
+      <description>&lt;p&gt;This final lecture on Aristotle focuses on controlling conflict between factions. Polity as a mixture of the principles of oligarchy and democracy, is the regime that, according to Aristotle, can most successfully control factions and avoid dominance by either extreme. Professor Smith asserts that the idea of the polity anticipates Madison’s call for a government in which powers are separated and kept in check and balance, avoiding therefore the extremes of both tyranny and civil war.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_09_101106.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - New Modes and Orders: Machiavelli, The Prince (chaps. 1-12)</title>
+      <description>&lt;p&gt;The lecture begins with an introduction of Machiavelli’s life and the political scene in Renaissance Florence. Professor Smith asserts that Machiavelli can be credited as the founder of the modern state, having reconfigured elements from both the Christian empire and the Roman republic, creating therefore a new form of political organization that is distinctly his own. Machiavelli’s state has universalist ambitions, just like its predecessors, but it has been liberated from Christian and classical conceptions of virtue. The management of affairs is left to the princes, a new kind of political leaders, endowed with ambition, love of glory, and even elements of prophetic authority.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_10_101306.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - New Modes and Orders: Machiavelli, The Prince (chaps. 13-26)</title>
+      <description>&lt;p&gt;The discussion of Machiavelli’s politics continues in the context of his most famous work, The Prince. A reformer of the moral Christian and classical concepts of goodness and evil, Machiavelli proposes his own definitions of virtue and vice, replacing the vocabulary associated with Plato and the biblical sources. He relates virtue, or virtu, to manliness, force, ambition and the desire to achieve success at all costs. Fortune, or fortuna, is a woman, that must be conquered through policies of force, brutality, and audacity. The problem of “dirty hands” in political and philosophical literature is discussed in detail.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_11_101606.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - The Sovereign State: Hobbes, Leviathan</title>
+      <description>&lt;p&gt;This is an introduction to the political views of Thomas Hobbes, which are often deemed paradoxical. On the one hand, Hobbes is a stern defender of political absolutism. The Hobbesian doctrine of sovereignty dictates complete monopoly of power within a given territory and over all institutions of civilian or ecclesiastical authority. On the other hand, Hobbes insists on the fundamental equality of human beings. He maintains that the state is a contract between individuals, that the sovereign owes his authority to the will of those he governs and is obliged to protect the interests of the governed by assuring civil peace and security. These ideas have been interpreted by some as indicative of liberal opposition to absolutism.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_12_101806.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - The Sovereign State: Hobbes, Leviathan</title>
+      <description>&lt;p&gt;Hobbes’ most famous metaphor, that of “the state of nature,” is explained. It can be understood as the condition of human life in the absence of authority or anyone to impose rules, laws, and order. The concept of the individual is also discussed on Hobbesian terms, according to which the fundamental characteristics of the human beings are the capacity to exercise will and the ability to choose. Hobbes, as a moralist, concludes that the laws of nature, or “precepts of reason,” forbid us from doing anything destructive in life.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_13_102306.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - The Sovereign State: Hobbes, Leviathan</title>
+      <description>&lt;p&gt;The concept of sovereignty is discussed in Hobbesian terms. For Hobbes, “the sovereign” is an office rather than a person, and can be characterized by what we have come to associate with executive power and executive authority. Hobbes’ theories of laws are also addressed and the distinction he makes between “just laws” and “good laws.” The lecture ends with a discussion of Hobbes’ ideas in the context of the modern state.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_14_102506.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Constitutional Government: Locke, Second Treatise (1-5)</title>
+      <description>&lt;p&gt;John Locke had such a profound influence on Thomas Jefferson that he may be deemed an honorary founding father of the United States. He advocated the natural equality of human beings, their natural rights to life, liberty, and property, and defined legitimate government in terms that Jefferson would later use in the Declaration of Independence. Locke’s life and works are discussed, and the lecture shows how he transformed ideas previously formulated by Machiavelli and Hobbes into a more liberal constitutional theory of the state.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_15_103006.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Constitutional Government: Locke, Second Treatise (7-12)</title>
+      <description>&lt;p&gt;In the opening chapters of his Second Treatise, Locke “rewrites” the account of human beginnings that had belonged exclusively to Scripture. He tells the story of how humans, finding themselves in a condition of nature with no adjudicating authority, enjoy property acquired through their labor. The lecture goes on to discuss the idea of natural law, the issue of government by consent, and what may be considered Locke’s most significant contribution to political philosophy: the Doctrine of Consent.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_16_110106.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Constitutional Government: Locke, Second Treatise (13-19)</title>
+      <description>&lt;p&gt;In this lecture, two important issues are addressed in the context of Locke’s Second Treatise. First, there is discussion on the role of the executive vis-a-vis the legislative branch of government in Locke’s theory of the constitutional state. Second, Locke’s political theories are related to the American regime and contemporary American political philosophy. The lecture concludes with John Rawls’ book, A Theory of Justice, and how his general theory relates to Locke’s political ideas.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_17_110606.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Democracy and Participation: Rousseau, Discourse on Inequality (Author&#x27;s Preface, Part I)</title>
+      <description>&lt;p&gt;This lecture is an introduction to the life and works of Rousseau, as well as the historical and political events in France after the death of Louis XIV. Writing in a variety of genres and disciplines, Rousseau helped bring to fruition the political and intellectual movement known as the Enlightenment. Among his most important works is the Second Discourse (Discourse on Inequality), in which Rousseau traces the origins of inequality and addresses the effects of time and history on humans. He goes on to discuss a number of qualities, such as perfectibility, compassion, sensitivity, and goodness, in an attempt to assess which ones were a part of our original nature.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_18_110806.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Democracy and Participation: Rousseau, Discourse on Inequality (Part II)</title>
+      <description>&lt;p&gt;The discussion on the origins of inequality in the Second Discourse continues. This lecture focuses on amour-propre, a faculty or a disposition that is related to a range of psychological characteristics such as pride, vanity, and conceit. The Social Contract is subsequently discussed with an emphasis on the concept of freedom and how one’s desire to preserve one’s freedom is often in conflict with that of others to protect and defend their own. General will becomes Rousseau’s solution to the problem of securing individual liberty.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_19_111306.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Democracy and Participation: Rousseau, Social Contract, I-II</title>
+      <description>&lt;p&gt;The concept of “general will” is considered Rousseau’s most important contribution to political science. It is presented as the answer to the gravest problems of civilization, namely, the problems of inequality, amour-propre, and general discontent. The social contract is the foundation of the general will and the answer to the problem of natural freedom, because nature itself provides no guidelines for determining who should rule. The lecture ends with Rousseau’s legacy and the influence he exercised on later nineteenth-century writers and philosophers.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_20_111506.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Democratic Statecraft: Tocqueville, Democracy in America</title>
+      <description>&lt;p&gt;With the emergence of democracies in Europe and the New World at the beginning of the nineteenth century, political philosophers began to re-evaluate the relationship between freedom and equality. Tocqueville, in particular, saw the creation of new forms of social power that presented threats to human liberty. His most famous work, Democracy in America, was written for his French countrymen who were still devoted to the restoration of the monarchy and whom Tocqueville wanted to convince that the democratic social revolution he had witnessed in America was equally representative of France’s future.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_21_112706.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Democratic Statecraft: Tocqueville, Democracy in America</title>
+      <description>&lt;p&gt;Three main features that Tocqueville regarded as central to American democracy are discussed: the importance of local government, the concept of “civil association,” and “the spirit of religion.” The book is not simply a celebration of the democratic experience in America; Tocqueville is deeply worried about the potential of a democratic tyranny.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_22_112906.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - Democratic Statecraft: Tocqueville, Democracy in America</title>
+      <description>&lt;p&gt;Professor Smith discusses the moral and psychological components of the democratic state in the context of Tocqueville’s Democracy in America. He goes on to explore the institutional development of the democratic state, the qualities of the democratic individual, and the psychological determinants of the democratic character. The ethic of self-interest is addressed, understood as an antidote to an ethic of fame and glory. Finally, Tocqueville is presented as a political educator and his views on the role of statesmen in a democratic age are expounded.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_23_120406.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - In Defense of Politics</title>
+      <description>&lt;p&gt;This final lecture of the course is given “in defense of politics.” First, the idea and definition of “politics” and the “political” are discussed with reference to the ideas of Immanuel Kant and twentieth-century political scientists, novelists, and philosophers such as Bernard Crick, E. M. Forster, and Carl Schmitt. Patriotism, nationalism, and cosmopolitanism are also addressed as integral parts of political life. Finally, the role of educators–and “old books”–is discussed as essential to developing a proper understanding of the political.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_24_120606.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+  </channel>
+</rss>

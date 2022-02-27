@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Freshman Organic Chemistry II</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor J. Michael McBride</itunes:author>
+    <description>&lt;p&gt;This is a continuation of Freshman Organic Chemistry I (CHEM 125a), the introductory course on current theories of structure and mechanism in organic chemistry for students with excellent preparation in chemistry and physics. This semester treats simple and complex reaction mechanisms, spectroscopy, organic synthesis, and some molecules of nature.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/mcbride2_2.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/chemistry/chem-125b</link>
+        <item>
+      <title> - Mechanism: How Energies and Kinetic Order Influence Reaction Rates</title>
+      <description>&lt;p&gt;This second semester of Freshman Organic Chemistry builds on the first semester’s treatment of molecular structure and energy* to discuss how reaction mechanisms have been discovered and understood.  It also treats the spectroscopy and synthesis of organic molecules.  Reactions and their rates can be understood in terms of reaction-coordinate diagrams involving the passage of a set of atoms through the “transition state” on the potential-energy surface.  Analysis of bond-dissociation energies suggests a chain mechanism for free-radical halogenation of alkanes.  Experimental determination of kinetic order provides insight into complex reaction schemes, especially when one step is rate-limiting.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_01_011011.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - Peculiar Rate Laws, Bond Dissociation Energies, and Relative Reactivities</title>
+      <description>&lt;p&gt;Curious kinetic orders can be mechanistically informative. Fractional kinetic orders suggest dissociation of a dominant aggregate to give a smaller reactive species. An apparent negative kinetic order, due to competition with a second-order process, leads to spontaneous deracemization of chiral crystals. Changes in bond dissociation energies can be due to differences in bonds or in radicals. Although it is often said that the order of alkyl radical stability is tertiary &amp;gt; secondary &amp;gt; primary, careful analysis suggests that the order of bond dissociation energies may be due to differences in the alkanes rather than in the radicals. Hammond helped organic chemists begin to think systematically about predicting relative reaction rates by suggesting that the transition states of more exothermic reactions should lie closer to the starting materials in structure and energy.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_02_011211.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Rate and Selectivity in Radical-Chain Reactions</title>
+      <description>&lt;p&gt;The reactivity-selectivity principle explains why bromine atoms are more selective that chlorine atoms in abstracting hydrogen atoms from carbon. A free-radical mechanism for adding HBr to alkenes explains its anti-Markovnikov regiospecificity. Careful analysis is required to understand kinetic order for reactions involving catalysts. Termination of radical-chain reactions can make their rate half-order in the initiator. Selectivity due to protonation of radicals and their reaction partners illustrates the importance of ionic charge in determining reaction rates.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_03_011411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Electronegativity, Bond Strength, Electrostatics, and Non-Bonded Interactions</title>
+      <description>&lt;p&gt;A student provides insight on fractional-order rate laws. Bonds involving atoms with lone-pair electrons are weakened by electron-pair repulsion. Electronegativity differences between atoms make ionic dissociation (heterolysis) easier and radical dissociation (homolysis) harder, although Pauling’s definition of electronegativity makes the logic of the latter effect somewhat circular. The course transitions from free-radical reactions to ionic reactions by discussing solvent properties, in particular the electrostatic properties of alkyl halides and alkanes.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_04_011911.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Solvation, H-Bonding, and Ionophores</title>
+      <description>&lt;p&gt;Most organic reactions occur in solution, and particularly in the case of ions, one must consider non-bonded interactions with neighboring molecules. Non-bonded interactions, including hydrogen-bonding, also determine such physical properties as boiling point. For the most part these interactions may be understood in terms of electrostatics and polarizability. Artificial or natural ion carriers (ionophores) can be tailored to bind specific ions. Energetically the ionic dissociation of water in the gas phase is prohibitively expensive.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_05_012111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Brønsted Acidity and the Generality of Nucleophilic Substitution</title>
+      <description>&lt;p&gt;The coincidentally substantial extent of ionic dissociation of water provides an example of Brønsted acidity, or nucleophilic substitution at hydrogen. Relative pK&lt;sub&gt;a&lt;/sub&gt; values are insensitive enough to solvent that they provide insight on the role of energy-match, overlap, and resonance in ionic dissociation. The titration of alanine in water illustrates the experimental determination of pK&lt;sub&gt;a&lt;/sub&gt; values and the phenomenon of buffering. The limited pK&lt;sub&gt;a&lt;/sub&gt; scale in water can be extended dramatically by titration in other solvents, providing one of the best ways to measure many “effects” in organic chemistry. A wide range of important organic reactions discovered in the 19&lt;sup&gt;th&lt;/sup&gt; century and many biochemical reactions can be understood under the rubric of nucleophilic substitution.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_06_012411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Nucleophilic Substitution ToolsStereochemistry, Rate Law, Substrate, Nucleophile, Leaving Group</title>
+      <description>&lt;p&gt;S&lt;sub&gt;N&lt;/sub&gt;2 substitution provides an example of establishing the mechanism of a chemical reaction by disproving all the alternatives. Five general pathways are envisioned (two-step involving either pentavalent or trivalent carbon intermediates, and one-step). They can be discriminated by applying a variety of experimental tools including stereochemistry (Walden inversion), rate law (second order and pseudo first order), and the variation of rate constant with changes in the substrate (steric hindrance and ring strain), and with changes in nucleophile or leaving group. Classic experiments by Kenyon and Phillips and by Bartlett and Knox established the nature of Walden inversion.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_07_012611.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - Solvent, Leaving Group, Bridgehead Substitution, and Pentavalent Carbon</title>
+      <description>&lt;p&gt;The nature of nucleophiles and leaving groups has strong influence on the rate of S&lt;sub&gt;N&lt;/sub&gt;2 reactions. Generally a good nucleophile or strong base is a poor leaving group, but hydrogen-bonding solvents can alter nucleophile reactivity. Although amino and hydroxyl groups are poor leaving groups, they may be converted to groups that leave easily, even from bridgehead positions. Designing the preparation of a sugar analogue containing radioactive fluorine shows how understanding the S&lt;sub&gt;N&lt;/sub&gt;2 mechanism enables PET scanning for medical imaging. Quantum mechanics suggests that the pentavalent carbon species on the S&lt;sub&gt;N&lt;/sub&gt;2 reaction pathway is a transition state, not a stable structure.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_08_012811.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Pentavalent Carbon? E2, SN1, E1</title>
+      <description>&lt;p&gt;Preliminary X-ray analysis of molecules that have been designed to favor a carbon with five bonds seemed to suggest the possibility of a pentavalent intermediate in S&lt;sub&gt;N&lt;/sub&gt;2 reactions, but further analysis of these structures showed just the opposite. Boron, however, can be pentavalent in such an environment.  E2, S&lt;sub&gt;N&lt;/sub&gt;1 and E1 mechanisms compete with the S&lt;sub&gt;N&lt;/sub&gt;2 reaction. Factors controlling E2 eliminations are illuminated by kinetic isotope effects, stereochemistry, and regiochemistry. The competition between E2 and S&lt;sub&gt;N&lt;/sub&gt;2 mechanisms influence the design of synthetic schemes, including those in which carbon nucleophiles play an important role. S&lt;sub&gt;N&lt;/sub&gt;1 and E1 reactions involve carbocation intermediates and thus the possibility that the carbon skeleton will rearrange.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_09_013111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Cation Intermediates – Alkenes: Formation, Addition, and Stability</title>
+      <description>&lt;p&gt;Bridged pentavalent carbon structures can be intermediates or transition states of cation rearrangement during S&lt;sub&gt;N&lt;/sub&gt;1 reactions, and short-lived ion pairs explain net stereochemical inversion. The different perspectives of preparative organic chemists and mechanistic organic chemists on reaction yields are illustrated by a study designed to demonstrate that molecular rotation can be rate-limiting in viscous solvents. “Electrophilic” addition to alkenes is the reverse of E2 or E1 reaction, and its mechanisms can be studied by analogous techniques. The NIST Webbook provides thermochemical data to help understand the relative stability of isomeric alkenes.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_10_020211.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Carbocations and the Mechanism of Electrophilic Addition to Alkenes and Alkynes</title>
+      <description>&lt;p&gt;Substitution stabilizes alkenes, and addition of acids is thermodynamically favorable in acidic media.  Addition to alkenes can involve free-radical, metal-catalyzed, and stepwise electrophilic mechanisms, the last &lt;em&gt;via&lt;/em&gt; a cation intermediate. Electrostatics can help position an attacking electrophile like H&lt;sup&gt;+&lt;/sup&gt;, but bonding &lt;em&gt;en route&lt;/em&gt; to Markovnikov addition requires orbital mixing to form the more stable cation.  Relative cation stability can be understood in terms of hyperconjugation, hybridization, and solvation or polarizability. Stabilization of a carbocation &lt;em&gt;via&lt;/em&gt; methide shift can compete with its trapping by solvent.  The curious relative rates in stepwise addition of HCl or HBr to alkynes show that halogen substituents are both electron withdrawing and electron donating.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_11_020711.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Nucleophilic Participation During Electrophilic Addition to Alkenes: Halogen, Carbene, and Borane</title>
+      <description>&lt;p&gt;When electrophilic addition involves a localized carbocation intermediate, skeletal rearrangement sometimes occurs, but it can be avoided when both alkene carbons are involved in an unsymmetrical 3-center-2-electron bond, as in Markovnikov hydration &lt;em&gt;via&lt;/em&gt; alkoxymercuration followed by reduction. Similarly a reagent that attacks both alkene carbons simultaneously by providing a nucleophilic component during electrophilic attack can avoid rearrangement, as in reactions that proceed &lt;em&gt;via&lt;/em&gt; three-membered-ring halonium intermediates. Simultaneity in making two bonds during formation of cyclopropanes from carbenes can be demonstrated using stereochemistry. Anti-Markovnikov hydration can be achieved &lt;em&gt;via&lt;/em&gt; hydroboration followed by oxidation with hydroperoxide. Rearrangement of the borane hydroperoxide intermediate with frontside C-O bond formation shows close orbital analogy to backside attack during S&lt;sub&gt;N&lt;/sub&gt;2 substitution. Again syn-addition shows that nucleophilic attack occurs simultaneously with electrophilic attack on the alkene.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_12_020911.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Addition to Form Three-Membered Rings: Carbenoids and Epoxidation</title>
+      <description>&lt;p&gt;After drill on the mechanism of the pinacol rearrangement, this lecture applies molecular-orbital analysis to simultaneous electrophilic/nucleophilic attack by a single atom to form a three-membered ring from an alkene. These reactions provide drill in consistent use of the curved-arrow formalism for describing electron-pair shifts. Two alternative mechanisms for formation of cyclopropanes by the alkylzinc Simmons-Smith “carbenoid” reagent are proposed, and the one-step mechanism is supported by theory. Epoxidation of alkenes by peroxycarboxylic acids also seems to go by way of a concerted electrophilic/nucleophilic process involving a single transition state. The stereochemistry and scale of various paths to epoxides is discussed in the context of their commercial utility.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_13_021111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Epoxide Opening, Dipolar Cycloaddition, and Ozonolysis</title>
+      <description>&lt;p&gt;The formation of epoxides and the regiospecificity of their acid- and base-catalyzed ring openings underlines the importance of thinking carefully about how textbooks draw curved arrows and may sometimes read too much into fundamentally inadequate experimental data. The ozonolysis of alkenes begins with several 1,3-dipolar cycloadditions that can be understood in terms of matching HOMOs with LUMOs of the corresponding symmetry. The process continues with acetal hydrolysis and either reduction or oxidation to obtain the desired product. Mechanisms of these typical reactions are analyzed. Although addition to the C=O double bond is usually considered nucleophilic, it can have an important electrophilic component that makes it mechanistically analogous to the “electrophilic” additions to C=C being discussed in these lectures. The use of metals to access orbitals of the proper symmetry is introduced through alkene dihydroxylation &lt;em&gt;via&lt;/em&gt; cycloaddition of OsO&lt;sub&gt;4&lt;/sub&gt;.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_14_021411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Metals and Catalysis in Alkene Oxidation, Hydrogenation, Metathesis, and Polymerization</title>
+      <description>&lt;p&gt;Alkenes may be oxidized to diols by permanganate or by OsO&lt;sub&gt;4&lt;/sub&gt; catalysis.&lt;strong&gt; &lt;/strong&gt;Metal catalysts provide orbitals that allow simultaneous formation of two bonds from metal to alkene or H&lt;sub&gt;2&lt;/sub&gt;. Coupling such oxidative additions to reductive eliminations, provides a low-energy catalytic path for addition of H&lt;sub&gt;2&lt;/sub&gt; to an alkene. Such catalytic hydrogenation is often said to involve &lt;em&gt;syn&lt;/em&gt; stereochemistry, but the primary literature shows that addition can be &lt;em&gt;anti&lt;/em&gt; when allylic rearrangement occurs on the catalyst. Similar oxidative/reductive cycles operate in olefin metathesis and metal-catalyzed polymerization. Careful catalyst design allows control over polymer stereochemistry (tacticity). Polymerizations catalyzed by free-radicals or acids typically lack stereochemical control, but there are ways to control regiochemistry and chain length. Latex, a natural polymer, coagulates to form a rubber ball.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_15_021611.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Isoprenoids, Rubber, and Tuning Polymer Properties</title>
+      <description>&lt;p&gt;Isoprenoid or terpene natural products, that seem to be made from isoprene (2-methylbutadiene), are formed by oligomerization of electrophilic isopentenyl pyrophosphate (IPP). Latex, the polymer of IPP, became commercially important when Charles Goodyear, a New Haven native, discovered how to vulcanize rubber. Statistical mechanics explains such curious properties of rubber as contraction upon heating when tightly stretched. Specific chemical treatment confers useful properties on a wide variety of polymers, including hair, synthetic rubber, and plastics. The structure of copolymers demonstrates non-Hammond behavior and ionic character in the transition state for free-radical polymerization.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_16_021811.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Alkynes; Conjugation in Allylic Intermediates and Dienes</title>
+      <description>&lt;p&gt;Because of their unusual acidity very strong base makes it possible to isomerize an internal acetylene to the less stable terminal isomer. Many chemical reactions may be understood in terms of localized bonds, but the special stability of conjugated systems requires considering delocalized orbitals or “resonance.” Equilibrium constants, rates, and regiochemistry in systems involving allylic cations, anions, transition states, and free radicals demonstrate that allylic conjugation is worth about 13 kcal/mole. Regioselection in addition of DCl to 1,3-pentadiene reveals rapid collapse of an allylic ion pair. Allylic substitution of bromine can be favored over Br&lt;sub&gt;2&lt;/sub&gt; addition by using NBS to control Br&lt;sub&gt;2&lt;/sub&gt; concentration. Diene conjugation is worth much less than allylic conjugation.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_17_022111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Linear and Cyclic Conjugation Theory; 4n+2 Aromaticity</title>
+      <description>&lt;p&gt;Despite the substantial change in the energy of individual orbitals, the overall pi-electron energy and orbital shape changes little upon linear conjugation of two double bonds. Conjugation energy of polyenes and allylic systems may be predicted by means of a semicircle mnemonic. The much greater stabilization in “aromatic” conjugated rings, and Hückel’s 4n+2 rule, derive from alternating stabilization and destabilization of successive orbitals when the ends of a conjugated chain overlap as it is closed to form a ring. A circle mnemonic predicts orbital energies for conjugated rings. This aromaticity concept is generalized to heteroaromatic compounds like furan and imidazole, to polycyclic compounds like naphthalene, and to hydrocarbon ions like cyclopentadienide.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_18_022311.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Aromatic Transition States: Cycloaddition and Electrocyclic Reactions</title>
+      <description>&lt;p&gt;Cyclic conjugation that arises when &lt;em&gt;p&lt;/em&gt;-orbitals touch one another can be as important for transition states as aromaticity is for stable molecules. It is the controlling factor in “pericyclic” reactions. Regiochemistry, stereochemistry, and kinetics show that two new sigma bonds are being formed simultaneously, if not symmetrically, in the 6-electron Diels-Alder cycloaddition. Although thermal dimerization of thymine residues in DNA is forbidden, photochemistry allows the 4-electron cycloaddition. “Electrocyclic” ring opening or closing chooses a conrotatory Möbius pathway, or a disrotatory Hückel pathway, according to the number of electron pairs involved and whether light is used in the process. Dewar benzene provides an example of a very unstable molecule that can be formed photochemically and then persists because of unfavorable orbital overlap in the transition state for ring opening.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_19_022511.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Electronic and Vibrational Spectroscopy</title>
+      <description>&lt;p&gt;Time-dependent quantum mechanics shows how mixing orbitals of different energy causes electrons to vibrate. Mixing &lt;em&gt;1s&lt;/em&gt; with &lt;em&gt;2p&lt;/em&gt; causes a vibration that can absorb or generate light, while mixing &lt;em&gt;1s&lt;/em&gt; with &lt;em&gt;2s&lt;/em&gt; causes “breathing” that does not interact with light. Many natural organic chromophores involve mixing an unshared electron pair with a vacant pi orbital, whose conjugation determines color. Infrared spectra reveal atomic vibration frequencies, which are related by Hooke’s law to bond strengths and “reduced” masses. Infrared spectra are complicated by the coupling of local oscillators of similar frequency to give “normal” modes. Alkane chains possess characteristic stretching and bending modes, with descriptive names, that may, or may not, absorb infrared light.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_20_030211.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Functional Groups and Fingerprints in IR Spectroscopy; Precession of Magnetic Nuclei</title>
+      <description>&lt;p&gt;Infrared spectroscopy provides information for analyzing molecular structure and for understanding bonding and dynamics. Although the normal modes of alkanes involve complex coordinated vibration of many atoms, the unusual strengths of multiple bonds give alkenes and alkynes distinctive stretching frequencies.  The intensity of characteristic out-of-plane C-H bending peaks allows assignment of alkene configuration. Characteristic carbonyl stretching peaks in various functional groups demonstrate the importance of pi- and sigma-conjugation.  The complex fingerprint region of IR spectra differentiates the subtle isomerism of polymorphic crystalline pharmaceuticals. A 90° phase lag between force and velocity explains the precession of tops and of magnetic nuclei in a magnetic field. Nuclear precession in the combination of a stationary magnet and a pulsed radio-frequency field can be visualized by means of the “rotating frame.”&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_21_030411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Medical MRI and Chemical NMR</title>
+      <description>&lt;p&gt;Magnetic resonance imaging (MRI) requires gradients in the applied magnetic field, while chemical nuclear magnetic resonance (NMR) requires a highly uniform field. When protons in different parts of the body can be driven to broadcast different frequencies, tomography allows reconstructing a three-dimensional image showing water location. Dependence of the signal intensity on relaxation allows BOLD functional MRI that shows brain activity. When the applied magnetic field is sufficiently uniform, chemical NMR spectra differentiate proton signals according to local field variations within molecules. Modern research in a chemical laboratory like Yale’s depends on the availability of many magnetic resonance spectrometers. Peak integrals show the relative number of protons in different molecular environments, while peak frequencies or “chemical shifts” show the bonding environment of groups of protons. Often downfield (deshielded) or upfield (shielded) shifts are correlated with local electron density.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_22_032111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - Diamagnetic Anisotropy and Spin-Spin Splitting</title>
+      <description>&lt;p&gt;Through-space interaction between magnets of fixed strength and orientation averages to zero during random molecular tumbling, suggesting that the local field about a proton should be sensitive only to electrons that orbit about itself. The chemical shift can be sensitive to electrons orbiting elsewhere if the amount of orbiting varies with molecular orientation. This “diamagnetic anisotropy” is commonly used to rationalize the unusual chemical shifts of protons in acetylene and in aromatic and antiaromatic compounds. The other source of a proton’s local field is nearby magnetic nuclei, which can be counted by the splitting multiplicity. Unlike chemical shift, which is measured in fractional units because it depends on the strength of the applied field, this spin-spin splitting (&lt;em&gt;J&lt;/em&gt;), measured in Hz, is dependent only on molecular structure. &lt;em&gt;J&lt;/em&gt; depends not on spatial proximity, but on orbital overlap, which, remarkably, is larger for anti- than for eclipsed conformations.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_23_032311.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - Higher-Order Effects, Dynamics, and the NMR Time Scale</title>
+      <description>&lt;p&gt;Because spin-spin splitting depends on electron spin precisely at a nucleus, splitting by a C-13 depends on its orbital’s hybridization. “Higher-order effects” that give complex multiplets for nuclei with similar chemical shifts can be understood in terms of the mixing of wave functions of similar energy. Averaging of chemical shifts or spin-spin splitting may be used to measure the rate of rapid changes in molecular structure, such as changes in conformation or hydrogen bonding. Since the spectroscopic time scale depends on frequency differences, averaging is easier in NMR than in IR. A typical problem involves predicting the NMR spectrum of a compound with diastereotopic groups. In proton decoupling radio frequency irradiation of a particular proton can make it cease to split the NMR signals from nearby protons.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_24_032511.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+    <item>
+      <title> - C-13 and 2D NMR – Electrophilic Aromatic Substitution</title>
+      <description>&lt;p&gt;Proton decoupling simplifies C-13 NMR spectra. Dilute double labeling with C-13 confirmed the complex rearrangement scheme in steroid biosynthesis. Two-dimensional NMR yields correlations between NMR signals that underlie structural determination of proteins and identification of the mechanism of a rapid carbocation rearrangement. Substitution of an electrophile for a proton on an aromatic ring proceeds by a two-step association-dissociation mechanism involving a cyclohexadienyl cation intermediate. The relative rates of forming various products from substituted benzenes correlates with the substituents’ influences on the stability of the various cyclohexadienyl cation intermediates. The spectrum of electrophile reactivities is very broad. Important contributions for activating electrophiles were made by Friedel and Crafts working in Paris.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_25_032811.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 25</guid>
+    </item>
+    <item>
+      <title> - Aromatic Substitution in Synthesis: Friedel-Crafts and Moses Gomberg</title>
+      <description>&lt;p&gt;The Friedel-Crafts reaction creates new alkyl- or acyl-aromatic bonds, with or without cation rearrangement. Designing reaction sequences, especially those involving diazonium intermediates, so as to access a wide variety of substituted benzenes provides a good introduction to the challenges of synthetic organic chemistry. Aromatic rings with strong electron withdrawal can undergo nucleophilic aromatic substitution, which plays an important role in biochemistry. The special properties of phenyl-substituted alkanes, especially benzylic reactivity and steric hindrance, played an important role in the development of organic chemistry a century ago.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_26_033011.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 26</guid>
+    </item>
+    <item>
+      <title> - Triphenylmethyl and an Introduction to Carbonyl Chemistry</title>
+      <description>&lt;p&gt;Painstaking studies of his “hexaphenylethane” and its reactivity convinced Gomberg that he had prepared the first trivalent carbon compound, triphenylmethyl radical, the discovery of which marked the emergence of fundamental organic chemistry in America. Isotopic labeling could decide whether protonated cyclopropane plays a role in Friedel-Crafts alkylation. C-13 NMR spectra of aldehydes and ketones show how characteristic chemical shifts are established empirically. The carbonyl group is thermodynamically stable but kinetically reactive. Its acid- and base-catalyzed reactions often involve loss of α-proton to form an enol or enolate intermediate. Carboxylic acids display four fundamentally different reaction patterns. Acid-catalyzed hydrolysis of acetals illustrates a multistep reaction mechanism involving the carbonyl group.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_27_040111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 27</guid>
+    </item>
+    <item>
+      <title> - Mechanism and Equilibrium of Carbonyl Reactions</title>
+      <description>&lt;p&gt;This lecture aims at developing facility with devising plausible mechanisms for acid- and base-catalyzed reactions of carbonyl compounds, carboxylic acids, and their derivatives. When steric hindrance inhibits the A/D mechanism of Fischer esterification, an acid-catalyzed D/A mechanism can still occur. Substituent influence on the equilibrium constants for carbonyl hydration demonstrates four effects: bond strength, steric, electron withdrawal, and conjugation. Cyclic acetals play an important role in protecting the carbonyl groups of sugars, but acetals also can be used to protect alcohols, as can silyl ethers. Using amines instead of alcohols allows converting carbonyl compounds to imines &lt;em&gt;via&lt;/em&gt; carbinolamines.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_28_040411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 28</guid>
+    </item>
+    <item>
+      <title> - Imines and Enamines; Oxidation and Reduction</title>
+      <description>&lt;p&gt;Imines are pervasive in chemistry and biology, playing key roles both the in artificial Strecker synthesis of amino acids and their biosynthesis by L-glutamate dehydrogenase and by transamination. Imines are also involved in Stork’s α-alkylation and acylation of ketones by way of enamine intermediates. Oxidation and reduction in organic chemistry can involve actual electron transfer, when ion-radical intermediates are involved as in the formation of Grignard reagents or in the pinacol reduction. But more often in treating the covalent molecules of organic chemistry atomic oxidation states are used as an artificial bookkeeping device that helps suggest reagent choice for transformations that do not involve literal electron transfer. Oxidation states are assigned by pretending that covalent bonds between different atoms are purely ionic.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_29_040611.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 29</guid>
+    </item>
+    <item>
+      <title> - Oxidation States and Mechanisms</title>
+      <description>&lt;p&gt;A difficult exam question shows how visible and NMR spectroscopy related to long-term misassignment of the structure for the triphenylmethyl dimer. Evidence from 1970 shows that Friedel-Crafts propylation involves an S&lt;sub&gt;N&lt;/sub&gt;2 mechanism, not a protonated cyclopropane. Assigning oxidation states from -4 to +4 to the carbon atoms of proposed starting material and product allows choosing whether a reagent that is oxidizing or reducing or neither is appropriate. Beyond belonging to the appropriate redox class, the reagent must have an appropriate mechanism. Alcohol oxidations by elemental bromine and by Cr&lt;sup&gt;+6&lt;/sup&gt; reagents are shown to involve familiar substitution, elimination, and addition mechanisms. Mechanistic understanding allows adjusting conditions to make oxidation selective.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_30_041111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 30</guid>
+    </item>
+    <item>
+      <title> - Periodate Cleavage, Retrosynthesis, and Green Chemistry</title>
+      <description>&lt;p&gt;The ability of periodic acid (HIO&lt;sub&gt;4&lt;/sub&gt;) to cleave the C-C bond of vicinal diols and α-hydroxycarbonyl compounds allowed structure determination of sugars and their ketals before spectroscopy was available. Reduction of carbonyl compounds by organometallic or hydride reagents provides a range of schemes for synthesizing various alcohols, where preference may be dictated by the desire to avoid competing processes. Wittig olefination allows conversion of C=O to C=C with good control over constitutional isomerism. Pharmaceutical manufacturers have taken great interest in developing new solvents and reagents that minimize hazards, waste, and environmental impact of traditional reactions.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_31_041311.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 31</guid>
+    </item>
+    <item>
+      <title> - Measuring Bond Energies: Guest Lecture by Prof. G. Barney Ellison</title>
+      <description>&lt;p&gt;Spectroscopic determination of bond dissociation energies is relatively straightforward for many diatomic molecules, but for polyatomic molecules it requires merging the results from a variety of challenging experiments. Professor Ellison describes how such techniques as flowing-afterglow mass spectroscopy and negative-ion photoelectron spectroscopy together with data on free-radical kinetics and heats of formation have allowed precise determination of the O-H, C-H, and C-O bonds in methanol and other compounds. Interpreting these reliable data provides new insight into the nature of chemical bonding and “resonance.”&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_32_041511.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 32</guid>
+    </item>
+    <item>
+      <title> - Green Chemistry; Acids and Acid Derivatives</title>
+      <description>&lt;p&gt;Green chemistry needs new asymmetric reactions and safer, more environmental Mitsunobu reactions. The Mitsunobu mechanism is general and reliable, but atom inefficient, generating almost 30 times as much weight of by-products as of the water it is designed to eliminate. Admirably green processes include autoxidation of aldehydes to carboxylic acids using only O&lt;sub&gt;2&lt;/sub&gt;, and oxidation of alcohols by loss of H&lt;sub&gt;2&lt;/sub&gt; using a ruthenium catalyst. Relative pK&lt;sub&gt;a&lt;/sub&gt; values of carboxylic acids provide insight into the role of inductive and resonance effects in organic transformations. One analysis suggests that the special acidity of carboxylic acids owes four times as much to inductive as to resonance effects. Carboxylic acids can be prepared both by oxidation and by reduction.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_33_041811.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 33</guid>
+    </item>
+    <item>
+      <title> - Acids and Acid Derivatives</title>
+      <description>&lt;p&gt;Reactions of carboxylic acids and their salts include nucleophilic substitution and decarboxylation to leave enols, free radicals, or alkyl halides. A review of the IR spectroscopy of acid derivatives includes the use of vibrational coupling in the structure determination of anhydrides and imides. Many acid derivatives can be interconverted by substitution through a tetrahedral intermediate, and differences in acidity can be used to drive such reactions toward completion. Reduction of acid derivatives illustrates the challenge of designing selective reactions. Acidic and basic mechanisms allow conversion of nitriles to carboxylic acids. Ketenes provide routes to several acid derivatives. The Baeyer-Villiger oxidation of ketones to esters illustrates atom insertion into acyl-R bonds.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_34_042011.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 34</guid>
+    </item>
+    <item>
+      <title> - Acyl Insertions and α-Reactivity</title>
+      <description>&lt;p&gt;When a nucleophilic atom bearing a good leaving group attacks a carbonyl group, an adjacent Rgroup can migrate to the new atom, inserting it into the R-acyl bond. This mechanism can insert O, NH, or CH&lt;sub&gt;2&lt;/sub&gt; groups into the acyl bond with informative stereospecificity in the case of the Beckmann rearrangement of oximes. Although the migrating groups are formally anionic, relative migratory aptitudes show that they give up electron density during rearrangement. Acid dissociation of protons a to a carbonyl group to form enolates, and the ease of forming enols, gives α-carbons nucleophilic reactivity under both basic and acidic conditions. This explains H/D exchange and racemization as well as halogenation and alkylation of α-carbons.&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_35_042211.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 35</guid>
+    </item>
+    <item>
+      <title> - α-Reactivity and Condensation Reactions</title>
+      <description>&lt;p&gt;As in many synthetic procedures, an important challenge in ketone alkylation is choosing reagents and conditions that allow control of isomerism and of single vs. multiple substitution. β-Dicarbonyl compounds allow convenient alkylation and preparation of ketones and carboxylic acids. The aldol condensation, in which an α-position adds to a carbonyl group to generate a β-hydroxy- or an α,β-unsaturated carbonyl compound, can be driven to completion by removal of water. The Robinson annulation reaction is an important example of conjugate addition to α,β-unsaturated carbonyl compounds. α-Acylation of esters as in the Claisen condensation is a key step in the biosynthesis of fatty acids. Determining the constitutional structure of sugars posed a daunting challenge to early carbohydrate chemists.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_36_042511.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 36</guid>
+    </item>
+    <item>
+      <title> - Proving the Configuration of Glucose and Synthesizing Two Unnatural Products</title>
+      <description>&lt;p&gt;Modern spectroscopic tools show not only the constitution, configuration, and conformation of glucose but also how it interconverts between isomeric hemiketal pyranose rings. One of mankind’s great accomplishments was determinining its constitution and especially its configuration before such spectroscopy. By 1887 Heinrich Kiliani had established the constitution of glucose as an aldohexose, and with help from Emil Fischer, he developed a method for homologating aldoses. Fisher assembled a great deal of experimental evidence on interconversion of natural and artificial aldoses, and their derivatives, especially their crystalline osazones. In 1892 he used this evidence to prove logically which of eight aldohexose configurations corresponds to glucose and to provide definitive support for van’t Hoff’s stereochemical theory. In 1991 Cram, Tanner, and Thomas reported the NMR spectrum of antiaromatic cyclobutadiene, which they prepared by photolysis inside a clamshell molecule that they designed and constructed in order to isolate this highly reactive molecule.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_37_042711.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 37</guid>
+    </item>
+    <item>
+      <title> - Review: Synthesis of Cortisone</title>
+      <description>&lt;p&gt;Discoverers of the structure and biological activity of steroid hormones won seven Nobel Prizes between 1927 and 1975. Studying the steps involved in Woodward’s 1951 “total” synthesis of cortisone provides a review of the organic reactions covered this semester. Many steps involved novel insights, others were based on lore from previous work in the area. The overall yield of such sequential syntheses is typically much lower than that of convergent syntheses. Practical syntheses of cortisone were based on modification of related steroids readily available from nature. Milestones in total synthesis include both purely intellectual work with natural products and commercially important synthesis of designed pharmaceuticals. The course ends with thanks to those, young and old, who have taught us all.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/chem125b/mp3/chem125_38_042911.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 38</guid>
+    </item>
+  </channel>
+</rss>

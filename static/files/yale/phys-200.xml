@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Fundamentals of Physics I</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor Ramamurti Shankar</itunes:author>
+    <description>&lt;p&gt;This course provides a thorough introduction to the principles and methods of physics for students who have good preparation in physics and mathematics. Emphasis is placed on problem solving and quantitative reasoning. This course covers Newtonian mechanics, special relativity, gravitation, thermodynamics, and waves.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/shankar1_0.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/physics/phys-200</link>
+        <item>
+      <title> - Course Introduction and Newtonian Mechanics</title>
+      <description>&lt;p&gt;Professor Shankar introduces the course and answers student questions about the material and the requirements. He gives an overview of Newtonian mechanics and explains its two components: kinematics and dynamics. He then reviews basic concepts in calculus through two key equations: x = x&lt;sub&gt;0&lt;/sub&gt; + v&lt;sub&gt;0&lt;/sub&gt;t + ½ at&lt;sup&gt;2&lt;/sup&gt; and v&lt;sup&gt;2&lt;/sup&gt; = v&lt;sub&gt;0&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt;+ 2 a (x-x&lt;sub&gt;0&lt;/sub&gt;), tracing the fate of a particle in one dimension along the x-axis.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_01_090606.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - Vectors in Multiple Dimensions</title>
+      <description>&lt;p&gt;In this lecture, Professor Shankar discusses motion in more than one dimension. Vectors are introduced and discussed in multiple dimensions. Vector magnitude and direction are also explained. Null vectors, minus vectors, unit and velocity vectors are discussed along with their properties. Finally, several specific problems are solved to demonstrate how vectors can be added, and problems of projectile motion are expounded.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_02_091106.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Newton&#x27;s Laws of Motion</title>
+      <description>&lt;p&gt;This lecture introduces Newton’s Laws of Motion. The First Law on inertia states that every object will remain in a state of rest or uniform motion in a straight line unless acted upon by an external force. The Second Law (&lt;em&gt;F = ma&lt;/em&gt;) relates the cause (the force &lt;em&gt;F&lt;/em&gt;) to the acceleration. Several different forces are discussed in the context of this law. The lecture ends with the Third Law which states that action and reaction are equal and opposite.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_03_091306.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Newton&#x27;s Laws (cont.) and Inclined Planes</title>
+      <description>&lt;p&gt;The lecture begins with the application of Newton’s three laws, with the warning that they are not valid for objects that move at speeds comparable to the speed of light or objects that are incredibly small and of the atomic scale. Friction and static friction are discussed. The dreaded inclined plane is dealt with head on. Finally, Professor Shankar explains the motion of objects using Newton’s laws in specific problems related to objects in circular motion, such as roller coasters and a planet orbiting the Sun.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_04_091806.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Work-Energy Theorem and Law of Conservation of Energy</title>
+      <description>&lt;p&gt;The lecture begins with a review of the loop-the-loop problem. Professor Shankar then reviews basic terminology in relation to work, kinetic energy and potential energy. He then goes on to define the Work-Energy Theorem. Finally, the Law of Conservation of Energy is discussed and demonstrated with specific examples.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_05_092006.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Law of Conservation of Energy in Higher Dimensions</title>
+      <description>&lt;p&gt;The discussion on the Law of Conservation of Energy continues but is applied in higher dimensions. The notion of a function with two variables is reviewed. Conservative forces are explained and students are taught how to recognize and manufacture them.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_06_092506.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Dynamics of a Multiple-Body System and Law of Conservation of Momentum</title>
+      <description>&lt;p&gt;The dynamics of a many-body system is examined. Through a variety of examples, the professor demonstrates how to locate the center of mass and how to evaluate it for a number of objects. Finally, the Law of Conservation of Momentum is introduced and discussed. The lecture ends with problems of collision in one dimension focusing on the totally elastic and totally inelastic cases.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_08_100206.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Rotations, Part I: Dynamics of Rigid Bodies</title>
+      <description>&lt;p&gt;Part I of Rotations. The lecture begins with examining rotation of rigid bodies in two dimensions. The concepts of “rotation” and “translation” are explained. The use of radians is introduced. Angular velocity, angular momentum, angular acceleration, torque and inertia are also discussed. Finally, the Parallel Axis Theorem is expounded.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_09_100906.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Rotations, Part II: Parallel Axis Theorem</title>
+      <description>&lt;p&gt;Part II of Rotations. The lecture begins with an explanation of the Parallel Axis Theorem and how it is applied in problems concerning rotation of rigid bodies. The moment of inertia of a disk is discussed as a demonstration of the theorem. Angular momentum and angular velocity are examined in a variety of problems.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_10_101106.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Torque</title>
+      <description>&lt;p&gt;This lecture is a continuation of an analogue to Newton’s law: τ= lα. While previous problems examined situations in which τ is not zero, this time the focus is on extreme cases in which there is no torque at all. If there is no torque, α is zero and the angular velocity is constant. The lecture starts with a simple example of a seesaw and moves on to discuss a collection of objects that are somehow subject to a variety of forces but remain in static equilibrium.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_11_101306.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Midterm Exam</title>
+      <description>&lt;p&gt;Midterm Exam covers the first half of the course.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/courses/semester/course/mp3/filename.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Exam 1</guid>
+    </item>
+    <item>
+      <title> - Introduction to Relativity</title>
+      <description>&lt;p&gt;This is the first of a series of lectures on relativity. The lecture begins with a historical overview and goes into problems that aim to describe a single event as seen by two independent observers. Maxwell’s theory, as well as the Galilean and Lorentz transformations are also discussed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_12_101606.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Lorentz Transformation</title>
+      <description>&lt;p&gt;This lecture offers detailed analysis of the Lorentz transformations which relate the coordinates of an event in two frames in relative motion. It is shown how length, time and simultaneity are relative.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_13_102306.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Introduction to the Four-Vector</title>
+      <description>&lt;p&gt;The four-vector is introduced that unifies space-time coordinates x, y, z and t into a single entity whose components get mixed up under Lorentz transformations. The length of this four-vector, called the space-time interval, is shown to be invariant (the same for all observers). Likewise energy and momentum are unified into the energy-momentum four-vector.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_14_102506.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Four-Vector in Relativity</title>
+      <description>&lt;p&gt;The discussion of four-vector in relativity continues but this time the focus is on the energy-momentum of a particle. The invariance of the energy-momentum four-vector is due to the fact that rest mass of a particle is invariant under coordinate transformations.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_15_103006.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - The Taylor Series and Other Mathematical Concepts</title>
+      <description>&lt;p&gt;The lecture covers a number of mathematical concepts. The Taylor series is introduced and its properties discussed, supplemented by various examples. Complex numbers are explained in some detail, especially in their polar form. The lecture ends with a discussion of simple harmonic motion.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_16_110106.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Simple Harmonic Motion</title>
+      <description>&lt;p&gt;The focus of the lecture is simple harmonic motion. Professor Shankar gives several examples of physical systems, such as a mass M attached to a spring, and explains what happens when such systems are disturbed. Amplitude, frequency and period of simple harmonic motion are also defined in the course of the lecture. Several problems are solved in order to demonstrate various cases of oscillation.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_17_110606.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Simple Harmonic Motion (cont.) and Introduction to Waves</title>
+      <description>&lt;p&gt;This lecture continues the topic of harmonic motions. Problems are introduced and solved to explore various aspects of oscillation. The second half of the lecture is an introduction to the nature and behavior of waves. Both longitudinal and transverse waves are defined and explained.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_18_110806.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Fluid Dynamics and Statics and Bernoulli&#x27;s Equation</title>
+      <description>&lt;p&gt;The focus of the lecture is on fluid dynamics and statics. Different properties are discussed, such as density and pressure. The Archimedes’ Principle is introduced and demonstrated through a number of problems. The final topic of the lecture is Bernoulli’s Equation.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_20_111506.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Thermodynamics</title>
+      <description>&lt;p&gt;This is the first of a series of lectures on thermodynamics. The discussion begins with understanding “temperature.” Zeroth’s law is introduced and explained. Concepts such as “absolute zero” and “triple point of water” are defined. Measuring temperature through a number of instruments is addressed as well as the different scales of measurement. The second half of the lecture is devoted to heat and heat transfer. Concepts such as “convection” and “conduction” are explained thoroughly.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_21_112706.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - The Boltzmann Constant and First Law of Thermodynamics</title>
+      <description>&lt;p&gt;This lecture continues the topic of thermodynamics, exploring in greater detail what heat is, and how it is generated and measured. The Boltzmann Constant is introduced. The microscopic meaning of temperature is explained. The First Law of Thermodynamics is presented.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_22_112906.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - The Second Law of Thermodynamics and Carnot&#x27;s Engine</title>
+      <description>&lt;p&gt;Why does a dropped egg that spatters on the floor not rise back to your hands even though no laws prohibit it? The answer to such irreversibility resides the Second Law of Thermodynamics which explained in this and the next lecture. The Carnot heat engine is discussed in detail to show how there is an upper limit to the efficiency of heat engines and how the concept of entropy arises from macroscopic considerations.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_23_120406.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - The Second Law of Thermodynamics (cont.) and Entropy</title>
+      <description>&lt;p&gt;The focus of the lecture is the concept of entropy. Specific examples are given to calculate the entropy change for a number of different processes. Boltzmann’s microscopic formula for entropy is introduced and used to explain irreversibility.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_24_120606.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+  </channel>
+</rss>

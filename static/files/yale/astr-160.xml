@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Frontiers and Controversies in Astrophysics</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor Charles Bailyn</itunes:author>
+    <description>&lt;p&gt;This course focuses on three particularly interesting areas of astronomy that are advancing very rapidly: Extra-Solar Planets, Black Holes, and Dark Energy. Particular attention is paid to current projects that promise to improve our understanding significantly over the next few years. The course explores not just what is known, but what is currently not known, and how astronomers are going about trying to find out.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/bailyn_1.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/astronomy/astr-160</link>
+        <item>
+      <title> - Introduction</title>
+      <description>&lt;p&gt;Professor Bailyn introduces the course and discusses the course material and requirements. The three major topics that the course will cover are (1) exoplanets–planets around stars other than the Sun, (2) black holes–stars whose gravitational pull is so strong that even their own light rays cannot escape, and (3) cosmology–the study of the Universe as a whole. Class proper begins with a discussion on planetary orbits. A brief history of astronomy is also given and its major contributors over the centuries are introduced: Ptolemy, Galileo, Copernicus, Kepler, and Newton.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_01_011607.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - Planetary Orbits</title>
+      <description>&lt;p&gt;Exoplanets are introduced and students learn how astronomers detect their presence as well as the challenges associated with it. Physics equations are explained as well as their importance in the context of the course. A number of problems are worked out to get students used to dealing with large numbers in calculating planetary masses, interplanetary distances, etc.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_02_011807.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Our Solar System and the Pluto Problem</title>
+      <description>&lt;p&gt;Class begins with a review of the first problem set. Newton’s Third Law is applied in explaining how exoplanets are found. An overview of the Solar System is given; each planet is presented individually and its special features are highlighted. Astronomy is discussed as an observational science, and the subject of how to categorize objects in the Solar System is addressed. The Pluto controversy is given special attention and both sides of the argument regarding its status are considered.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_03_012307.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Discovering Exoplanets: Hot Jupiters</title>
+      <description>&lt;p&gt;The formation of planets is discussed with a special emphasis on the bodies in the Solar System. Planetary differences between the celestial bodies in the Inner and Outer Solar System are observed. Professor Bailyn explains how the outlook of our Solar System can predict what other star systems may look like. It is demonstrated how momentum equations are applied in astronomers’ search for exoplanets. Planet velocities are discussed and compared in relation to a planet’s mass. Finally, the Doppler shift is introduced and students learn how it is used to measure the velocity of distant objects, such as galaxies and planets.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_04_012507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Planetary Transits</title>
+      <description>&lt;p&gt;Professor Bailyn talks about student responses for a paper assignment on the controversy over Pluto. The central question is whether the popular debate is indeed a “scientific controversy.” A number of scientific “fables” are discussed and a moral is associated with each: the demotion of Pluto (moral: science can be affected by culture); the discovery of 51 Peg b (morals: expect the unexpected, and look at your data); the disproof of pulsation as explanation for the Velocity Curves (moral: sometimes science works like science).&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_05_013007.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Microlensing, Astrometry and Other Methods</title>
+      <description>&lt;p&gt;The class begins with a discussion on transits – important astronomical events that help astronomers to find new planets. The event occurs when a celestial body moves across the face of the star it revolves around and blocks some of its light. By calculating the amount of light that is being obscured astronomers can obtain important information about both star and planet, such as size, density, radial velocity and more. The concept of planetary migration is explained in order to better understand the dramatic differences between bodies in the Inner and Outer Solar System. Finally, potential problems in the Solar System that may occur as a result of migration are addressed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_06_020107.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Direct Imaging of Exoplanets</title>
+      <description>&lt;p&gt;Class begins with a problem on transits and learning what information astronomers obtain through observing them. For example, radii of stars can be estimated. Furthermore, applying the Doppler shift method, one can find the mass of a star. Finally, a star’s density can be calculated. A second method for identifying planets around stars is introduced: the astrometry method. The method allows for an extremely accurate assessment of a star’s precise position in the sky. Special features of the astrometry method are discussed and a number of problems are solved. A short summary is given on the three methods astronomers use to identify exoplanets. Class ends with an overview of upcoming space missions and the hope of detecting the presence of biological activity on other planet.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_07_020607.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - The Kepler Mission</title>
+      <description>&lt;p&gt;In this first of three update lectures, Prof. Bailyn discusses new information relevant to the first part of the course, on exoplanets. In particular, Prof. Bailyn reviews the spectacular results from the Kepler mission, launched in 2009, which has discovered thousands of new exoplanets. Examples of these results are discussed, but the long-term goal of discovering Earth-like planets on which life as we know it could thrive has still not quite been achieved.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_update01_070212.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Update 1</guid>
+    </item>
+    <item>
+      <title> - Introduction to Black Holes</title>
+      <description>&lt;p&gt;The second half of the course begins, focusing on black holes and relativity. In introducing black holes, Professor Bailyn offers a definition, talks about how their existence is detected, and explains why (unlike in the case with exoplanets where Newtonian physics was applied) Einstein’s Theory of Relativity is now required when studying black holes. The concepts of escape and circular velocity are introduced. A number of problems are worked out and students learn how to calculate an object’s escape velocity. A historical overview is offered of our understanding and discovery of black holes in the context of stellar evolution.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_08_021307.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Special and General Relativity</title>
+      <description>&lt;p&gt;The discussion of black holes continues with an introduction of the concept of event horizon. A number of problems are worked out to familiarize students with mathematics related to black hole event horizons. In a longer question and answer session, Professor Bailyn discusses the more mystifying aspects of the nature of black holes and the possibility of time travel. Finally, the issues of reconciling Newton’s laws of motion with Special Relativity, and Newton’s law of gravity with General Relativity, are addressed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_09_021507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Tests of Relativity</title>
+      <description>&lt;p&gt;The lecture begins with the development of post-Newtonian approximations from Newtonian terms. Several problems are worked out in calculating mass, force and energy. A discussion follows about how concepts like mass and velocity are approached differently in Newtonian physics and Relativity. Attention then turns to the discovery that space and time change near the speed of light, and how this realization affected Einstein’s theories. Finally, the possibility of traveling faster than the speed of light is addressed, including how physicists might predict from laboratory conditions how this might occur. Muons, unstable particles that form at the top of the Earth’s atmosphere, are used as an example.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_10_022007.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Special and General Relativity (cont.)</title>
+      <description>&lt;p&gt;The lecture begins with a comprehensive overview of the historical conditions under which Einstein developed his theories. Of particular impact were the urgent need at the turn of the 19th century to synchronize clocks around the world; Einstein’s position at a patent office; and a series of experiments that he himself carried out. In 1905 Einstein published three papers that are still considered the greatest papers in the field of physics. The lecture then moves to General Relativity and how it encompasses Newton’s laws of gravity. A visual demonstration shows how space-time undergoes curvature when mass is introduced. Class ends with a question-and-answer period on a variety of topics in Special Relativity.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_11_022207.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Stellar Mass Black Holes</title>
+      <description>&lt;p&gt;One last key concept in Special Relativity is introduced before discussion turns again to black celestial bodies (black holes in particular) that manifest the relativistic effects students have learned about in the previous lectures. The new concept deals with describing events in a coordinate system of space and time. A mathematical explanation is given for how space and time reverse inside the Schwarzschild radius through sign changes in the metric. Evidence for General Relativity is offered from astronomical objects. The predicted presence and subsequent discovery of Neptune as proof of General Relativity are discussed, and stellar mass black holes are introduced.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_12_022707.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Stellar Mass Black Holes (cont.)</title>
+      <description>&lt;p&gt;Class begins with clarification of equations from the previous lecture. Four post-Newtonian gravitational effects are introduced and discussed in detail. The first of these is the so-called Perihelion Precession, which occurs when the major axis of a planet’s elliptical orbit precesses within its orbital plane, in response to changing gravitational forces exerted by other planets. Secondly, deflection of light is described as the curving of light as it passes near a large mass. Gravitational redshift is explained as a frequency effect that occurs as light moves away from a massive body such as a star or black hole. Finally, the existence and effects of gravitational waves are discussed. The lecture closes with a brief history of the 1919 eclipse expedition that made Einstein famous.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_13_030107.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Pulsars</title>
+      <description>&lt;p&gt;Professor Bailyn begins with a summary of the four post-Newtonian effects of general relativity that were introduced and explained last time: precession of the perihelion, the deflection of light, the gravitational redshift, and gravitational waves. The concept of gravitational lensing is discussed as predicted by Einstein’s general relativity theory. The formation of a gravitational lens can be observed when light from a bright distant source bends around a massive object between the source (such as a quasar) and the observer. Professor Bailyn then offers a slideshow of gravitational lenses. The issue of finding suitable astronomical objects that lend the opportunity to observe post-Newtonian relativistic effects is addressed. The lecture ends with Jocelyn Bell and the discovery of pulsars.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_14_030607.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Supermassive Black Holes</title>
+      <description>&lt;p&gt;The lecture begins with a question-and-answer session about black holes. Topics include the extent to which we are sure black holes exist in the center of all galaxies, how massive they are, and how we can observe them. The lecture then turns to strong-field relativity: relativistic effects that are unrelated to Newtonian theory. The possibility of testing predictions of the existence of black holes is discussed in the context of strong-field relativity. One way we might learn about black holes is through observation of the orbit of the companion star in an X-ray binary star system. Through this we can estimate the mass of the compact object. The lecture ends with an explanation of how astronomers find black holes, and how Professor Bailyn was able to discover one himself.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_15_030807.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Do Black Holes Spin?</title>
+      <description>&lt;p&gt;In this second of three update lectures, Prof. Bailyn discusses new information pertaining to the second part of the course, on black holes. In this lecture Prof. Bailyn describes recent work by he and his colleagues on determining the spin of black holes, which is the only parameter of consequence other than the mass. The results of these investigations are currently ambiguous and controversial.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_update02_070212.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Update 2</guid>
+    </item>
+    <item>
+      <title> - Hubble&#x27;s Law and the Big Bang</title>
+      <description>&lt;p&gt;The third and final part of the course begins, consisting of a series of lectures on cosmology. A brief history of how cosmology developed into a scientific subject is offered. The discovery of dark energy, along with dark matter, played a crucial role in the development of cosmology. The lecture then discusses the discovery of spiral nebulae in 1920, as well as the “Great Debate” over what they were. Hubble’s famous redshift diagram is presented as the basis for Hubble’s Constant and Big Bang cosmology. The difficulty of measuring distance of objects in space, and how to do it using the parallax method and the standard candle method, are discussed. Measure brightness using the magnitude scale is explained. Class ends with a review of logarithms.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_16_032907.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Hubble&#x27;s Law and the Big Bang (cont.)</title>
+      <description>&lt;p&gt;Class begins with a review of magnitudes and the problem set involving magnitude equations. Implications of the Hubble Law and Hubble Diagram are discussed. Professor Bailyn elaborates on the Big Bang theory of cosmology and addresses controversial questions related to the age, development, and boundaries of the universe. The fate of the universe, and possibly its end (known as the Big Crunch) are addressed. Imagining an expanding three-dimensional universe is proposed. The lecture ends with a question-and-answer session during which students inquire about a variety of topics related to cosmology, such as the center of the universe, its current expansion, and hypothetical collapse.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_17_040307.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Hubble&#x27;s Law and the Big Bang (cont.)</title>
+      <description>&lt;p&gt;Professor Bailyn returns to the subject of the expansion of the universe to offer explanations that do not require belief in the Big Bang theory. One alternative is a theory that, in the past, the entire universe was reduced to an “initial singularity,” in which everything was much closer, and therefore denser and hotter. Since the universe is in constant flux, however, it follows that in the future things will drift apart. The Steady State explanation for the expansion of the universe is then explained. Coined as a derogatory term meant to ridicule supporters of the Big Bang theory, Steady State purports that new energy and matter are constantly created as the universe expands, to fill in the void that results from the expansion. The discovery of quasars refuted the Steady State theory. The lecture ends with a discussion of how observing very distant objects allows us to look back in time, and also gives us a glimpse into the future of galaxies and the universe.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_18_040507.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Omega and the End of the Universe</title>
+      <description>&lt;p&gt;Class begins with a review of the issues previously addressed about the origin and fate of the universe. The role of gravity in the expansion of the universe is discussed and given as the reason why the rate of expansion cannot remain constant and will eventually slow down. The actual density of the universe is calculated using various methods. Finally, the unsolved problem of dark matter is addressed and two explanatory hypotheses are proposed. One is that the universe is comprised of WIMPs (Weakly Interactive Massive Particles) that fulfill two requirements: they have mass and do not interact with light. The second hypothesis is that dark matter is made of MACHOs (Massive Astrophysical Compact Halo Objects), which scientists have attempted to identify through gravitational lenses.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_19_041007.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Dark Matter</title>
+      <description>&lt;p&gt;This lecture introduces an important concept related to the past and future of the universe: the Scale factor, which is a function of time. With reference to a graph whose coordinates are the Scale factor and time, the problem of dark matter is addressed again. Cosmological redshifts are measured to determine the scale of the universe. The discovery of the repulsive, anti-gravitational force of dark energy is explained. The lecture concludes with discussion of Einstein’s biggest mistake: the invention of the cosmological constant to balance gravity.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_20_041207.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Dark Energy and the Accelerating Universe and the Big Rip</title>
+      <description>&lt;p&gt;Class begins with a review of the mysterious nature of dark matter, which accounts for three quarters of the universe. Different models of the universe are graphed. The nature, frequency, and duration of supernovae are then addressed. Professor Bailyn presents data from the Supernova Cosmology Project and pictures of supernovae taken by the Hubble Space Telescope. The discovery of dark energy is revisited and the density of dark energy is calculated. The Big Rip is presented as an alternative hypothesis for the fate of the universe.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_21_041707.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Supernovae</title>
+      <description>&lt;p&gt;Professor Bailyn offers a review of what is known so far about the expansion of the universe from observing galaxies, supernovae, and other celestial phenomena. The rate of the expansion of the universe is discussed along with the Big Rip theory and the balance of dark energy and dark matter in the universe over time. The point at which the universe shifts from accelerating to decelerating is examined. Worries related to the brightness of high redshift supernovae and the effects of gravitational lensing are explained. The lecture also describes current project designs for detecting supernovae at high or intermediate redshift, such as the Joint Dark Energy Mission (JDEM) and Large Synoptic Survey Telescope (LSST).&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_22_041907.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - Other Constraints: The Cosmic Microwave Background</title>
+      <description>&lt;p&gt;Reasons for the expansion of the universe are addressed at the start of this lecture, focusing especially on the acceleration of dark energy. Supernovae were the first evidence for the existence of dark energy. Two other proofs are presented. The first is the Cosmic Microwave Background, which is a form of electromagnetic radiation that is perfectly smooth and equal in all directions. It firmly supports the Big Bang theory. Projects attempting to measure it, such as COBE and WMAP, are discussed. Secondly, Large-Scale Clustering is introduced: by measuring the degree of clustering, astronomers hope to advance their understanding of dark energy and dark matter. Computer simulations of the evolution of the universe are shown.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_23_042407.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - The Multiverse and Theories of Everything</title>
+      <description>&lt;p&gt;Professor Bailyn begins the class with a discussion of a recent New York Times article about the discovery of a new, earth-like planet. He then discusses concepts such as epicycles, dark energy and dark matter; imaginary ideas invented to explain 96% of the universe. The Anthropic Principle is introduced and the possibility of the multiverse is addressed. Finally, biological arguments are put forth for how complexity occurs on a cosmological scale. The lecture and course conclude with a discussion on the fine differences between science and philosophy.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_24_042607.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+    <item>
+      <title> - The “Dark Ages” and the Growth of Structure</title>
+      <description>&lt;p&gt;In this third of three update lectures, Prof. Bailyn provides new information pertaining to the third part of the course, on cosmology. The basic model of the Universe, including Dark Matter and Dark Energy, is supported by all recent evidence. Work is thus beginning on sorting out the consequences of this model, in particular the growth of structure in the Universe, from tiny modulations of the Cosmic Microwave Background to the current distribution of galaxies.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_update03_070212.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Update 3</guid>
+    </item>
+  </channel>
+</rss>

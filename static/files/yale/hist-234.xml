@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Epidemics in Western Society Since 1600</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor Frank Snowden</itunes:author>
+    <description>&lt;p&gt;This course consists of an international analysis of the impact of epidemic diseases on western society and culture from the bubonic plague to HIV/AIDS and the recent experience of SARS and swine flu. Leading themes include: infectious disease and its impact on society; the development of public health measures; the role of medical ethics; the genre of plague literature; the social reactions of mass hysteria and violence; the rise of the germ theory of disease; the development of tropical medicine; a comparison of the social, cultural, and historical impact of major infectious diseases; and the issue of emerging and re-emerging diseases.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/snowden_2.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/history/hist-234</link>
+        <item>
+      <title> - Introduction to the Course</title>
+      <description>&lt;p&gt;Epidemics, or high-impact infectious diseases, have had an historical impact equal to that of wars, revolutions and economic crises. This course looks at the various ways in which these diseases have affected societies in Europe and North America from 1600 to the present. Contrary to optimistic mid-twentieth-century predictions, epidemic diseases still pose a major threat to human well-being. Diseases will be considered not only in their biological effects, but also as social, political and cultural phenomena. Attention will therefore be given to the different forms of human response to epidemics, from medical science to artistic representations.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_01_011110.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - Classical Views of Disease: Hippocrates, Galen, and Humoralism</title>
+      <description>&lt;p&gt;The form of medicine that arose in fifth-century Greece, associated with the name of Hippocrates and later popularized by Galen, marked a major innovation in the treatment of disease. Unlike supernatural theories of disease, Hippocrates’ method involved seeking the causes of illness in natural factors. This method rested upon an analogy between the order of the universe and the composition of the body’s “humors.” Health, on this view, was a matter of achieving equilibrium between competing humoral forces. Although Hippocratic theory would later be challenged for a number of different reasons, notably including the experience of epidemic diseases, it persists today in various traditions of holistic medicine.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_02_011310.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Plague (I): Pestilence as Disease</title>
+      <description>&lt;p&gt;The bubonic plague is the measure by which succeeding epidemics have long been measured. Its extreme virulence, horrible symptoms, and indiscriminate victim profile all contributed to making plague the archetypical worst-case scenario. For these same reasons, the plague is also an ideal test case for the thesis that epidemic diseases play a major role in shaping human history. Over the course of its three pandemics, the plague had major economic, religious, cultural and political implications for affected societies. In its wake, religious beliefs and medical practices were questioned, public authorities tested, and the social fabric strained.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_03_012010.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Plague (II): Responses and Measures</title>
+      <description>&lt;p&gt;Community responses to the bubonic plague ranged from the flight of a privileged few to widespread panic and the persecution of foreigners and other stigmatized social groups. The suspicion of willful human agency in spreading the disease, identified with the work of poisoners, was a major source of anxiety. Mass religious revivals also accompanied the pandemic, with the emergence of new cults of saints and public forms of repentance. Official attempts to contain the second pandemic resulted in the first full-scale public health program, the plague regulations instituted by the Italian city-states, regulations that included military quarantines, compulsory burial, and imprisonment of the infected. It is unclear to what extent these measures, while representative of impressive technical and administrative advances, actually contributed to defeating the epidemic.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_04_012510.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Plague (III): Illustrations and Conclusions</title>
+      <description>&lt;p&gt;One of the major cultural consequences of the second plague pandemic was its effect on attitudes towards death and the “art of dying.” As a result both of its extreme virulence and the strictness of the measures imposed to combat it, plague significantly disrupted traditional customs of dealing with death. This disruption made itself felt not only in religious belief and burial practices but also in art, architecture and literature. European culture was profoundly shaped by the experience of the plague, as witnessed by the advent of symbols such as “vanitas” and the danse macabre in iconography, as well as the visual representations associated with the new cults of plague saints. The successful containment of the plague might be seen to have exercised a similarly powerful effect in shaping the philosophical project of the Enlightenment, in that the measures taken to ward off death gave material substance to theoretical claims of progress.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_05_012710.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Smallpox (I): &quot;The Speckled Monster&quot;</title>
+      <description>&lt;p&gt;In the eighteenth century, smallpox succeeded plague as the most feared disease. The two maladies, however, are very different. While plague is a bacterial disease, smallpox is viral. Plague is spread by rats and fleas, smallpox is transmitted by contact and airborne inhalation. Unlike plague, smallpox can exist as an endemic as well as an epidemic disease. The dread of smallpox was a result of its agonizing and unpleasant symptoms, which, in the case of survival, often left victims permanently disfigured. Prior to the discovery and successful implementation of inoculation and vaccination regimes, a host of ineffective and often dangerous treatments were attempted, including bleeding, purging, and cauterization of affected areas.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_06_020110.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Smallpox (II): Jenner, Vaccination, and Eradication</title>
+      <description>&lt;p&gt;It is not known for certain when smallpox first appeared in Europe; however, the disease reached its highpoint in the seventeenth and eighteenth centuries, when it persisted as an endemic disease while periodically erupting as an epidemic. European literature testifies to the pervasiveness of smallpox, a disease that most would have had acquired in childhood. In the New World, the disease was experienced very differently. With no acquired immunities on the part of native populations, European explorers and colonists were responsible for devastating “virgin soil epidemics,” one consequence of which was to pave the way for the importation of African slaves. The first practical public health measure to effectively combat smallpox, inoculation and later vaccination, achieved notable success but was not free of flaws and controversy.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_07_020310.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - Nineteenth-Century Medicine: The Paris School of Medicine</title>
+      <description>&lt;p&gt;In the decades immediately following the French Revolution, Paris was at the center of a series of major developments in medical science, sometimes described as the transition from medieval to modern medicine. Although the innovations associated with the Paris School were in large part products of the ideological and institutional transformations brought on by the Revolution, they belong to a long list of challenges to the Galenic orthodoxy of “library medicine.” Successive scientists and physicians had questioned the exclusive commitment of medicine to interpreting ancient texts; in the hospitals of Paris, a new medical epistemology, focused on empirical observation and the diagnosis of specific diseases, was put into practice.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_08_020810.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Asiatic Cholera (I): Personal Reflections</title>
+      <description>&lt;p&gt;Professor Snowden describes the historical detective work that went into the research and writing of &lt;em&gt;Naples in the Time of Cholera,&lt;/em&gt; his study of the 1884 and 1911 epidemics of Asiatic cholera that struck Italy. The latter epidemic is of particular interest, because the official historiography of the disease has long confined its outbreaks in Western Europe to the nineteenth century. Through his investigation, Snowden discovered that there was in fact an epidemic on Italian shores in 1911, and that its absence from subsequent histories was the result of concerted efforts of concealment on the part of Italian and U.S. authorities. The story of this successful concealment sheds light not only on the history of Asiatic cholera in the early twentieth century, but also on more recent public health campaigns that have involved concealment, such as China’s response to the 2002 SARS epidemic.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_09_021010.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Asiatic Cholera (II): Five Pandemics</title>
+      <description>&lt;p&gt;Asiatic cholera was the most dreaded disease of the nineteenth century. While its demographic impact could not compare to that of the bubonic plague, it nonetheless held a tremendous purchase on the European social imagination. One reason for the intense fear provoked by the disease was its symptoms: not only did cholera exact a degrading and painful toll on the human body, it also struck suddenly, and was capable of reducing the seemingly healthy in a period of hours. A second major reason for the disease’s significance was its overwhelming predilection for the poor: transmitted through the oral ingestion of fecal matter, cholera was intimately associated with poor diets and unsanitary living conditions. This correspondence qualifies it as an archetypical disease of poverty, and implicated cholera in the larger nineteenth-century political anxiety over the “social question.”&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_10_021510.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - The Sanitary Movement and the &quot;Filth Theory of Disease&quot;</title>
+      <description>&lt;p&gt;The sanitary movement was an approach to public health first developed in England in the 1830s and ’40s. With increasing industrialization and urbanization, the removal of filth from towns and cities became a major focus in the struggle against infectious diseases. As pioneered by Edwin Chadwick, the sanitary movement also embraced an explicit political objective, according to which urban cleansing took on a figurative as well as a literal sense, and was seen as a potential solution to the threat posed by the “dangerous classes.” European cities followed suit, with Paris and Naples embarking on wholesale rebuilding projects, necessitating large-scale state intervention. Although these technological reforms marked an undeniable step forward for public health, they often also entailed the exclusion of other strategies, such as progressive economic and educational reforms.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_11_021710.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Syphilis: From the &quot;Great Pox&quot; to the Modern Version</title>
+      <description>&lt;p&gt;There is a longstanding debate over the origins of syphilis, in which arguments over how the disease arrived in Europe have historically been linked to racist and xenophobic ideologies as well as to scientific and historical research. Whatever its provenance, the major syphilis epidemic of the late sixteenth and early seventeenth centuries spread in the train of war, alongside Charles VIII of France’s armies. Syphilis was distinguished both by its catholicity, targeting kings as well as paupers, and its mode of transmission. The disease’s evident contagiousness served both as grist for a religious interpretation, emphasizing asceticism and divine punishment, and as a major challenge to the humoral theory of disease.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_12_022210.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Contagionism versus Anticontagionism</title>
+      <description>&lt;p&gt;The debate between contagionists and anticontagionists over the transmission of infectious diseases played a major role in nineteenth-century medical discourse. On the one side were those who believed that diseases could be spread by infected material, perhaps including people and inanimate objects, and on the other those who subscribed to the more venerable miasmatic theory. Although the contagionist view would be substantially vindicated by Robert Koch’s germ theory of disease, it is important not to simply ignore the arguments put forward by the anticontagionists. Although these were based on science that has since been disproven, the concrete proposals put forward by scientists like Max von Pettenkofer marked a major step forward for public health policy. In particular, the anticontagionists’ emphasis on the environmental factors of disease control continues to provide an important lesson.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_13_022410.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - The Germ Theory of Disease</title>
+      <description>&lt;p&gt;Although the development of the germ theory of disease in the latter half of the nineteenth century marks a major revolution in medical science, comparable to the discoveries of Galileo in astronomy or Darwin in biology, it cannot be reduced to the heroic efforts of a single researcher or group of researchers. Rather, a number of conceptual, technological and institutional preconditions made the germ theory possible. Among these, contagionism, microscopy and hospital medicine all played a major role. The germ theory of disease facilitated a wide range of scientific advances, including the isolation of pathogens, the creation of vaccines and the introduction of antiseptics in surgery.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_14_030110.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Tropical Medicine as a Discipline</title>
+      <description>&lt;p&gt;The sub-discipline of tropical medicine furnishes a clear example of the socially constructed character of medical knowledge. Tropical diseases first enter medical discourse as a unique conceptual field and topic for specialization at the end of the 19th century, and the heyday of tropical medicine–from the 1890s to the First World War–corresponds to the golden age of Western colonialism in Africa and Asia. This correspondence was not accidental; tropical medicine both gave practical aid to colonial powers faced with unfamiliar disease environments and furnished a deeply Eurocentric view of disease well-suited to the ideology of colonial expansion. As a consequence of this approach, little attention was given to the social factors of disease (work conditions, poverty, malnutrition), and the health of native populations was largely ignored. Subsequent periods of research in tropical medicine have, with decolonization and infusions of money from American foundations, been obliged to confront the consequences stemming from the discipline’s formation as an instrument of colonial subjugation.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_15_030310.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Malaria (I): The Case of Italy</title>
+      <description>&lt;p&gt;Of all the diseases studied in this course, malaria has been responsible for the most human suffering. It has evolved alongside humans, and impacted human biology as well as civilization. In the former case, this impact is evident in genetic diseases like sickle-cell anemia which, while increasing vulnerability to a host of other illnesses, has the advantage of conferring substantial resistance to malaria. In social terms, malaria’s debilitating sequelae have resulted in a reciprocal cycle of poverty and infection, low productivity and the desertion of profitable land weakening societies’ ability to combat the disease and ultimately reinforcing a division between the global North (where malaria was eradicated following the Second World War) and the South, where the disease persists.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_16_032210.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Malaria (II): The Global Challenge</title>
+      <description>&lt;p&gt;In the last decade of the nineteenth century, malariology emerged as the most prestigious and intellectually exciting field in the new discipline of tropical medicine. The disease’s complexity and resistance to conventional public health strategies posed a major challenge to doctors and scientists. Plague measures and social hygiene had no effect in curbing malaria, and the disease proved difficult to classify. The case of Italy, and the malaria eradication program of 1900-1962, furnished a model for other efforts across the world. In evaluating the Italian campaign, it is important to distinguish between valuable lessons and warnings for future efforts, and in particular to account for the diversity of strategies responsible for its success.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_17_032410.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Tuberculosis (I): The Era of Consumption</title>
+      <description>&lt;p&gt;An ancient disease, tuberculosis experienced a major upsurge in Western Europe in the nineteenth century, corresponding with increasing industrialization and urbanization. Poor air quality and cramped living conditions increased susceptibility to the disease. Tuberculosis also had a significant impact on European culture. In this respect, the modern career of the disease can be divided into two eras: the first associated with artistic romanticism and the idealized image of the beautiful and brilliant consumptive, the second, following the germ theory of disease, linking tuberculosis with social fears of poverty and contagion.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_18_032910.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Tuberculosis (II): After Robert Koch</title>
+      <description>&lt;p&gt;The cultural transition from the romantic era of consumption to the era of tuberculosis derived not only from the germ theory of disease and the triumph of contagionism over anticontagionism, but also from political considerations. Worries over population decline and growing working-class militancy were aggravated by what now appeared to be a social disease, or a disease of poverty. One of the strategies deployed against the disease was the sanatorium, an institution which was capable both of instructing patients in contagionism and in imposing a practical quarantine. Although the development of effective chemotherapy in the 1940s raised hopes that tuberculosis might be globally eradicated, these have unfortunately proven to be overly optimistic. Factors such as poverty and population displacement continue to favor the disease’s spread today, particularly in the Third World.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_19_033110.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Pandemic Influenza</title>
+      <description>&lt;p&gt;Reliable records of influenza, dating back to the 1700s, suggest a pattern of one major pandemic every century. Among the pandemics for which there is solid documentary evidence, the outbreak of 1918-1920 is by far the greatest. The so-called Spanish Lady caused somewhere between 25 and 100 million deaths worldwide. It is distinctive both for its high mortality rate, in comparison to other flu pandemics, and for its unusual demographic effect: whereas the flu typically targets the very young and old, the 1918-1920 epidemic struck adults in the prime of life. Without a cure for the disease, public health authorities today are in a position to learn from the successes and failures of the early-twentieth-century response.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_20_040510.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - The Tuskegee Experiment</title>
+      <description>&lt;p&gt;The Tuskegee Syphilis Study, carried out in Macon, Alabama, from 1932 to 1972, is a notorious episode in the checkered history of medical experimentation. In one of the most economically disadvantaged parts of the U.S., researchers deceived a group of 399 black male syphilitics into participating in a study with no therapeutic value. These “volunteers” were not treated as patients, but rather as experimental subjects, or walking cadavers. Even after the development of penicillin, the Tuskegee group was denied effective treatment. Despite regularly published scholarly articles, forty years passed before there was any protest in the medical community. The aftereffects of the study, along with the suffering of its victims, include a series of congressional investigations, the drafting of medical ethics guidelines, and the establishment of independent review boards.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_21_040710.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - AIDS (I)</title>
+      <description>&lt;p&gt;The global AIDS pandemic furnishes a case study for many of the themes addressed throughout the course. While in the developed West the disease largely afflicts concentrated high-risk groups such as intravenous drug users and the sexually promiscuous, in Southern Africa it is much more a generalized disease of poverty. In countries such as Botswana and Swaziland, the economic and social consequences of the disease have created a vicious circle, whereby the devastation wrought by AIDS severely impedes public health efforts and prepares the way for further infection. One important lesson that has been drawn from the past decades of struggle against the epidemic is therefore to take account of the specific, local characteristics of each affected area, making provision for the social as well as purely biological factors of transmission.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_22_041210.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - AIDS (II)</title>
+      <description>&lt;p&gt;Dr. Margaret Craven discusses HIV/AIDS from the perspective of a front-line clinician. AIDS is unprecedented in both the speed with which it spread across the globe and in the mobilization of efforts to control it. It is a disease of modernity. Along with the relative ease and velocity of modern transportation methods, other background conditions include Western medicine, with hypodermic needles and bloodbanking, intravenous drug use, and the development and concentration of gay culture. In the U.S., early public health attempts at understanding and combating the virus were hindered by right-wing domestic political and religious forces. Successful containment of epidemics cannot be achieved under the spell of hypocrisy and politicization; rather, medicine and education must be evidence-based and practical.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_23_041410.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - Poliomyelitis: Problems of Eradication</title>
+      <description>&lt;p&gt;The Global Polio Eradication Initiative, the largest public health campaign ever launched, began in 1988 with the ambition of achieving its goal by the year 2000. In the decade since this deadline was missed, the initiative has suffered a number of setbacks, notably in the tropical world. Four major types of problems have impeded the eradication effort: operational, biological, political and religious. Northern Nigeria offers a case study of all of these factors, with domestic political and religious conflict, unsanitary conditions, and suspicion of Western medicine all undermining the anti-polio campaign. One of the questions raised by the campaign’s struggle is whether or not eradication is itself a realistic public health goal, and to what extent smallpox furnishes a model precedent or a potentially misleading dream scenario.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_24_041910.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+    <item>
+      <title> - SARS, Avian Influenza, and Swine Flu: Lessons and Prospects</title>
+      <description>&lt;p&gt;SARS, avian influenza and swine flu are the first new diseases of the twenty-first century. They are all diseases of globalization, or diseases of modernity, and while relatively limited in their impact, they have offered dress-rehearsals for future epidemics. As information about SARS spread internationally in 2002, in spite of China’s campaign of silence, the global response had a curiously twofold character: on one hand, the mobilization of biologists and epidemiologists across national frontiers was rapid and unprecedented, while on the other hand, public health strategies on the ground were largely familiar from previous eras. If the spread of information and collaboration on international health regulations have been two positive aspects of public health response in the first decade of this century, more worrying questions have been raised concerning the production and distribution of drugs and the capacity of for-profit healthcare systems to cope with a major epidemic.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_25_042110.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 25</guid>
+    </item>
+    <item>
+      <title> - Final Q&amp;A</title>
+      <description>&lt;p&gt;Professor Snowden describes the final exam, and takes questions from students.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_26_042610.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 26</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Atmosphere, the Ocean, and Environmental Change</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor Ronald B. Smith</itunes:author>
+    <description>&lt;p&gt;This course explores the physical processes that control Earth’s atmosphere, ocean, and climate. Quantitative methods for constructing mass and energy budgets. Topics include clouds, rain, severe storms, regional climate, the ozone layer, air pollution, ocean currents and productivity, the seasons, El Niño, the history of Earth’s climate, global warming, energy, and water resources.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/smith_r_1.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/geology-and-geophysics/gg-140</link>
+        <item>
+      <title> - Introduction to Atmospheres</title>
+      <description>&lt;p&gt;This course studies the atmosphere and the ocean as parts of Earth’s climate system. The climate is studied in both quantitative and qualitative ways through use of the textbook, lectures, labs and problem sets. Today’s lecture includes an examination of Hurricane Irene that hit Connecticut a few days ago on August 28. For this, we use several website sources of local weather information: satellite, radar, tide gauges. The atmosphere is gravitationally attracted to the Earth and is composed of gases that are invisible to the human eye. We are able to detect the presence of the atmosphere through our perceptions of the presence of air and changes in pressure.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_01_083111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - Retaining an Atmosphere</title>
+      <description>&lt;p&gt;There are other ways in which we can perceive the existence of the atmosphere, predominantly through our perceptions of pressure. Not all planets have atmospheres, and the existence of an atmosphere depends on the ability of gas molecules to remain trapped close to a planet by its gravitational force. The molecular velocity of each gas molecule depends upon its molecular weight, and must exceed the escape velocity of the planet to leave the atmosphere.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_02_090211.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - The Perfect Gas Law</title>
+      <description>&lt;p&gt;The Perfect Gas Law relates temperature, pressure, and density of gases in the atmosphere. It can be used to demonstrate why warm air rises, cool air sinks, and helium balloons float in the air. Buoyancy forces act in fluids (both water and air) when fluid is displaced by a parcel of a fluid with a different density. A combination of buoyancy force and the relationship given in the Ideal Gas Law govern the motion of parcels of gas in the atmosphere.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_03_090511.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Vertical Structure of the Atmosphere; Residence Time</title>
+      <description>&lt;p&gt;Pressure and density decrease exponentially with altitude in the atmosphere. This leads to buoyancy effects in the atmosphere when parcels of air are heated or cooled, or raised or lowered in the atmosphere. Temperature varies in a more complicated way with altitude in the atmosphere, with several inversions which occur at the boundaries of the various layers of the atmosphere. Solar radiation interacts differently with the gases that compose each layer of the atmosphere which affects which wavelengths of radiation are able to reach the surface of the Earth.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_04_090711.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Earth Systems Analysis (Tank Experiment)</title>
+      <description>&lt;p&gt;Several experiments are performed using a water tank with an input flow of water and an output flow. These experiments demonstrate the concepts of equilibrium and steady-state in system analysis and are analogous to various Earth systems; lakes and rivers and the overall heat budget of the planet. The greenhouse effect in the atmosphere is a mechanism for increasing the heat input from the sun in the overall heat budget of the Earth system.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_05_090911.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Greenhouse Effect, Habitability</title>
+      <description>&lt;p&gt;A simple model of the overall Earth’s heat budget is derived. The Earth is assumed to be in equilibrium with the input of solar radiation balanced by the output of infrared radiation emitted by the Earth’s surface. Using this model, the Earth’s surface temperature is calculated to be cooler than in reality due to the lack of an atmosphere and the greenhouse effect in the model.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_06_091211.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Hydrostatic Balance</title>
+      <description>&lt;p&gt;The hydrostatic law describes the weight of a fluid overlying a given area, or the pressure at a particular point. It can be used to calculate the approximate atmospheric mass over a particular area, or to calculate the change in pressure over a given change in altitude. A calculation of the pressure difference from the ground to the twelfth floor of Klein Biology Tower is found to agree well with measurements taken at both locations. The hydrostatic law also applies to pressure changes with depth in the ocean.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_07_091411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - Horizontal Transport</title>
+      <description>&lt;p&gt;This lecture describes how pollutants mix in the atmosphere. Three cases are considered: confined mixing, unconfined mixing, and unconfined mixing with wind. In a confined volume, the concentration of pollutant in the air depends on the volume and the mass of the air present in the volume. Unconfined mixing is also known as diffusion, in which the pollutant disperses through the air from the source over time. When wind is considered, the pollutant disperses from the source in the direction of the wind. The change in temperature with height in the atmosphere is also discussed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_08_091611.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Water in the Atmosphere I</title>
+      <description>&lt;p&gt;The lapse rate describes the rate at which air cools with altitude. Atmospheric stability depends on the lapse rate. When an air parcel is lifted or lowered, it can continue to rise or descend based on the temperature of the surrounding air at the new altitude, which indicates an unstable atmosphere. Inversions can occur in the atmosphere, meaning the air near the ground will be cooler than air aloft. This type of temperature profile can cause air to be trapped near the Earth’s surface in a boundary layer, which can also lead to pollutants being trapped near the ground.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_09_091911.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Water in the Atmosphere II</title>
+      <description>&lt;p&gt;Air is able to hold a limited amount of water vapor, and that amount depends on the temperature of the air. When this saturation vapor pressure is exceeded, liquid water begins to condense and clouds form. There are several different types of clouds, some which rain and others which do not, and each with characteristics specific to it. Vortices are a particular type of cloud phenomenon in which there is a low pressure anomaly in the center of the cloud with rotating air around it, forming funnel clouds as seen in tornados. The low pressure allows liquid water to condense and form the funnel shaped cloud. Haze is another specific type of cloud in which liquid water condenses onto pollution particles in the air.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_10_092111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Clouds and Precipitation (Cloud Chamber Experiment)</title>
+      <description>&lt;p&gt;Scattered visible light and microwave radar can used used to detect clouds and precipitation. Cloud formation in rising air can be simulated in the classroom by suddenly dropping the pressure in a glass chamber. The small cloud droplets formed in this way fall too slowly to ever reach the earth. There are two main mechanisms by which precipitation is generated from clouds. Collision coalescence occurs mainly over tropical oceans whereas the ice phase mechanism is more common and also more relevant to the practice of cloud seeding.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_11_092611.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Circulation of the Atmosphere (Exam I review)</title>
+      <description>&lt;p&gt;There is a latitudinal gradient of heat on the Earth caused by the tilt of the Earth’s axis with respect to the sun. This tilt produces seasonal fluctuations in heat input from the sun, as well as an excess of heat received on average annually near the equator. Heat is transferred poleward by both the ocean and atmosphere in an attempt to balance the Earth’s energy budget. The circulation of the Earth also causes a separation of the atmospheric circulation into three main circulation cells, each transporting heat towards the poles.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_12_092811.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Global Climate and the Coriolis Force</title>
+      <description>&lt;p&gt;The circulation in the atmosphere is composed of three circulation cells in the northern and southern hemispheres. These cells are caused by the rotation of the Earth which creates the Coriolis force. The Coriolis force deflects northern hemisphere motion to the right and southern hemisphere motion to the left. The majority of large-scale motion in the atmosphere is in geostrophic balance, meaning the Coriolis force acting on the motion is balanced by a pressure gradient force. The rotation of cyclones and anticyclones in the northern and southern hemispheres is controlled by this geostrophic balance.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_13_093011.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Coriolis Force and Storms</title>
+      <description>&lt;p&gt;Large scale air motion in the atmosphere occurring sufficiently above the surface is in geostrophic balance. Areas of high and low pressure anomalies in the atmosphere are surrounded by rotating flow caused by the balance between the pressure gradient and Coriolis forces. The direction of rotation around these pressure anomalies reverses between the northern and southern hemispheres due to the reversal in sign of the Coriolis force across the equator. This can be seen in the reverse direction of the spiraling of clouds in satellite images of hurricanes in the northern and southern hemispheres. Convective storms are also discussed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_14_100311.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Convective Storms</title>
+      <description>&lt;p&gt;There are three main types of convective storms: airmass thunderstorms, severe thunderstorms and hurricanes. These storms are all driven by the release of latent heat into the atmosphere during condensation of water vapor. Severe thunderstorms include both squall line thunderstorms and tornados. They acquire energy from water vapor in the atmosphere over land and therefore typically require warm air temperatures and high humidity. Hurricanes gain energy from water vapor evaporated from the ocean surface. This requires warm ocean temperatures, and is the reason hurricanes weaken over land. Hurricanes are cyclonic and therefore also require a non-zero Coriolis force to form and maintain their structure. For this reason they cannot form over the equator and cannot cross the equator.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_15_100511.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - Frontal Cyclones</title>
+      <description>&lt;p&gt;Mid-latitude frontal cyclones gain energy from temperature gradients rather than latent heat release as is the case with convective storms. They form in the belt of westerly winds and therefore generally move west to east in both the northern and southern hemispheres. A mid-latitude frontal cyclone develops from a kink in the polar front, and eventually warm and cold fronts develop around a low pressure center to form the storm. An example of this type of storm is a nor’easter, which commonly occurs in New England and is named for the northeasterly winds that precede the storm’s arrival. Weather forecasting is also discussed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_16_100711.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Seasons and Climate</title>
+      <description>&lt;p&gt;There are several factors that impact climate on Earth. Different areas on Earth have different climates depending on factors such as their latitude and surrounding terrain. Maps of annual average precipitation illustrate these variations in climate. Continentality also affects climate based on the ability to change temperatures on land versus in the oceans and also the imbalance of land mass between the northern and southern hemispheres. Seasonality is a dominant factor in climate. It is controlled by the amount of solar insolation received at the Earth’s surface, which varies in time due to the tilt of the Earth’s rotation axis.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_17_101011.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Seasons and Climate Classification</title>
+      <description>&lt;p&gt;The seasonal cycle on Earth causes shifts in the bands of precipitation in the northern and southern hemispheres. The polar front shifts between high and mid-latitudes which causes a latitudinal shift in the occurrence of frontal cyclones. The Intertropical Convergence Zone also shifts across the equator bringing bands of precipitation to different tropical regions throughout the year. Regional climates on Earth have been classified based on temperature and precipitation values. Areas affected by seasonal shifts in the ITCZ and polar front are included in this classification scheme. Several examples of seasonality are discussed as well as seasonal weather and climate events.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_18_101211.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Ocean Bathymetry and Water Properties</title>
+      <description>&lt;p&gt;Plate tectonics and ocean bathymetry are discussed. Bathymetry is the study of ocean depth, which is affected in some regions by plate tectonics and mantle dynamics. Mid-ocean ridges are formed at plate boundaries where mantle material is rising to the ocean crust and solidifying as it cools to form new ocean crust material. Seamounts are volcanoes that have formed from molten mantle material pushing up through the ocean crust, but these volcanoes lie below sea level. These features are measured using acoustic depth profiling. Ocean water properties, such as temperature and salinity, as well as the methods used to measure them are also discussed.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_19_101711.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Ocean Water Density and Atmospheric Forcing</title>
+      <description>&lt;p&gt;Stability in the ocean is based on the density of the water. Density must increase with depth in order for the ocean to be stable. Density is a function of both temperature and salinity, with cold salty water having a higher density than warm fresh water. Temperature and salinity in the ocean can be affected by the atmosphere. Heat can be added to or removed from the ocean, and precipitation and evaporation change the salinity of the ocean. Surface winds also act as a forcing mechanism on the ocean by creating a wind stress forcing which pushes surface waters.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_20_101911.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Ocean Currents</title>
+      <description>&lt;p&gt;The atmosphere forces the ocean in three ways: addition and removal of heat, precipitation and evaporation, and wind stress. The former two processes influence the density of sea water. Gravity acts on these density differences to cause large-scale thermohaline currents Wind driven ocean currents are forced by the wind stress acting on the ocean surface which indirectly causes geostrophic currents.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_21_102111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Ocean Currents and Productivity</title>
+      <description>&lt;p&gt;Ocean currents are generally divided into two categories: thermohaline currents and wind driven currents. Both types of currents are forced remotely rather than locally. Wind driven currents are initially forced by the wind stress causing water to pile up in certain locations. This produces a pressure gradient, which is then balanced by the Coriolis force and geostrophic currents develop. The gyre circulations found in the Atlantic and Pacific Oceans are wind driven currents. There is a connection between the physics of these currents and the biological productivity in the ocean. For example, productivity is greatest in areas of equatorial and coastal upwelling as nutrient rich deep water is brought to the sunlit surface.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_22_102411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - El Niño</title>
+      <description>&lt;p&gt;The El Niño/Southern Oscillation (ENSO) phenomenon is the primary mode of variability in the equatorial Pacific Ocean. It is composed of two extreme states, El Niño and La Niña. The oscillation between these states can be seen in measurements of sea surface temperature (SST), sea level pressure, thermocline depth, and easterly trade wind strength. Changes in SST and pressure lead to shifting of convective activity across the equatorial Pacific. Changes in the strength of the easterly trade winds lead to changes in the depth of the thermocline, which affect coastal upwelling offshore of South America. If upwelling is reduced, primary productivity is reduced. The effect of ENSO on convection and coastal upwelling makes it an important factor for both agriculture and fishing industries.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_23_102611.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - Ice in the Climate System</title>
+      <description>&lt;p&gt;Five types of ice in the climate system are discussed. Sea ice forms when ocean water reaches its freezing temperature of about -2°C. Sea ice is currently found in the Arctic Ocean and around Antarctica. Ice sheets form on land and are composed of compacted snow that has accumulated over time. Ice sheets spread over a land surface and can reach the ocean. If the ice continuity is maintained when the ice sheet reaches the ocean, the ice will float on the water and this is referred to as an ice shelf. Icebergs are large chunks of glaciers that break off into the ocean. They can become grounded in shallow water, but generally are moved by the wind and ocean currents. Mountain glaciers form on mountains and are typically found at high latitudes, but also occur near the equator at sufficiently high elevation.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_24_102811.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+    <item>
+      <title> - Ice and Climate Change</title>
+      <description>&lt;p&gt;Ice on earth is sensitive to climate change and ice plays a role in climate change processes. Recent trends in the Greenland ice sheet provide an important example. Over the past two decades the extent of surface melt water on the ice sheet has increased. In addition, satellites have detected a decrease in the overall mass of the Greenland Ice Sheet. Paleoclimate is also discussed in this lecture, with a focus on climate over the last 5 million years. The mid-Pliocene was a particularly warm period from 3.3-3 million years before present. The Pleistocene was a more recent cold period ending with the Last Glacial Maximum about 14,000 years before present. In comparison, the Holocene (12,000 years ago to present) has been a relatively warm stable climatic period. Geomorphology is used to determine the extent of continental ice in the past.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_25_103111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 25</guid>
+    </item>
+    <item>
+      <title> - Isotope Evidence for Climate Change</title>
+      <description>&lt;p&gt;Isotopes are used to measure past climate properties. Deuterium and oxygen 18 are the most commonly used climate proxies. Lighter isotopes evaporate more readily from the ocean, so water vapor in the atmosphere is isotopically lighter than ocean water. This vapor gets lighter still as it is transported to higher latitudes while losing mass by precipitation. These processes leave an isotopic signal of temperature and continental ice volume in ice cores and deep sea sediment cores.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_26_110211.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 26</guid>
+    </item>
+    <item>
+      <title> - Global Warming</title>
+      <description>&lt;p&gt;The issue of global warming is discussed. Recent climate change over the last half of the 20&lt;sup&gt;th&lt;/sup&gt; century is thought to be driven largely by greenhouse gas emissions, with carbon dioxide playing a large role. The carbon cycle describes the reservoirs of carbon (atmosphere, terrestrial biomass and ocean) and the exchanges that occur between these reservoirs. Inputs of carbon to the atmosphere include burning of fossil fuels and respiration from biomass. Vegetation also removes carbon from the atmosphere through photosynthesis, and a similar uptake of carbon from the atmosphere occurs in the ocean through biological processes. Residence time for carbon in the atmosphere can be computed and is estimated to be a few hundred years. Atmospheric carbon dioxide has been measured directly since the 1950s, and longer records exist over geologic time from ice core data.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_27_110411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 27</guid>
+    </item>
+    <item>
+      <title> - Global Warming II</title>
+      <description>&lt;p&gt;The current Holocene epoch is considered to be a time period of relatively stable climate compared to earlier geological periods. Still, some significant changes in temperature and sea level did occur. These climatic fluctuations include the Medieval Warm Period and the Little Ice Age, and more recently global warming. Temperature data for the 20&lt;sup&gt;th&lt;/sup&gt; century shows a strong warming from about 1970 to the present day, typically associated with anthropogenic forcing including greenhouse gas and aerosol emissions. Volcanic eruptions also caused slight variations in the climate during the 20&lt;sup&gt;th&lt;/sup&gt; century (e.g. Pinatubo in 1991). Aerosols released during a volcanic eruption are quickly distributed around the globe and act to increase the atmospheric albedo and block solar radiation. Therefore volcanic eruption signatures in climate data appear as short term decreases in temperature. General circulation models have been used to simulate the climate of the 20&lt;sup&gt;th&lt;/sup&gt; century using both natural and anthropogenic climate forcings. These models indicate that anthropogenic forcings are likely responsible for the most recent rise in temperature.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_28_110711.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 28</guid>
+    </item>
+    <item>
+      <title> - Global Warming III</title>
+      <description>&lt;p&gt;Several greenhouse gas emissions scenarios have been developed by the IPCC to determine possible affects on atmospheric greenhouse gas concentrations and related climate warming. The largest estimates show a carbon dioxide concentration of about 800ppmv by the year 2100. Lower estimates rise to 450ppmv by the year 2100. The amount of projected warming associated with these emissions scenarios range from about 2-4°C. Several possible disadvantages and advantages of such a warming are discussed, as well as possible methods to reduce global warming.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_29_111111.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 29</guid>
+    </item>
+    <item>
+      <title> - Climate Sensitivity and Human Population</title>
+      <description>&lt;p&gt;Climate sensitivity is defined as either the temperature change resulting from a doubling of atmospheric carbon dioxide concentration or the temperature change resulting from a 1W/m2 increase in radiative forcing. There are several different climate sensitivities that take into account different feedbacks in the climate system. The simplest climate sensitivity is black body sensitivity, which does not account for any feedbacks but gives the temperature change resulting just from a change in radiative forcing. The calculated climate sensitivity based only on the Stefan-Boltzmann Law is lower than the climate sensitivity calculated using both temperature data over the last 100 years and ice age data over the last ~200,000 years, indicating that feedbacks have played a role in climate sensitivity. World population is also discussed, with population trends outlined for various countries as well as trends associated with developing areas versus developed areas. The issue of sustainable population is introduced.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_30_111411.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 30</guid>
+    </item>
+    <item>
+      <title> - The Two Ozone Problems</title>
+      <description>&lt;p&gt;There are two ozone problems in the atmosphere. Tropospheric ozone in the form of photochemical smog is sometimes dangerously high whereas stratospheric ozone concentration is sometimes dangerously low. Photochemical smog is created through chemical reactions between UV radiation from the run and nitrogen oxides that are emitted from automobiles. High concentrations of tropospheric ozone are dangerous because of the damage ozone can cause to a person’s airway if it is inhaled. The EPA has specified limits of ozone concentration but several counties in the USA exceed these limits. The primary air pollutants from which ozone is created have a peak concentration twice a day typically, which is associated with rush hour times during the day.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_31_111611.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 31</guid>
+    </item>
+    <item>
+      <title> - The Ozone Layer</title>
+      <description>&lt;p&gt;Stratospheric ozone is important as protection from harmful ultraviolet solar radiation. Ozone in the stratosphere blocks almost all UVC radiation, which is extremely energetic and harmful. Ozone within the ozone layer is destroyed through chemical reactions involving chlorine atoms and the ozone molecules. The main anthropogenic source of chlorine in the atmosphere is chlorofluorocarbons (CFCs). Emissions of CFCs began to increase after 1960 and continued to increase until the 1990s. The 1987 Montreal Protocol banned the emission of CFCs as of 1994, and currently CFC emissions are nearly zero.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_32_111811.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 32</guid>
+    </item>
+    <item>
+      <title> - Energy Resources, Renewable Energy</title>
+      <description>&lt;p&gt;The various types of resources currently used for energy production are discussed. Energy is primarily used for heating, transportation, and generating electricity. Coal is burned largely to produce electricity and is a major contributor to air pollution with coal power plants emitting carbon dioxides and nitrous oxides. Another major resource used for energy is oil. It is projected that each country either has reached or will reach a peak oil use, after which oil use will decrease. Natural gas is now being obtained from shale using the extraction technique of fracting which is a recent discovery. Nuclear power gained popularity worldwide through the 1970s, however very few new power plants have been built in the last three decades following the Three Mile Island and Chernobyl episodes. Hydroelectric power is generated by forcing water flowing from high terrain through a turbine to produce electricity. There are many hydroelectric dams operating globally.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_33_112811.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 33</guid>
+    </item>
+    <item>
+      <title> - Renewable Energy</title>
+      <description>&lt;p&gt;Renewable energy sources are discussed. These include wind energy, solar energy, biomass energy and geothermal energy. Energy from wind is acquired through the use of large wind turbines. These turbines ideally need to be located in areas where there is strong wind and low atmospheric turbulence. Solar power is collected using both photovoltaic solar cells and concentrated solar power. Energy from biomass can be produced in two ways: burning biomass to generate electricity or fermentation to produce fuel ethanol. Geothermal energy is produced by pumping water below the earth’s surface into areas of hot rocks which heats the water and creates steam. This steam is then run through a turbine to produce power.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_34_113011.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 34</guid>
+    </item>
+    <item>
+      <title> - Review and Overview</title>
+      <description>&lt;p&gt;The material covered throughout the course is reviewed. Properties of air and water are discussed. Hydrostatic balance is discussed as related to the atmosphere, ocean and solid earth. Geostrophic balance is a force balance between the Coriolis force and the pressure gradient force, and applies to winds in the atmosphere as well as currents in the ocean. Several examples of equilibrium states are reviewed. Heat and mass are transported by fluid motion in the earth system through winds, ocean currents and rivers. Mixing, dilution and concentration is discussed as related to ocean and atmosphere pollutants as well as salinity in the ocean. Finally, symmetry between the northern and southern hemispheres is discussed, focusing on differences in land mass, Coriolis force and the seasons.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/gg140/mp3/gg140_35_120211.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 35</guid>
+    </item>
+  </channel>
+</rss>

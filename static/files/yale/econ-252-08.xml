@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Financial Markets (2008)</title>
+    <itunes:owner>
+        <itunes:email>Yale Open Courses</itunes:email>
+    </itunes:owner>
+    <itunes:author>Professor Robert J. Shiller</itunes:author>
+    <description>&lt;p&gt;Financial institutions are a pillar of civilized society, supporting people in their productive ventures and managing the economic risks they take on. The workings of these institutions are important to comprehend if we are to predict their actions today and their evolution in the coming information age. The course strives to offer understanding of the theory of finance and its relation to the history, strengths and imperfections of such institutions as banking, insurance, securities, futures, and other derivatives markets, and the future of these institutions over the next century.&lt;/p&gt;</description>
+    <itunes:image href="https://oyc.yale.edu/sites/default/files/shiller1_1.jpg"/>
+    <language>en-us</language>
+    <link>https://oyc.yale.edu/economics/econ-252-08</link>
+        <item>
+      <title> - Finance and Insurance as Powerful Forces in Our Economy and Society</title>
+      <description>&lt;p&gt;Professor Shiller provides a description of the course, Financial Markets, including administrative details and the topics to be discussed in each lecture. He briefly discusses the importance of studying finance and each key topic. Lecture topics will include: behavioral finance, financial technology, financial instruments, commercial banking, investment banking, financial markets and institutions, real estate, regulation, monetary policy, and democratization of finance.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_01_011408.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 1</guid>
+    </item>
+    <item>
+      <title> - The Universal Principle of Risk Management: Pooling and the Hedging of Risks</title>
+      <description>&lt;p&gt;Statistics and mathematics underlie the theories of finance. Probability Theory and various distribution types are important to understanding finance. Risk management, for instance, depends on tools such as variance, standard deviation, correlation, and regression analysis. Financial analysis methods such as present values and valuing streams of payments are fundamental to understanding the time value of money and have been in practice for centuries.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_02_011608.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 2</guid>
+    </item>
+    <item>
+      <title> - Technology and Invention in Finance</title>
+      <description>&lt;p&gt;Technology and innovation underlie finance. In order to manage risks successfully, particularly long-term, we must pool large amounts of risk among many, diverse people and overcome barriers such as moral hazard and erroneous framing. Inventions such as insurance contracts and social security, and information technology all the way from such simple things as paper, and the postal service to modern computers have helped to manage risks and to encourage financial systems to address issues pertaining to risk. The tax and welfare system is one of the most important risk management systems.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_03_011808.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 3</guid>
+    </item>
+    <item>
+      <title> - Portfolio Diversification and Supporting Financial Institutions (CAPM Model)</title>
+      <description>&lt;p&gt;Portfolio diversification is the most fundamental concept of risk management. The allocation of financial resources in stocks, bonds, riskless, assets, oil and other assets determine the expected return and risk of a portfolio. Taking account of covariances and expected returns, investors can create a diversified portfolio that maximizes expected return for a given level of risk. An important mission of financial institutions is to provide portfolio-diversification services.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_04_012808.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 4</guid>
+    </item>
+    <item>
+      <title> - Insurance: The Archetypal Risk Management Institution</title>
+      <description>&lt;p&gt;Insurance provides significant risk management to a broad public, and is an essential tool for promoting human welfare. By pooling large numbers of independent or low-correlated risks, insurance providers can minimize overall risk. The risk management is tailored to individual circumstances and reflects centuries of insurance industry experience with real risks and with moral hazard and selection bias issues. Probability theory and statistical tools help to explain how insurance companies use risk pooling to minimize overall risk. Innovation and government regulation have played important roles in the formation and oversight of insurance institutions.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_05_013008.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 5</guid>
+    </item>
+    <item>
+      <title> - Efficient Markets vs. Excess Volatility</title>
+      <description>&lt;p&gt;Several theories in finance relate to stock price analysis and prediction. The efficient markets hypothesis states that stock prices for publicly-traded companies reflect all available information. Prices adjust to new information instantaneously, so it is impossible to “beat the market.” Furthermore, the random walk theory asserts that changes in stock prices arise only from unanticipated new information, and so it is impossible to predict the direction of stock prices. Using statistical tools, we can attempt to test the hypotheses and to predict future stock prices. These tests show that efficient markets theory is a half-truth: it is difficult but not impossible for some people to beat the market.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_06_020108.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 6</guid>
+    </item>
+    <item>
+      <title> - Behavioral Finance: The Role of Psychology</title>
+      <description>&lt;p&gt;Behavioral Finance is a relatively recent revolution in finance that applies insights from all of the social sciences to finance. New decision-making models incorporate psychology and sociology, among other disciplines, to explain economic and financial phenomenon, such as erratic stock price variations. Psychological patterns such as overconfidence and perceived kinks in the value function seem to impact financial decision-making, but are not included in classical theories such as the Expected Utility Theory. Kahneman and Tversky’s Prospect Theory addresses such issues and sheds light on irrational deviations from traditional decision-making models.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_07_020408.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 7</guid>
+    </item>
+    <item>
+      <title> - Human Foibles, Fraud, Manipulation, and Regulation</title>
+      <description>&lt;p&gt;Regulation of financial and securities markets is intended to protect investors while still enabling them to make personal investment decisions. Psychological phenomena, such as magical thinking, overconfidence, and representativeness heuristic can cause deviations from rational behavior and distort financial decision-making. However, regulation and regulatory bodies, such as the SEC, FDIC, and SIPC, most of which were created just after the Great Depression, are intended to help prevent the manipulation of investors’ psychological foibles and maintain trust in the markets so that a broad spectrum of investors will continue to participate.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_08_020608.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 8</guid>
+    </item>
+    <item>
+      <title> - Guest Lecture by David Swensen</title>
+      <description>&lt;p&gt;David Swensen, Yale’s Chief Investment Officer and manager of the University’s endowment, discusses the tactics and tools that Yale and other endowments use to create long-term, positive investment returns. He emphasizes the importance of asset allocation and diversification and the limited effects of market timing and security selection. Also, the extraordinary returns of hedge funds, one of the more recent phenomena of portfolio management, should be looked at closely, with an eye for survivorship and back-fill biases.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_09_021308.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 9</guid>
+    </item>
+    <item>
+      <title> - Debt Markets: Term Structure</title>
+      <description>&lt;p&gt;The markets for debt, both public and private far exceed the entire stock market in value and importance. The U.S. Treasury issues debt of various maturities through auctions, which are open only to authorized buyers. Corporations issue debt with investment banks as intermediaries. The interest rates are not set by the Treasury, the corporations or the investment bankers, but are determined by the market, reflecting economic forces about which there are a number of theories. The real and nominal rates and the coupons of a bond determine its price in the market. The term structure, which is the plot of yield-to-maturity against time-to-maturity indicates the value of time for points in the future. Forward rates are the future spot rates that can be calculated using today’s bond prices. Finally, indexed bonds, which are indexed to inflation, offer the safest asset of all and their price reveals a fundamental economic indicator, the real interest rate.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_10_021508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 10</guid>
+    </item>
+    <item>
+      <title> - Stocks</title>
+      <description>&lt;p&gt;The stock market is the information center for the corporate sector. It represents individuals’ ownership in publicly-held corporations. Although corporations have a variety of stakeholders, the shareholders of a for-profit corporation are central since the company is ultimately responsible to them. Companies offer dividends, stock repurchases and stock dividends to give profits back to shareholders or to signal information. Companies can also take on debt to raise capital, creating leverage. The Modigliani-Miller theory of a company’s leverage in its simplest form implies the leverage ratio doesn’t matter, but including bankruptcy costs and tax effects give us a positive theory of the ratio.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_11_022008.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 11</guid>
+    </item>
+    <item>
+      <title> - Real Estate Finance and Its Vulnerability to Crisis</title>
+      <description>&lt;p&gt;Real Estate is the biggest asset class and of great importance for both individuals and institutional investors. An array of economic and psychological factors impact real estate investment decisions and the public has changing ideas of real estate as a profitable investment. People’s demand to buy a home by taking on long-term debt, called a mortgage, is often tied with the overall health of the economy and financial markets. In recessions, home buying tends to fall and the opposite holds in a strong economy. Commercial real estate, held indirectly by the public through partnerships and real estate investment trusts (REITs), is vulnerable to similar speculative activity. The most recent real estate boom illustrates the speculative nature of real estate, and its relation to financial and economic crises.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_12_022508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 12</guid>
+    </item>
+    <item>
+      <title> - Banking: Successes and Failures</title>
+      <description>&lt;p&gt;Banks, which were first created in primitive form by goldsmiths hundreds of years ago, have evolved into central economic institutions that manage the allocation of resources, channel information about productive activities, and offer the public convenient investment vehicles. Although there are several types of banking institutions, including credit unions and Saving and Loan Associations, commercial banks are the largest and most important in the banking system. Banks are designed to address three significant problems in capital markets: adverse selection, moral hazard, and liquidity. Banks make money by borrowing long and lending short and use fractional reserves to lend more funds than are deposited. History has seen numerous problems in banks, including bank runs and insolvency. Government support and regulation, such as those implemented via the Basel Accord, as well as rating agencies help to ensure that investors trust the banks with which they have relations.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_13_030308.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 13</guid>
+    </item>
+    <item>
+      <title> - Guest Lecture by Andrew Redleaf</title>
+      <description>&lt;p&gt;Andrew Redleaf, a Yale graduate and manager of Whitebox Advisors, a hedge fund, discusses his experience with financial markets. He addresses one of the fundamental questions in finance–whether or not markets are efficient–and concludes that although they don’t seem to be efficient, beating the market is very difficult. Mr. Redleaf discusses his thoughts about psychological barriers that make markets inefficient. He also comments on his beliefs regarding risk management and how people are compensated for mitigating risks, rather than for taking on risk as is often perceived. He ends by answering several questions from students.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_14_030508.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 14</guid>
+    </item>
+    <item>
+      <title> - Guest Lecture by Carl Icahn</title>
+      <description>&lt;p&gt;Mr. Carl Icahn, a prominent activist investor in corporate America, talks about his career and how he became interested in finance and involved in shareholder activism. He discusses his thoughts about today’s economy and American businesses and their inherent threats and opportunities. He believes that the biggest challenge facing corporate America is weak management and that today’s CEOs, with exceptions, might not be the most capable of leading global companies. He sees opportunities for current, intelligent college students to succeed in the corporate world if they work hard and can identify valuable business pursuits.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_15_032408.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 15</guid>
+    </item>
+    <item>
+      <title> - The Evolution and Perfection of Monetary Policy</title>
+      <description>&lt;p&gt;Central Banks, originally created as bankers’ banks, implement monetary policy using their leverage over the supply of money and credit standards. Since the Bank of England was founded in 1694, through the gold standard which lasted until the 1930s, and into modern times, central banks have pursued monetary policy to stabilize the banking system. Central banks monitor currency flows and inflation, acting when crises, such as bank runs, emerged. More recently, central banks have taken an increasingly expansive role in stabilizing economic fluctuations. In the yet to be confirmed current recession, the Federal Reserve has used open market operations and innovative financial arrangements to try to forestall the recession and bail out failing financial institutions.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_16_032608.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 16</guid>
+    </item>
+    <item>
+      <title> - Investment Banking and Secondary Markets</title>
+      <description>&lt;p&gt;First, Professor Shiller discusses today’s changing financial system and recent market stabilization reform introduced by U.S. Treasury Secretary Henry Paulson. The financial system is inherently unstable and would benefit from more surveillance, particularly for consumer protection issues, given the recent subprime mortgage crisis. Although this particular reform might not be successful, more regulators and policymakers are talking about changing the stabilization system and will likely alter the role of the Fed in the future.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_17_040208.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 17</guid>
+    </item>
+    <item>
+      <title> - Professional Money Managers and Their Influence</title>
+      <description>&lt;p&gt;Most people are not very good at dealing in financial markets. Professional money managers, such as financial advisors and financial planners, assist individuals in matters of personal finance. FINRA and the SEC monitor the activities of these managers in order to protect individual investors. Mutual funds, exchange traded funds also exist to assist individual investments, and pension funds provide further services. These investment institutions help people to put money in diversified portfolios and, in some cases, reap some tax benefits for funding their retirement income.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_18_040708.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 18</guid>
+    </item>
+    <item>
+      <title> - Brokerage, ECNs, etc.</title>
+      <description>&lt;p&gt;The exchanges in which stocks and other securities are traded serve an important function in finance. They bring together people interested in buying and selling securities in order to create a universal price. Brokers and dealers are also an important part of the system, their methods and standards are ultimately behind the success of the exchanges. Many information innovations have advanced the functioning of exchanges, going all the way back to the ticker machine, which was created to communicate the price of securities at a point in time to all interested parties. Electronic Communication Networks and automatic exchanges, more generally, have significantly impacted the exchange of securities and few exchanges still have physical trading floors.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_19_040908.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 19</guid>
+    </item>
+    <item>
+      <title> - Guest Lecture by Stephen Schwarzman</title>
+      <description>&lt;p&gt;Stephen Schwarzman, Co-Founder of Blackstone Group, a private equity firm, speaks about his experience in the industry. He discusses his thoughts on global finance, particularly at such an interesting and challenging point in the history of financial institutions. Although the near future might be rough for the United States and economies around the globe, capital does tend to come back and regulators are busy figuring out how best to put safeguards on the system. He also offers career advice and mentions some of the surprises he came across upon entering the world of finance.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_20_041108.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 20</guid>
+    </item>
+    <item>
+      <title> - Forwards and Futures</title>
+      <description>&lt;p&gt;Futures markets were started in Osaka, Japan in the 1600s to create an authoritative and meaningful market price for agricultural products, using standardized contracts. Since then, futures markets have been copied around the world to allow the hedging various future risks, financial and other. In the United States, the Chicago Mercantile Exchange and the Chicago Board of Trade have been the most popular futures trading markets. Although futures markets are changing and becoming more electronic, they are still important risk management tools for farmers and present financial opportunities for all manner of hedgers and arbitrageurs.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_21_041408.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 21</guid>
+    </item>
+    <item>
+      <title> - Stock Index, Oil and Other Futures Markets</title>
+      <description>&lt;p&gt;Futures markets have expanded far beyond their initial application to farmer’s planting and harvest cycles. These markets now allow investors and traders to set prices for a broad spectrum of assets and for a whole term structure stretching into the distant future. Some of these markets are often priced according to simple fair-value formulae, others are not. Futures markets can be in backwardation, where the future price is lower than the present, spot price. They can also be in contango, where the price rises with maturity and is higher in the future than it is today. The S&amp;amp;P/Case-Shiller Home Price Index is a recent invention that has transferred the mechanics of futures markets to the prices of single-family homes in ten real estate markets, in an effort to create a national market for residential real estate.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_22_041608.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 22</guid>
+    </item>
+    <item>
+      <title> - Options Markets</title>
+      <description>&lt;p&gt;Options introduce an essential nonlineary into portfolio management. They are contracts between buyers and writers, who agree on exercise prices and dates at which the buyer can buy or sell the underlying (such as a stock). Options are priced based on the price and volatility of the underlying asset as well as the duration of the option contract. The Black-Scholes options pricing model is one of the most famous equations in finance and offers a useful first approximation for prices for option contracts. Options exchanges and futures exchanges both are involved in creating a liquid and transparent market for options. Options are not just for stocks; they are also important for other asset classes, such as real estate.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_23_042108.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 23</guid>
+    </item>
+    <item>
+      <title> - Making It Work for Real People: The Democratization of Finance</title>
+      <description>&lt;p&gt;Professor Shiller, in his final lecture, reviews some of the most important tools for individual risk management. Significant inequality in domestic and international communities has created a need for social insurance programs, such as those created in Germany in the late 1800s. The tax system, bankruptcy laws, and government insurance programs are used to manage risk of personal wealth. However, each of these inventions must take account of psychological factors, such as moral hazard, in order to be effective without eliminating incentives to participate in the workforce, or other negative side effects. With regard to careers, including those in finance, young people should frame decisions with morality and purpose in mind, and with a broad perspective of both.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_24_042308.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 24</guid>
+    </item>
+    <item>
+      <title> - Okun Lecture: Learning from and Responding to Financial Crisis, Part I (Guest Lecture by Lawrence Summers)</title>
+      <description>&lt;p&gt;Professor Summers, former U. S. Treasury Secretary and former President of Harvard University, in this the first of two lectures in honor of former Yale Professor and Council of Economic Advisors chairman Arthur Okun, offers thoughts on the role of monetary policy in economic fluctuations, past and present. In the “Okun period,” ending about when Okun died in 1980, the monetary authorities were very much involved in actually creating economic contractions. Inflation would repeatedly get out of control, the Fed would hit the brakes, and the economy would slow. But, that is not the story of the economic cycles of the last two decades. Recent economic cycles appear to be connected with factors endogenous to the financial system, such as bubbles or cycles of complacency among lending institutions. Summers argues that to understand the financial markets and the economy, we must consider models of multiple equilibria, such as bank run models, where a change in confidence may shift the economy drastically without any change in fundamentals.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_25_042908.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 25</guid>
+    </item>
+    <item>
+      <title> - Okun Lecture: Learning from and Responding to Financial Crisis, Part II (Guest Lecture by Lawrence Summers)</title>
+      <description>&lt;p&gt;In the second of his two lectures in honor of Arthur Okun, Professor Summers points out that real interest rates have been very low in the current subprime crisis. This indicates that the shock to the economy was more a financial breakdown shock than a disinflation shock. But financial breakdown shocks are not necessarily very harmful to the economy, so long as financial intermediation capital is not destroyed. In a financial crisis like the present one, financial firms are likely to take the step of decreasing their leverage, often by contracting loans, which creates its own risks for the economy. Regulators should place pressure on financial institutions to raise their capital and should intervene in near foreclosure situations, but should not attempt to support housing prices.&lt;/p&gt;</description>
+      <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/econ252/mp3/econ252_26_043008.mp3"
+                 type="audio/mp3" length="-1"/>
+      <itunes:duration>3600</itunes:duration>
+      <guid isPermaLink="false">Lecture 26</guid>
+    </item>
+  </channel>
+</rss>

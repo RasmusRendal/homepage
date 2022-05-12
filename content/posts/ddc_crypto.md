@@ -149,7 +149,7 @@ DES has a very weird property called the complementary property:
 $$ E_K(M) = \overline{E_{\bar{K}}(\bar{M})} $$
 If you take the complement of the key and message before encrypting, it will have the same result as if you just took the complemnet of the result.
 
-Combined with the key schedule above, that means that if you encrypted \\(m_1 \mid m_2 \mid \bar{m_3} \mid \bar{m_4}\\), the output would be \\(c_1 \mid c_2 \mid \bar{c_1} \mid \bar{c_2}\\), with \\(\mid\\) representing concatenation.
+Combined with the key schedule above, that means that if you encrypt \\(m_1 \mid m_2 \mid \bar{m_1} \mid \bar{m_2}\\), the output would be \\(c_1 \mid c_2 \mid \bar{c_1} \mid \bar{c_2}\\), with \\(\mid\\) representing concatenation.
 
 ## The compression step
 The final step of the hashing algorithm, and the part that allows us to really break it is the compression step.
